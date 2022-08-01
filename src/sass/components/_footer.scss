@@ -1,0 +1,19 @@
+#footer{
+  padding:10px 0;
+  text-align:center;
+  @include fsize(16);
+  p{
+    margin:0;
+  }
+  .old{
+    a{
+      color:inherit;
+      &:hover{
+        text-decoration:none;
+      }
+    }
+  }
+@include contentSP{
+  @include fsize(12);
+}
+}

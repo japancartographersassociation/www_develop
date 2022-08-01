@@ -1,0 +1,77 @@
+//=============================================
+// src/sass/_mixins.scss
+// プロジェクト内で使用するmixin郡
+//=============================================
+@mixin contentPC{
+  @media (min-width:map-get($grid-breakpoints, 'md')){
+    @content;
+  }
+}
+@mixin contentSP{
+  @media (max-width:map-get($grid-breakpoints, 'md')){
+    @content;
+  }
+}
+@mixin content320{
+  @media (max-width:320px){
+    @content;
+  }
+}
+
+@mixin fsize($fSize: 16) {
+  font-size: #{math.div($fSize, 16)}rem;
+}
+
+@mixin fbold {
+  font-weight:700;
+}
+
+@mixin hopacity {
+  text-decoration:none;
+  @include contentPC{
+    transition:opacity .2s;
+    &:hover{
+      opacity:.8;
+    }
+  }
+}
+
+@mixin f-notoserifjp{
+  font-family: 'Noto Serif JP', serif;
+}
+
+@mixin f-kaiseidecol{
+  font-family: 'Kaisei Decol', serif;
+}
+
+@mixin placeholder($color) {
+  &::placeholder {
+    color: $color;
+  }
+  // IE
+  &:-ms-input-placeholder {
+    color: $color;
+  }
+  // Edge
+  &::-ms-input-placeholder {
+    color: $color;
+  }
+}
+
+@keyframes show{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+@keyframes hide{
+  from{
+    opacity: 1;
+  }
+  to{
+    opacity: 0;
+  }
+}
