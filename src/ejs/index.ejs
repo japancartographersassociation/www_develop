@@ -1,14 +1,16 @@
 <%
-var dir = './';
-var params = {};include(dir + 'includes/_data', {params: params});
+var dir = '.';
+var params = {};
+params.dir = dir;
+include(dir + '/includes/_data', {params: params});
 params.page_title = '';
 params.page_keywords = '';
 params.page_description = '';
 params.page_url = '';
 params.body_class = 'page--top';
 %>
-<%- include(dir + 'includes/_header.ejs', {params: params}) %>
-<%- include(dir + 'includes/_header_content.ejs', {params: params}) %>
+<%- include(dir + '/includes/_header.ejs', {params: params}) %>
+<%- include(dir + '/includes/_header_content.ejs', {params: params}) %>
 
 
 <main>
@@ -221,5 +223,5 @@ params.body_class = 'page--top';
 
 </main>
 
-<%- include(dir + 'includes/_footer_content', {params: params}) %>
-<%- include(dir + 'includes/_footer', {params: params}) %>
+<%- include(dir + '/includes/_footer_content', {params: params}) %>
+<%- include(dir + '/includes/_footer', {params: params}) %>
