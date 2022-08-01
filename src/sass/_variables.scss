@@ -1,0 +1,74 @@
+// Gray
+$gray-400: #000000;
+$gray-600: #98A6B5;
+$gray-700: #707F89;
+$gray-900: #222222;
+
+// Colors
+$blue: #1E335C;
+// $indigo: #6574cd;
+// $purple: #9561e2;
+// $pink: #f66d9b;
+// $red: #e91c24;
+$orange: #FF8C3C;
+$yellow: #F1C021;
+// $green: #71b954;
+// $teal: #57cbd7;
+
+// $secondary:         #005fd4 !default;
+// $info:              #e5eef3 !default;
+$body-color: $gray-400;
+
+// Grid breakpoints
+//
+// Define the minimum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  sm: 540px,
+  md: 750px,
+  lg: 970px,
+  xl: 1170px
+) !default;
+
+// Grid columns
+//
+// Set the number of columns and specify the width of the gutters.
+
+$grid-columns:                60 !default;
+$grid-gutter-width:           30px !default;
+
+
+
+// Border radius
+// $border-radius:               0 !default;
+// $border-radius-lg:            0 !default;
+// $border-radius-sm:            0 !default;
+
+
+// // Modal
+// $modal-lg:                          1000px !default;
+
+
+// Forms
+$form-label-font-weight:            700;
+
+$form-select-padding-y:             12px;
+$form-select-indicator-color:       #98A6B5;
+$form-select-border-color:          #444;
+$form-select-border-radius:         0;
+
+// Buttons
+$btn-focus-box-shadow: none;

@@ -1,0 +1,21 @@
+// uses
+@use "sass:math";
+
+// variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// override
+@import 'override';
+
+// libs
+@import 'slick-carousel/slick/slick';
+
+// origin
+@import 'mixins';
+@import 'utilities';
+
+@import "components/**";
+@import "pages/**";

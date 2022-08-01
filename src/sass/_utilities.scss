@@ -1,0 +1,25 @@
+//=============================================
+// src/sass/_utilities.scss
+// 基本構成に関するスタイルを記述
+//=============================================
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+  word-wrap:break-word;
+  box-sizing:border-box;
+}
+
+html{
+  font-size:16px;
+}
+
+body{
+  font: 14px/1.5 "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  position:relative;
+  padding-top:52px;
+@include contentSP{
+  padding-top:56px;
+}
+}
+
