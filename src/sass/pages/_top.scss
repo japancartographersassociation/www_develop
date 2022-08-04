@@ -97,6 +97,16 @@ body.page--top{
       line-height:2;
     }
   }
+  .tw-block{
+    width: 50%;
+    margin: 0px auto 30px;
+    text-align: center;
+    .tw--timeline{
+      max-height: 400px;
+      overflow-y: scroll;
+      margin-bottom: 20px;
+    }
+  }
   .main-list{
     margin-bottom:80px;
     .list-block{
@@ -184,6 +194,9 @@ body.page--top{
     .hd-text{
       @include fsize(13);
     }
+  }
+  .tw-block{
+    width:100%;
   }
   .main-list{
     margin-bottom:45px;
