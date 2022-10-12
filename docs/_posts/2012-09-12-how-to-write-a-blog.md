@@ -13,7 +13,7 @@ tags:
 
 # 【日本地図学会２０２２年度定期大会のお知らせ（第3報）】
 
-![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}
+![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}
 
 2022年度定期大会を下記の通り開催いたします。<br>
 会員の皆様には奮ってご参加いただきたく、ご協力をよろしくお願い申し上げます。<br>
@@ -31,15 +31,15 @@ tags:
 {:.main-table}
 {% include inc_peatix_table.html %}
 
-|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|
+|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
 {:.image-table}
 
-|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|
+|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
 {:.image-table}
 
-|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|![サンプルイメージ](/assets/img/dummy/image01.png){:.w-100}|
+|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |||注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
 {:.image-table}
 
