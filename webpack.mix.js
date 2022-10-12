@@ -33,15 +33,3 @@ mix
       files: 'docs/**/*',
     }
   )
-
-
-
-glob.sync(
-  'src/ejs/**/*.ejs',
-  {ignore: 'src/ejs/**/_*.ejs'}
-).map((file) => {
-  const index = file.indexOf('/ejs')
-  const dir = file.slice(index + 1)
-  const path = dir.split("/").reverse().slice(1).reverse().slice(1).join("/")
-  mix.ejs(file, 'docs/' + path)
-})

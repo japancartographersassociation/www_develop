@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+---
+title: トップページ
+---
 
-You can use the [editor on GitHub](https://github.com/japancartographersassociation/www_develop/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h2>カテゴリ・tournament抽出</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories.first == 'tournament' %}
+    <li>
+      <div><b>サムネイル(thumbnail):</b> <img src="{{ post.thumbnail }}" style="width:100px;" alt=""></div>
+      <div><b>日付(date):</b> {{ post.date | date: "%y/%m/%d" }}</div>
+      <div><b>カテゴリー(tags):</b> [{{ post.tags.first }}]</div>
+      <div><b>タイトル(title):</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div><b>要約文(description):</b> {{ post.description }}</div>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h2>カテゴリ・jcacjaward抽出</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories.first == 'jcacjaward' %}
+    <li>
+      <div><b>アイコン(thumbnail):</b> <img src="{{ post.thumbnail }}" style="width:100px;" alt=""></div>
+      <div><b>賞名(title):</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div>
+        <b>受賞者名(members):</b> <br>
+        {% for member in post.members %}
+        {{ member }}<br>
+        {% endfor %}
+      </div>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/japancartographersassociation/www_develop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2>カテゴリ・honorarymembers抽出</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories.first == 'honorarymembers' %}
+    <li>
+      <div><b>アイコン(thumbnail):</b> <img src="{{ post.thumbnail }}" style="width:100px;" alt=""></div>
+      <div><b>賞名(title):</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div>
+        <b>受賞者名(members):</b> <br>
+        {% for member in post.members %}
+        {{ member }}<br>
+        {% endfor %}
+      </div>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
