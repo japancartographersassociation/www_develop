@@ -9,7 +9,7 @@ title: トップページ
   {% for post in site.posts %}
     {% if post.categories.first == 'tournament' %}
     <li>
-      <div><b>サムネイル(thumbnail):</b> <img src="{{ post.thumbnail | relatvie_url }}" style="width:100px;" alt=""></div>
+      <div><b>サムネイル(thumbnail):</b> <img src="{{ post.thumbnail | relatvie_url }}" style="width:100px;" alt="{{ post.thumbnail | relatvie_url }}"></div>
       <div><b>日付(date):</b> {{ post.date | date: "%y/%m/%d" }}</div>
       <div><b>カテゴリー(tags):</b> [{{ post.tags.first }}]</div>
       <div><b>タイトル(title):</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
@@ -25,7 +25,7 @@ title: トップページ
   {% for post in site.posts %}
     {% if post.categories.first == 'jcacjaward' %}
     <li>
-      <div><b>アイコン(thumbnail):</b> <img src="{{ post.thumbnail | relatvie_url }}" style="width:100px;" alt=""></div>
+      <div><b>アイコン(thumbnail):</b> <img src="{{ post.thumbnail | relatvie_url }}" style="width:100px;" alt="{{ base.url + post.thumbnail }}"></div>
       <div><b>賞名(title):</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
       <div>
         <b>受賞者名(members):</b> <br>
