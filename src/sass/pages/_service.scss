@@ -1,0 +1,322 @@
+.page--service{
+  .journal-block{
+    background:white;
+    padding:40px 75px;
+    margin:40px auto;
+    h3{
+      @include fsize(34);
+      @include fbold;
+      border-bottom:1px solid #d4d4d4;
+      padding:20px 0;
+      margin:0 auto 40px;
+    }
+    p{
+      @include fsize(16);
+      line-height:1.6;
+    }
+  }
+
+  .latestjournal-table{
+    width:100%;
+    border:1px solid #d4d4d4;
+    margin:30px 0;
+    @include fsize(16);
+    tr{
+      td{
+        background:white;
+        padding:20px;
+        border:1px solid #d4d4d4;
+      }
+      &.bg-grey{
+        td{
+          background:#f5f5f5;
+        }
+      }
+    }
+  }
+
+  .latestjournal-backnumber{
+    margin:20px 0;
+    p{
+      a{
+        display:inline-block;
+        @include fsize(16);
+        padding:0 20px 0 0;
+        background:url(../img/icon/pdf_red.svg) no-repeat right center;
+        background-size:15px auto;
+        margin-right:30px;
+      }
+    }
+  }
+
+  .attachedmaps-list{
+    list-style:none;
+    padding:0;
+    margin:30px -20px;
+    display:flex;
+    flex-wrap:wrap;
+    li{
+      width:25%;
+      padding:20px;
+    }
+  }
+
+  .interview-list{
+    list-style:none;
+    padding:0;
+    margin:30px -20px;
+    display:flex;
+    flex-wrap:wrap;
+    li{
+      width:25%;
+      padding:20px;
+      a{
+        display:block;
+        color:inherit;
+        text-decoration:none;
+        &:hover{
+          opacity:.8;
+        }
+        .title{
+          @include fsize(20);
+          @include fbold;
+          line-height:1.5;
+          margin-top:20px;
+        }
+        .text{
+          @include fsize(16);
+          line-height:1.75;
+          margin-top:20px;
+        }
+      }
+    }
+    &.colomun-3{
+      li{
+        width:33.33333%;
+      }
+    }
+  }
+
+  .monumento-iframe{
+    padding-top:78%;
+    position:relative;
+    margin:30px auto;
+    iframe{
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    }
+  }
+
+  .top-menus{
+    display:flex;
+    flex-wrap:wrap;
+    margin:30px -20px;
+    .menu-box{
+      width:25%;
+      padding:20px;
+      .menu-box-inner{
+        background:white;
+        padding:20px;
+        height:100%;
+        position:relative;
+        .menu-title{
+          @include fsize(24);
+          @include fbold;
+        }
+        .menu-text{
+          @include fsize(16);
+          line-height:1.6;
+          margin-top:15px;
+        }
+        .menu-button{
+          position:absolute;
+          left:20px;
+          bottom:20px;
+          width:calc(100% - 40px);
+        }
+        .menu-links{
+          list-style:none;
+          padding:0;
+          margin:20px 0 0;
+          li{
+            a{
+              @include fsize(16);
+              line-height:1.6;
+              .icon-pdf{
+                display:inline-block;
+                width:12px;
+                height:15px;
+                background:url(../img/icon/pdf_red.svg) no-repeat center center;
+                background-size:cover;
+                margin-left:5px;
+                vertical-align:-1px;
+              }
+              .icon-doc{
+                display:inline-block;
+                width:12px;
+                height:15px;
+                background:url(../img/icon/doc_red.svg) no-repeat center center;
+                background-size:cover;
+                margin-left:5px;
+                vertical-align:-1px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .button-discord{
+    width:250px;
+    margin:30px auto;
+    a{
+      &:hover{
+        opacity:.8;
+      }
+    }
+  }
+
+@media (max-width:map-get($grid-breakpoints, 'xl')){
+  .top-menus{
+    .menu-box{
+      width:50%;
+      .menu-box-inner{
+        min-height:290px;
+      }
+    }
+  }
+
+  .attachedmaps-list{
+    li{
+      width:50%;
+    }
+  }
+
+  .interview-list{
+    li{
+      width:50%;
+    }
+  }
+}
+
+@include contentSP{
+  .journal-block{
+    padding:10px 20px;
+    margin:20px auto;
+    h3{
+      @include fsize(21);
+      @include fbold;
+      margin:0 auto 20px;
+    }
+    p{
+      @include fsize(14);
+    }
+  }
+
+  .latestjournal-table{
+    width:300%;
+    margin:20px 0;
+    @include fsize(14);
+  }
+
+  .latestjournal-backnumber{
+    p{
+      margin:0;
+      a{
+        @include fsize(14);
+        margin:5px 20px 5px 0;
+      }
+    }
+  }
+
+  .attachedmaps-list{
+    margin:30px 0;
+    display:block;
+    li{
+      width:100%;
+      padding:0 0 20px;
+    }
+  }
+
+  .interview-list{
+    margin:30px 0;
+    display:block;
+    li{
+      width:100%;
+      padding:0 0 20px;
+      a{
+        .title{
+          @include fsize(18);
+          margin-top:10px;
+        }
+        .text{
+          @include fsize(14);
+          margin-top:10px;
+        }
+      }
+    }
+    &.colomun-3{
+      li{
+        width:100%;
+      }
+    }
+  }
+
+  .monumento-iframe{
+    margin:20px -20px;
+    iframe{
+      margin:30px auto;
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    }
+  }
+
+  .top-menus{
+    display:block;
+    margin:30px 0;
+    .menu-box{
+      width:100%;
+      padding:10px 0;
+      .menu-box-inner{
+        min-height:0;
+        .menu-title{
+          @include fsize(21);
+        }
+        .menu-text{
+          @include fsize(14);
+        }
+        .menu-button{
+          position:static;
+          width:100%;
+          margin-top:20px;
+        }
+        .menu-links{
+          li{
+            a{
+              @include fsize(14);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .button-discord{
+    width:250px;
+    margin:30px auto;
+    a{
+      &:hover{
+        opacity:.8;
+      }
+    }
+  }
+
+}
+}

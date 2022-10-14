@@ -11,6 +11,9 @@
 <meta property="og:title" content="{{ page.title }}"/>
 <meta property="og:description" content=""/>
 <meta property="og:url" content=""/>
+{% if page.noindex == true %}
+<meta name="robots" content="noindex">
+{% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}">
 </head>
 <body class="page--{{ page.bodyclass }}">

@@ -19,7 +19,7 @@
 
 // HALF GUTTER WIDTH ON XS
 @media (max-width: map-get($grid-breakpoints, sm)){
-  $xs-gutter-width: math.div($grid-gutter-width, 30) * 20;
+  $xs-gutter-width: math.div($grid-gutter-width, 40) * 20;
   .container{
     padding-left: $xs-gutter-width;
     padding-right: $xs-gutter-width;
