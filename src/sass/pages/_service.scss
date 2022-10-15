@@ -145,24 +145,6 @@
             a{
               @include fsize(16);
               line-height:1.6;
-              .icon-pdf{
-                display:inline-block;
-                width:12px;
-                height:15px;
-                background:url(../img/icon/pdf_red.svg) no-repeat center center;
-                background-size:cover;
-                margin-left:5px;
-                vertical-align:-1px;
-              }
-              .icon-doc{
-                display:inline-block;
-                width:12px;
-                height:15px;
-                background:url(../img/icon/doc_red.svg) no-repeat center center;
-                background-size:cover;
-                margin-left:5px;
-                vertical-align:-1px;
-              }
             }
           }
         }

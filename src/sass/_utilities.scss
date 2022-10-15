@@ -132,6 +132,11 @@ body{
     position:relative;
     padding:15px 0;
     margin:0 auto 20px;
+    small{
+      @include fsize(24);
+      display:inline-block;
+      margin-left:20px;
+    }
     &:before{
       content:"";
       position:absolute;
@@ -167,6 +172,25 @@ body{
   .top-section{
     margin:50px auto 80px;
   }
+
+  .icon-pdf{
+    display:inline-block;
+    width:12px;
+    height:15px;
+    background:url(../img/icon/pdf_red.svg) no-repeat center center;
+    background-size:cover;
+    margin-left:5px;
+    vertical-align:-1px;
+  }
+  .icon-doc{
+    display:inline-block;
+    width:12px;
+    height:15px;
+    background:url(../img/icon/doc_red.svg) no-repeat center center;
+    background-size:cover;
+    margin-left:5px;
+    vertical-align:-1px;
+  }
 @include contentSP{
   main{
     padding:20px 0;
@@ -188,6 +212,11 @@ body{
   h2{
     @include fsize(21);
     margin:0 auto 10px;
+    small{
+      @include fsize(16);
+      display:block;
+      margin-left:0;
+    }
   }
   h3{
     @include fsize(18);
