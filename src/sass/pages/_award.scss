@@ -1,0 +1,295 @@
+.page--award{
+  .award-list{
+    display:flex;
+    flex-wrap:wrap;
+    margin:30px -40px;
+    .list-box{
+      width:33.333333%;
+      padding:40px;
+      a.list-box-inner{
+        &:hover{
+          opacity:.8;
+          text-decoration:none;
+        }
+      }
+      .list-box-inner{
+        display:block;
+        color:inherit;
+        background:white;
+        padding:20px;
+        height:100%;
+        text-align:center;
+        .box-icon{
+          width:58px;
+          margin:0 auto;
+        }
+        .box-title{
+          @include fsize(29);
+          @include fbold;
+          margin-top:20px;
+        }
+        .box-members{
+          @include fsize(18);
+          @include fbold;
+          margin-top:20px;
+        }
+        .box-map-title{
+          @include fsize(29);
+          @include fbold;
+          line-height:1.3;
+          text-align:left;
+          padding-left:50px;
+          background:url(../img/icon/award_star.svg) no-repeat left center;
+          background-size:40px auto;
+          min-height:2.6em;
+          display:flex;
+          align-items:center;
+        }
+        .box-map-image{
+          padding:20px;
+          height:300px;
+          img{
+            object-fit: contain;
+            width:100%;
+            height:100%;
+          }
+        }
+        .box-map-text{
+          @include fsize(16);
+          @include fbold;
+        }
+      }
+    }
+  }
+
+  .award-heading{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:40px;
+    > h3{
+      text-align:left;
+      margin:0;
+    }
+    > p{
+      @include fsize(14);
+      @include fbold;
+      margin:0;
+    }
+    &+.award-list{
+      margin-top:0;
+    }
+  }
+
+  .setoreiko-awards{
+    display:flex;
+    flex-wrap:wrap;
+    margin:30px -40px;
+    .list-box{
+      width:50%;
+      padding:40px;
+      .list-box-inner{
+        display:block;
+        color:inherit;
+        background:white;
+        padding:40px 50px;
+        height:100%;
+        .box-sr-title{
+          @include fsize(29);
+          @include fbold;
+          line-height:1.3;
+          padding-left:80px;
+          min-height:2.6em;
+          display:flex;
+          align-items:center;
+          position:relative;
+          margin-bottom:40px;
+          &:after{
+            content:"";
+            width:100%;
+            height:1px;
+            background:#ccc;
+            position:absolute;
+            left:0;
+            bottom:-20px;
+          }
+          .year{
+            @include fsize(16);
+          }
+          &.award-a{
+            background:url(../img/icon/award_a.svg) no-repeat left center;
+            background-size:70px auto;
+          }
+          &.award-b{
+            background:url(../img/icon/award_b.svg) no-repeat left center;
+            background-size:70px auto;
+          }
+          &.award-c{
+            background:url(../img/icon/award_c.svg) no-repeat left center;
+            background-size:70px auto;
+          }
+          &.award-d{
+            background:url(../img/icon/award_d.svg) no-repeat left center;
+            background-size:70px auto;
+          }
+        }
+        .box-sr-text{
+          @include fsize(16);
+          p{
+            &:last-child{
+              margin-bottom:0;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .main-table{
+    width:100%;
+    margin:50px auto 0;
+    &+.main-table{
+      margin-top:-1px;
+    }
+    tr{
+      border-bottom:1px solid #d4d4d4;
+      &:first-child{
+        border-top:1px solid #d4d4d4;
+      }
+      td{
+        padding:30px 15px;
+        width:78.3%;
+        @include fsize(16);
+        line-height:2;
+        &:first-child{
+          width:21.7%;
+          @include fbold;
+        }
+      }
+    }
+  }
+
+  .sr-row{
+    display:flex;
+    .sr-text{
+      @include fsize(16);
+      line-height:2;
+      padding-right:40px;
+      width:calc(100% - 270px);
+    }
+    .sr-image{
+      width:230px;
+    }
+  }
+
+@media (max-width:map-get($grid-breakpoints, 'xl')){
+  .award-list{
+    .list-box{
+      width:50%;
+    }
+  }
+  .setoreiko-awards{
+    .list-box{
+      width:100%;
+    }
+  }
+}
+
+@media (max-width:map-get($grid-breakpoints, 'md')){
+  .award-list{
+    .list-box{
+      width:100%;
+    }
+  }
+  .setoreiko-awards{
+    .list-box{
+      width:100%;
+    }
+  }
+}
+
+@include contentSP{
+  .award-list{
+    margin:20px 0;
+    .list-box{
+      padding:10px 0;
+      .list-box-inner{
+        .box-title{
+          @include fsize(21);
+        }
+        .box-members{
+          @include fsize(14);
+        }
+        .box-map-title{
+          @include fsize(21);
+        }
+        .box-map-text{
+          @include fsize(14);
+        }
+      }
+    }
+  }
+
+  .award-heading{
+    display:block;
+    margin-top:20px;
+    margin-bottom:10px;
+    > p{
+      text-align:right;
+      margin-top:10px;
+    }
+  }
+
+  .setoreiko-awards{
+    margin:20px 0;
+    .list-box{
+      padding:10px 0;
+      .list-box-inner{
+        padding:20px;
+        .box-sr-title{
+          @include fsize(21);
+        }
+        .box-sr-text{
+          @include fsize(14);
+        }
+      }
+    }
+  }
+
+  .main-table{
+    margin:30px auto 0;
+    &+.main-table{
+      margin-top:-1px;
+    }
+    tr{
+      display:block;
+      border-bottom:1px solid #d4d4d4;
+      &:first-child{
+        border-top:1px solid #d4d4d4;
+      }
+      td{
+        display:block;
+        padding:0 0 20px;
+        width:100%;
+        @include fsize(14);
+        &:first-child{
+          width:100%;
+          padding:20px 0 10px;
+        }
+      }
+    }
+  }
+
+  .sr-row{
+    display:block;
+    .sr-text{
+      @include fsize(14);
+      padding-right:0;
+      width:100%;
+    }
+    .sr-image{
+      margin:10px auto;
+    }
+  }
+}
+}
