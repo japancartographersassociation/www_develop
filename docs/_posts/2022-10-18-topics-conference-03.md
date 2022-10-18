@@ -1,5 +1,5 @@
 ---
-permalink: /topics/conference/2
+permalink: /topics/conference/3
 layout: topics_detail
 title: 【平成28年度定期大会開催のお知らせ】
 description: 来たる平成28（2016）年8月8日～10日、平成２８年度定期大会を就実大学・就実短期大学キャンパスにおいて開催致します。
