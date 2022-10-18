@@ -24,6 +24,8 @@ tags:
 {:.main-table}
 
 
+
+
 ## 地方大会の概要
 
 平成29年度地方大会を沖縄県立博物館・美術館との共催で特別展「沖縄の地図」に合わせて開催します。奮ってご参加ください。
@@ -67,8 +69,9 @@ tags:
 {:.main-table}
 
 
+
+
 [◎講演会・シンポジウムのご案内（PDF形式）](assets/file/programOkinawasymposium2017.pdf)
-{:.main-table}
 
 <br>
 <br>
