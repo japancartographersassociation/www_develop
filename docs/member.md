@@ -171,7 +171,7 @@ bodyclass: member
 <div class="member-section">
   <div class="container">
     <h2 class="member-h2"><span>ご入会の流れ</span></h2>
-    <p class="menber-heading-text">入会ご希望の方は、以下の手順でお申し込み下さい。入会の申込は随時受け付けております。</p>
+    <p class="member-heading-text">入会ご希望の方は、以下の手順でお申し込み下さい。入会の申込は随時受け付けております。</p>
     <div class="regist-box">
       <div class="regist-row">
         <div class="regist-icon">
@@ -238,7 +238,7 @@ bodyclass: member
 <div class="member-section">
   <div class="container">
     <h2 class="member-h2"><span>会員情報の変更</span></h2>
-    <p class="menber-heading-text">入会の際に届け出た会員情報～氏名・住所（機関誌送付先）・所属などに変更が生じた方は至急事務局へ届け出てください。<br>機関誌の送本や重要な情報の伝達に支障が生じる可能性があります。ご協力の程お願いいたします。</p>
+    <p class="member-heading-text">入会の際に届け出た会員情報～氏名・住所（機関誌送付先）・所属などに変更が生じた方は至急事務局へ届け出てください。<br>機関誌の送本や重要な情報の伝達に支障が生じる可能性があります。ご協力の程お願いいたします。</p>
     <div class="d-grid col-md-20 mx-auto mt-5">
       <a href="" class="btn btn-lg btn-default">変更用紙<span class="icon-pdf"></span></a>
     </div>
