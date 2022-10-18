@@ -62,7 +62,7 @@ tags:
 
 司会進行：太田 弘(慶應義塾普通部、日本地図学会評議員)<br>
 
-[◎講演会・シンポジウムのご案内（PDF形式）]('/assets/file/programOkinawasymposium2017.pdf')|
+[◎講演会・シンポジウムのご案内（PDF形式）](assets/file/programOkinawasymposium2017.pdf)|
 {:.main-table}
 
 本講演会・シンポジウムに関する問い合わせ先
