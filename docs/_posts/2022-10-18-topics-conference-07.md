@@ -52,5 +52,5 @@ tags:
 参加費無料。事前申し込み不要。<br>
 終了後、別会場にて懇親会を予定。<br>
 <br>
-問い合わせ先：卜部 勝彦（日本大学）[urabe.katsuhiko@nihon-u.ac.jp](<urabe.katsuhiko@nihon-u.ac.jp>)
+問い合わせ先：卜部 勝彦（日本大学）[urabe.katsuhiko@nihon-u.ac.jp](<mailto:urabe.katsuhiko@nihon-u.ac.jp>)
 {:.text-large}
