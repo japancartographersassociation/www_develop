@@ -191,6 +191,15 @@ body{
     margin-left:5px;
     vertical-align:-1px;
   }
+  .icon-ex{
+    display:inline-block;
+    width:13px;
+    height:11px;
+    background:url(../img/icon/exlink.svg) no-repeat center center;
+    background-size:cover;
+    margin-left:5px;
+    vertical-align:1px;
+  }
 @include contentSP{
   main{
     padding:20px 0;

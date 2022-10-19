@@ -3,7 +3,7 @@ permalink: /tournament/2
 layout: topics_detail
 title:  【日本地図学会２０２２年度定期大会のお知らせ（第3報）】
 description: 2022年度定期大会を下記の通り開催いたします。
-thumbnail: /assets/img/dummy/image01.png
+thumbnail: /assets/img/top/img_topics_02.jpg
 bodyclass: topics-detail
 categories:
   - tournament
