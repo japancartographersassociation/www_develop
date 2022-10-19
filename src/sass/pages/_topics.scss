@@ -92,10 +92,19 @@
 
 .page--topics-detail{
   main{
+    a{
+      color:#891c23;
+      text-decoration:none;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
     .container{
-      background:white;
-      margin:0 auto;
-      padding:50px 80px;
+      .bg-white{
+        background:white;
+        margin:0 auto;
+        padding:50px 80px;
+      }
       .page-infos{
         .date{
           @include fsize(16);
@@ -156,13 +165,6 @@
         @include fsize(24);
         @include fbold;
         margin:40px auto 10px;
-      }
-      a{
-        color:#891c23;
-        text-decoration:none;
-        &:hover{
-          text-decoration: underline;
-        }
       }
       p{
         @include fsize(16);
@@ -316,8 +318,10 @@
   main{
     padding:20px;
     .container{
-      margin:20px auto;
-      padding:20px;
+      .bg-white{
+        margin:20px auto;
+        padding:20px;
+      }
       h1{
         @include fsize(26);
         @include fbold;
