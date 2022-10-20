@@ -4,7 +4,7 @@ permalink: /topics/event/4
 layout: topics_detail
 title: 【International Cartographic Conference 2017（ICC2017）併設地図展およびバーバラ・ペチュニク子ども地図展のご案内】
 description: 2017年7月2日から7日までの間、International Cartographic Conference 2017（ICC2017）が、アメリカ合衆国ワシントンにおいて開催されます。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
