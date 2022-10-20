@@ -14,10 +14,8 @@ tags:
 # 2018年度日本地図学会通常総会のお知らせ
 
 |日　時|2018年2月17日（土）14:00-15:30（予定）|
-|会　場|立正大学 品川キャンパス 11号館 1171教室|
+|会　場|立正大学 品川キャンパス 11号館 1171教室<br>[http://www.ris.ac.jp/access/shinagawa/](http://www.ris.ac.jp/access/shinagawa/)|
 {:.main-table}
-
-[http://www.ris.ac.jp/access/shinagawa/](http://www.ris.ac.jp/access/shinagawa/)
 
 Ⅰ　通常総会議事次第
 {:.text-large}
