@@ -4,7 +4,7 @@ permalink: /topics/event/21
 layout: topics_detail
 title: 第121回例会 鉄道開業150周年「鉄道網から読み解く近代日本」のお知らせ
 description: 日本地図学会の「地名と地図専門部会」がゼンリンミュージアム（小倉北区）と鉄道150年を記念して企画します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
