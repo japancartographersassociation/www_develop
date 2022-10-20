@@ -25,10 +25,10 @@ tags:
 
 **1） 第29回国際地図学会議東京大会(ICC2019TOKYO)の出展地図展（11月9日（土）・10日（日）展示室2）**
 
-<br>
-
 （同時展示：長久保赤水『改正日本輿地路程全図（第二版）』拡大レプリカ）
 {:.text-large}
+
+<br>
 
 **2） 愛媛のハザードマップを読む・学ぶ**
 
@@ -44,6 +44,6 @@ tags:
 
 <br>
 
-[◎第52回地方大会のご案内（PDF形式）](../../archive/file/program/program2019matsuyama_191021.pdf)
-[◎第29回国際地図学会議東京大会 (ICC2019TOKYO)出展地図展示のご案内（PDF形式）](../../archive/file/program/iccexhibition2019matsuyama_191021.pdf)
+[◎第52回地方大会のご案内（PDF形式）](../../archive/file/program/program2019matsuyama_191021.pdf)<br>
+[◎第29回国際地図学会議東京大会 (ICC2019TOKYO)出展地図展示のご案内（PDF形式）](../../archive/file/program/iccexhibition2019matsuyama_191021.pdf)<br>
 [◎第52回地方大会ワークショップ開催のご案内（PDF形式）](../../archive/file/program/workshop2019matsuyama_191021.pdf)
