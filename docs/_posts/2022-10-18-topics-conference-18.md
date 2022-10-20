@@ -22,6 +22,8 @@ tags:
 |申し込み|6月10日からPeatixのサイトからのみの申し込みになります。[https://jcc2022.peatix.com/view](https://jcc2022.peatix.com/view)|
 {:.main-table}
 
+<br>
+
 ※Peatixをご利用いただくためには、まずPeatixのアカウントを取得していただく必要があります。Peatixのアカウント取得から参加申込までの手順については [こちら（PDF）](http://jcacj.org/file/program/participation2022.pdf) にまとめてます。<br>
 ※日本地図学会の普通会員･特別会員団体構成員・学生会員の方は「地図学会会員」、それ以外の方（いずれの会員でもない方）は「地図学会非会員」のチケットをお申し込みください。<br>
 ※<b>参加申込は8月7日（日）まで</b>となります。<br>
