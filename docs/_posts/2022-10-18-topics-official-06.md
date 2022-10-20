@@ -18,7 +18,6 @@ tags:
 {:.text-large}
 
 <br>
-
-[◎専門部会設置申請書（新規）（Word形式）](../../archive/file/enrty/Appform_new.docx)
+[◎専門部会設置申請書（新規）（Word形式）](../../archive/file/enrty/Appform_new.docx)<br>
 [◎専門部会設置申請書（継続）（Word形式）](../../archive/file/enrty/Appform_continue.docx)
 {:.text-large}
