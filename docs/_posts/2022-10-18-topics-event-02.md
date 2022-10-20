@@ -4,7 +4,7 @@ permalink: /topics/event/2
 layout: topics_detail
 title: 【第204回例会 「中国の地図の発達と世界観」のお知らせ】
 description: 第204回例会を日本大学文理学部において開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

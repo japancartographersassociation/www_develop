@@ -4,7 +4,7 @@ permalink: /topics/event/8
 layout: topics_detail
 title: 【第207回例会 「筑波研究学園都市のバス巡検」のお知らせ】
 description: 下記のとおり、第207回例会を筑波研究学園都市で開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

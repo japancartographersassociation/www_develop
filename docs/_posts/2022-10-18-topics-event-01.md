@@ -4,7 +4,7 @@ permalink: /topics/event/1
 layout: topics_detail
 title: 【第203回例会 「IMY記念行事 共同ワークショップ」のお知らせ】
 description: テーマ：世界の地図を見て、考え、地図文化を語ろう
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

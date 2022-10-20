@@ -4,7 +4,7 @@ permalink: /topics/event/6
 layout: topics_detail
 title: 【第1回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：世界の地図を見て、考え、地図文化を語ろう
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
