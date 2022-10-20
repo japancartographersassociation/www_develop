@@ -17,7 +17,7 @@ tags:
 |日　時|2018年4月20日（金）19:00-21:00|
 |場　所|日本橋　[(株)ぶよお堂](http://www.buyodoshop.com/)（武揚堂ビルB2 店舗内）<br>東京都中央区日本橋3-8-16 地下2階 地図実店舗内|
 |協　力|株式会社　ぶよお堂|
-|ゲストスピーカー|三浦 公亮 氏（東大名誉教授・日本地図学会名誉会員・ミウラ折り考案者）<br>[◎第1回日曜・週末地図塾ポスター表面（jpg形式）](../../archive/file/program/chizujuku2nd1.jpg)<br>[◎第1回日曜・週末地図塾ポスター裏面（jpg形式）](../../archive/file/program/chizujuku2nd2.jpg)|
+|ゲストスピーカー|三浦 公亮 氏（東大名誉教授・日本地図学会名誉会員・ミウラ折り考案者）<br>[◎第2回日曜・週末地図塾ポスター表面（jpg形式）](../../archive/file/program/chizujuku2nd1.jpg)<br>[◎第2回日曜・週末地図塾ポスター裏面（jpg形式）](../../archive/file/program/chizujuku2nd2.jpg)|
 {:.main-table}
 
 ※定員15名　運営費として1,000円（地図学会会員500円）を徴収します。
