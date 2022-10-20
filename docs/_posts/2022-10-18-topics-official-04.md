@@ -17,4 +17,3 @@ tags:
 詳細は、[http://icc2019.org/papers.html](http://icc2019.org/papers.html)をご覧ください。<br>
 第29回国際地図学会議組織委員会<br>
 事務局連絡先：[icc2019@issjp.com](<mailto:icc2019@issjp.com>)
-{:.text-large}
