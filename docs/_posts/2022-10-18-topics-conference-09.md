@@ -4,7 +4,7 @@ permalink: /topics/conference/9
 layout: topics_detail
 title: 【第51回地方大会のお知らせ】
 description: 松江歴史館所蔵の江戸初期の城郭絵図集「極秘諸国城図」と日本海に関する旧版海図に関する研究会を開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

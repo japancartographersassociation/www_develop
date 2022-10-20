@@ -3,7 +3,7 @@ permalink: /topics/conference/6
 layout: topics_detail
 title: 【平成29年度定期大会開催のお知らせ】
 description: 来たる平成29（2017）年8月8日～11日、平成２９年度定期大会を慶應義塾大学日吉キャンパスにおいて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

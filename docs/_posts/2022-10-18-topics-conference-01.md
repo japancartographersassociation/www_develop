@@ -3,7 +3,7 @@ permalink: /topics/conference/1
 layout: topics_detail
 title: 【平成26年度定期大会開催のお知らせ】
 description: 来たる平成26（2014）年８月６日～９日、平成２６年度定期大会を東北地理学会・地理情報システム学会東北支部・東北大学大学院情報科学研究科との共催、仙台市中学校社会科研究会の後援で東北大学片平キャンパスにおいて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - tournament

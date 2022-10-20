@@ -3,7 +3,7 @@ permalink: /topics/conference/2
 layout: topics_detail
 title: 【平成27年度定期大会開催のお知らせ】
 description: 来たる平成27（2015）年８月５日～７日、平成２７年度定期大会を日本大学経済学部において開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference
