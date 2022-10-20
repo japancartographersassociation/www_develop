@@ -4,7 +4,7 @@ permalink: /topics/event/12
 layout: topics_detail
 title: 【第9回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「伊能図を見る 」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
