@@ -4,7 +4,7 @@ permalink: /topics/event/13
 layout: topics_detail
 title: 【第208回例会 G空間EXPO2018 地理情報システム学会・日本地図学会共催シンポジウム<br>「みちびき時代の新しいナビゲーションを探る」のお知らせ】
 description: テーマ:地図の歴史とＧ空間時代のデジタル地図 ―アナログ地図にできること、デジタル地図がすべきこと―
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

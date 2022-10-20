@@ -4,7 +4,7 @@ permalink: /topics/event/17
 layout: topics_detail
 title: 【（今だけ）リモート「地図塾」（第1回）のお知らせ】
 description: テーマ：「東京スリバチ学会の秘密」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

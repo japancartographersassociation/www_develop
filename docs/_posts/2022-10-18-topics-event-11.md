@@ -4,7 +4,7 @@ permalink: /topics/event/11
 layout: topics_detail
 title: 【第7回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「海図を読み解いて、海の世界を知ろう 」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

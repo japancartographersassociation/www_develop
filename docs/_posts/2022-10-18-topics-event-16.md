@@ -4,7 +4,7 @@ permalink: /topics/event/16
 layout: topics_detail
 title: 【International Cartographic Conference 2019（ICC2019）バーバラ・ペチュニク子ども地図展のご案内】
 description: 2019年7月15日から20日までの間、International Cartographic Conference 2019（ICC2019）が、東京において開催されます。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
