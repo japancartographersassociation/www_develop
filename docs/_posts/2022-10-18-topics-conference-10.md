@@ -66,6 +66,6 @@ tags:
 
 <br>
 
-[・2019年度定期大会案内・発表申し込み要領（PDF形式）](../../archive/file/entry/entryguide2019_2.pdf)
-[・投稿用テンプレート（doc形式）](../../archive/file/entry/Templete2019JCA.doc)
+[・2019年度定期大会案内・発表申し込み要領（PDF形式）](../../archive/file/entry/entryguide2019_2.pdf)<br>
+[・投稿用テンプレート（doc形式）](../../archive/file/entry/Templete2019JCA.doc)<br>
 [・参加費の種類別による定期大会・国際地図学会での支払方法、特典等について（PDF形式）](../../archive/file/entry/Payment2019JCAandICC.pdf)
