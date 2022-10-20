@@ -36,7 +36,7 @@ tags:
 
 <br>
 
-その他・詳細についてのお問い合わせ先
+**その他・詳細についてのお問い合わせ先**
 
 |学会事務局|〒153-8522　東京都目黒区青葉台4-9-6　一般財団法人日本地図センター2階<br>日本地図学会事務局　　電話・FAX：03-3485-5410<br>E-mail：[info@jcacj.org](<mailto:info@jcacj.org>) 　ホームページ: [http://jcacj.org](http://jcacj.org)<br>または、日本地図学会　企画・集会委員長　太田　弘　[mapota@keio.jp](<mailto:mapota@keio.jp>) まで|
 {:.main-table}
