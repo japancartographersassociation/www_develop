@@ -4,7 +4,7 @@ permalink: /topics/conference/11
 layout: topics_detail
 title: 【第52回地方大会のお知らせ（第2報）】
 description: 第52回地方大会を下記のとおり愛媛県松山市において開催いたします。奮ってご参加ください。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

@@ -4,7 +4,7 @@ permalink: /topics/conference/16
 layout: topics_detail
 title: 【2021年度地方大会「海の地図150年」】
 description: 日本地図学会の2021年度の地方大会はゼンリンミュージアム小倉（北九州市）から発信する形でオンライン開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference
