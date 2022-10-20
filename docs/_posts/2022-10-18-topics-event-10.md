@@ -4,7 +4,7 @@ permalink: /topics/event/10
 layout: topics_detail
 title: 【第4回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「地図絵師　高橋美江の散歩学入門（座学編）」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event

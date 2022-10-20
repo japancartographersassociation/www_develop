@@ -4,7 +4,7 @@ permalink: /topics/event/3
 layout: topics_detail
 title: 【第205回例会 「G空間EXPO2016 シンポジウム」のお知らせ】
 description: テーマ：地図の歴史とＧ空間時代のデジタル地図 ―アナログ地図にできること、デジタル地図がすべきこと―
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
