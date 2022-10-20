@@ -17,6 +17,6 @@ tags:
 　 つきましては、第30期（令和3年度・令和4年度の2年間）の専門部会を募集いたしますので、所定の「専門部会設置申請書（新規または継続）」に必要事項をご 記入の上、学会事務局宛（E-mail: [info@jcacj.org](<mailto:info@jcacj.org>)）にご提出ください。<br>
 {:.text-large}
 <br>
-[◎専門部会設置申請書（新規）（Word形式）](../../archive/file/enrty/Appform_new.docx)<br>
-[◎専門部会設置申請書（継続）（Word形式）](../../archive/file/enrty/Appform_continue.docx)
+[◎専門部会設置申請書（新規）（Word形式）](../../archive/file/entry/Appform_new.docx)<br>
+[◎専門部会設置申請書（継続）（Word形式）](../../archive/file/entry/Appform_continue.docx)
 {:.text-large}
