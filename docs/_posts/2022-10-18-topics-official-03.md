@@ -3,7 +3,7 @@ permalink: /topics/official/3
 layout: topics_detail
 title: 2018年度日本地図学会通常総会のお知らせ
 description: 日　時：2018年2月17日（土）14:00-15:30（予定）
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - official
