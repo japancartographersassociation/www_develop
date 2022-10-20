@@ -4,7 +4,7 @@ permalink: /topics/event/9
 layout: topics_detail
 title: 【第3回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「地図で見る江戸から東京」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
