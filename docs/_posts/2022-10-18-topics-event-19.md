@@ -1,5 +1,5 @@
 ---
-permalink: /topics/event/20
+permalink: /topics/event/19
 layout: topics_detail
 title: -「大日本沿海輿地全図」幕府上呈200年記念集会-「『伊能図』の現代的価値を考える」開催のお知らせ
 description: 下記のとおり、第120回例会を神奈川県立歴史博物館にて開催します。
