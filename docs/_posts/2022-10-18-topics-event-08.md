@@ -18,7 +18,7 @@ tags:
 |日　時|2018年5月12日（土）10:15-16:00|
 |場　所|つくばエクスプレス（TX）　「つくば駅」改札　10:15集合<br>※午後から参加を希望される方は、TXつくば駅改札　13:00集合|
 |訪問施設|①国土地理院・地図と測量の科学館<br>②産業技術総合研究所・地質標本館<br>③JAXA・筑波宇宙センター|
-|例会内容|各施設にて、ガイド説明及び自由見学（各施設1時間程度滞在予定）<br>①企画展「地図で旅する日本のジオパーク」開催中<br>[http://www.gsi.go.jp/MUSEUM/p09.html](http://www.gsi.go.jp/MUSEUM/p09.html)<br>②日本列島の精密立体模型「日本列島の地質」リニューアル<br>[https://www.gsj.jp/Muse/](https://www.gsj.jp/Muse/)<br>　※地球科学可視化技術研究所（地球技研）芝原暁彦CEOによる解説予定<br>[http://revj.co.jp/](http://revj.co.jp/)<br>　※春の特別展「関東平野と筑波山―関東平野の深い地質のお話―」開催中<br>③筑波宇宙センター・展示館（スペースドーム他）<br>[http://fanfun.jaxa.jp/visit/tsukuba/index.html](http://fanfun.jaxa.jp/visit/tsukuba/index.html)|
+|例会内容|各施設にて、ガイド説明及び自由見学（各施設1時間程度滞在予定）<br>①企画展「地図で旅する日本のジオパーク」開催中<br>　[http://www.gsi.go.jp/MUSEUM/p09.html](http://www.gsi.go.jp/MUSEUM/p09.html)<br>②日本列島の精密立体模型「日本列島の地質」リニューアル<br>　[https://www.gsj.jp/Muse/](https://www.gsj.jp/Muse/)<br>　※地球科学可視化技術研究所（地球技研）芝原暁彦CEOによる解説予定<br>　[http://revj.co.jp/](http://revj.co.jp/)<br>　※春の特別展「関東平野と筑波山―関東平野の深い地質のお話―」開催中<br>③筑波宇宙センター・展示館（スペースドーム他）<br>　[http://fanfun.jaxa.jp/visit/tsukuba/index.html](http://fanfun.jaxa.jp/visit/tsukuba/index.html)|
 |移動手段|[つくばサイエンスツアーバス](https://www.i-step.org/tour/tsukuba-science-tour-bus.html)（大人500円・一日乗り降り自由）|
 |参加費用|例会参加費用は無料<br>　※つくば駅までの往復交通費及びサイエンスツアーバス代は各自負担|
 |定　員|先着20名（団体見学予約済み）<br>　※最低実施人員10名（予定）|
