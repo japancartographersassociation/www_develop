@@ -3,7 +3,7 @@ permalink: /topics/official/1
 layout: topics_detail
 title: 平成28年度総会のお知らせ
 description: 来たる平成28（2016）年2月27日、平成２８年度総会を東京大学駒場リサーチキャンパスにおいて開催致します。総会終了後懇親会を開催いたします。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - official

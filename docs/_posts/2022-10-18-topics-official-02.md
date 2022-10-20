@@ -3,7 +3,7 @@ permalink: /topics/official/2
 layout: topics_detail
 title: 平成29年度通常総会のご案内
 description: 会則25条にもとづき、平成29年度通常総会を下記の通り開催いたしますのでご出席ください。下記以外の議論を提出する場合は、会員10名以上の賛成を得た上で、5日前までに会員に通知できるようにしなければなりませんので、ご注意ください。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - official
