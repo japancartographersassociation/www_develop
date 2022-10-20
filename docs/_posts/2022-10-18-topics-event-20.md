@@ -4,7 +4,7 @@ permalink: /topics/event/20
 layout: topics_detail
 title: 第120回例会 神奈川県立歴史博物館特別展 コラボレーション「紙地図からデジタル地図へ（1）」のお知らせ
 description: 下記のとおり、第120回例会を神奈川県立歴史博物館にて開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
