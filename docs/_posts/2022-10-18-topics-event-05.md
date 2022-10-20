@@ -3,7 +3,7 @@ permalink: /topics/event/5
 
 layout: topics_detail
 title: 【第206回例会 「G空間EXPO2017 日本地図学会主催ワークショップ」のお知らせ】
-description: テーマ：世界の地図を見て、考え、地図文化を語ろう
+description: G空間EXPO2017 日本地図学会主催ワークショップ
 thumbnail: /assets/img/topics/image01.png
 bodyclass: topics-detail
 categories:
