@@ -4,7 +4,7 @@ permalink: /topics/event/14
 layout: topics_detail
 title: 【第10回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「伊能図の疑問点－技術的観点からー 」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
