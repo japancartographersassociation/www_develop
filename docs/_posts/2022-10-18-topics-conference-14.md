@@ -4,7 +4,7 @@ permalink: /topics/conference/14
 layout: topics_detail
 title: 【日本地図学会２０２０年度オンライン大会のお知らせ】
 description: 【終了しました！！】2020年度定期大会に代えてオンライン大会を下記の通り開催いたします。会員の皆様には奮ってご参加いただきたく，よろしくお願い申し上げます。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

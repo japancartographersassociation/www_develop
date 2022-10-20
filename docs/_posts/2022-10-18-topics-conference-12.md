@@ -4,7 +4,7 @@ permalink: /topics/conference/12
 layout: topics_detail
 title: 【２０２０年度定期大会開催見送りのお知らせ】
 description: 2020年度の日本地図学会定期大会は実施を見送ることにいたしました。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference
