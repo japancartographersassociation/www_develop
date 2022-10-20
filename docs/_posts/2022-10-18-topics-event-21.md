@@ -24,9 +24,7 @@ tags:
 |講演会参加費|会員 500円、非会員 1,000円|
 |リモート参加|会員 無料、非会員 500円|
 |巡検参加費（資料代）|会員 1,000円、非会員 1,500円|
-|詳　細|https://www.zenrin.co.jp/museum/event/|
+|詳　細|[https://www.zenrin.co.jp/museum/event/](https://www.zenrin.co.jp/museum/event/)|
 |参加申込受付|参加申込は、こちらの[Peatixサイト](https://peatix.com/event/3288922/view?k=915e68cc6015bed29f201f855963b77eb9df36e4&fbclid=IwAR0bK8ZXQ-jx_Ldsxbzh1iC4yia_HV_bZkh5zvGB6VYmxTD6V0JYXsvtwTQ)からお申し込みください。|
 |お問い合わせ|太田　弘（企画・集会委員会委員長） [mapota@keio.jp](<mailto:mapota@keio.jp>)|
 {:.main-table}
-
-{% include inc_peatix_table.html %}
