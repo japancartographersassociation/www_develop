@@ -19,7 +19,7 @@ tags:
 |場　所|[東京大学　柏図書館](http://www.lib.u-tokyo.ac.jp/kashiwa/)　コンファレンスルーム|
 |共　催|日本地図学会（地図史料・地図アーカイブ専門部会、地図用語専門部会、Map Use & Sub-Cartography 専門部会、ユビキタス・マッピング専門部会）<br>東京大学 空間情報科学研究センター（CSIS）<br>東京大学 柏図書館|
 |参加費|無料、定員：先着40名、参加資格：どなたでも参加できます|
-|申込方法|氏名・所属などを記入の上、map-archive@csis.u-tokyo.ac.jp宛に、E-mailで事前に申し込みください。ただし、定員に達し次第、受付を締め切ります。|
+|申込方法|氏名・所属などを記入の上、[map-archive@csis.u-tokyo.ac.jp](<mailto:map-archive@csis.u-tokyo.ac.jp>)宛に、E-mailで事前に申し込みください。ただし、定員に達し次第、受付を締め切ります。|
 {:.main-table}
 
 <br>
