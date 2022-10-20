@@ -3,7 +3,7 @@ permalink: /topics/official/5
 layout: topics_detail
 title: 防災学術連携体シンポジウムのお知らせ
 description: 日本地図学会も参画している防災学術連携体が、2021年1月14日にシンポジウム「東日本大震災からの十年とこれからー５８学会、防災学術連携体の活動ー」を開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - official
