@@ -4,7 +4,7 @@ permalink: /topics/event/18
 layout: topics_detail
 title: 【International Cartographic Conference 2021（ICC2021）バーバラ・ペチュニク子ども地図展のご案内】
 description: 2021年12月14日から18日までの間、International Cartographic Conference 2021（ICC2021）が、イタリアのフィレンツェにおいて開催されます。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
