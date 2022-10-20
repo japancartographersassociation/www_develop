@@ -3,7 +3,7 @@ permalink: /topics/official/6
 layout: topics_detail
 title: 日本地図学会第30期「専門部会」の募集（急告）
 description: 日本地図学会には会則第6条に基づいて専門部会が設置されています。今期からは各部会活動のより一層の明確化と活性化を図るため、会期ごとの設置申請書の提出を義務づけ（既に設置されている部会も継続申請の書類提出が必要）、申請にあたっては活動目的や活動計画を明確化してもらうとともに、会期中に活動内容やその成果を報告する機会を設けることにしました。
-thumbnail: /assets/img/topics/Nullislands.png
+thumbnail: /assets/img/topics/image01.png
 bodyclass: topics-detail
 categories:
   - official
