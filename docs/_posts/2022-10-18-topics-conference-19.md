@@ -25,7 +25,7 @@ tags:
 
 <br>
 
-[◎2022年度定期大会のご案内・プログラム（PDF形式）← クリックしてご確認ください](http://jcacj.org/file/program/program2022.pdf)
+[◎2022年度定期大会のご案内・プログラム（PDF形式）← クリックしてご確認ください](../../archive/file/program/program2022.pdf)
 {:.text-large}
 
 <br>
