@@ -4,7 +4,7 @@ permalink: /topics/event/5
 layout: topics_detail
 title: 【第206回例会 「G空間EXPO2017 日本地図学会主催ワークショップ」のお知らせ】
 description: G空間EXPO2017 日本地図学会主催ワークショップ
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
