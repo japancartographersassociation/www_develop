@@ -4,7 +4,7 @@ permalink: /topics/conference/10
 layout: topics_detail
 title: 【２０１９年度定期大会開催のお知らせ（第2報）】
 description: 来たる2019年7月16日～17日、2019年度定期大会を東京都産業技術研究センター東京イノベーションハブにおいて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

@@ -3,7 +3,7 @@ permalink: /topics/conference/5
 layout: topics_detail
 title: 【第49回地方大会のお知らせ（第2報）】
 description: 琉球の地図　近代の実測図「伊能図」と「琉球国之図」
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

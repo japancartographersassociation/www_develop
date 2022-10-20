@@ -3,7 +3,7 @@ permalink: /topics/conference/4
 layout: topics_detail
 title: 【第49回地方大会のお知らせ（第1報）】
 description: テーマ：琉球の地図
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

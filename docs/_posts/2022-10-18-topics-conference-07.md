@@ -3,7 +3,7 @@ permalink: /topics/conference/7
 layout: topics_detail
 title: 【第50回地方大会のお知らせ（日本地理教育学会・日本地図学会共催）】
 description: 来たる平成27（2015）年８月５日～７日、平成２７年度定期大会を日本大学経済学部において開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference
