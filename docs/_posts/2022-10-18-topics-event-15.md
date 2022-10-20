@@ -4,7 +4,7 @@ permalink: /topics/event/15
 layout: topics_detail
 title: 【第209回例会 「次期学習指導要領における地図指導と地図学～中学校での現状と課題～」のお知らせ】
 description: 下記のとおり、第209回例会を東京都千代田区の日本大学経済学部7号館で開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - event
