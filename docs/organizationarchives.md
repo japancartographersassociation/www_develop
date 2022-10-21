@@ -1,7 +1,7 @@
 ---
 permalink: /organizationarchives.html
 layout: under_organization
-title: 組織・体制
+title: 過去の日本地図学会役員・評議員
 bodyclass: organization
 ---
 
