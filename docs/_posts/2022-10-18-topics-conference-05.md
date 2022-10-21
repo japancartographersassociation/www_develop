@@ -58,7 +58,7 @@ tags:
 
 <br>
 
-[◎講演会・シンポジウムのご案内（PDF形式）](assets/file/programOkinawasymposium2017.pdf)
+[◎講演会・シンポジウムのご案内（PDF形式）](../../archive/file/program/programOkinawasymposium2017.pdf)
 {:.text-large}
 <br>
 本講演会・シンポジウムに関する問い合わせ先<br>
