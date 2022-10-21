@@ -159,6 +159,7 @@ information: [
   <div class="top--section note-section">
     <div class="container">
       <h2 class="top-h2">日本地図学会公式ブログ（note）</h2>
+      <div id="top-note-list"></div>
     </div>
   </div>
 </section>

@@ -206,8 +206,10 @@ body.page--top{
       color:inherit;
       text-decoration:none;
       &:hover{
-        .t-img{
-          opacity:.8;
+        .t-val{
+          p.name{
+            text-decoration: underline;
+          }
         }
       }
       .t-img{
