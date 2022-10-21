@@ -15,9 +15,12 @@ bodyclass: award
     <p>※受賞者の所属は、受賞当時のものとします。</p>
   </div>
   <div class="award-list">
+    {% assign jcacjaward_count = 0 %}
     {% for post in site.posts %}
       {% if post.categories[0] == 'jcacjaward' %}
       {% if post.categories[1] == '16th' %}
+      {% if jcacjaward_count < 3 %}
+      {% assign jcacjaward_count = jcacjaward_count|plus:1 %}
       <div class="list-box">
         <a href="{{ post.url | relative_url }}" class="list-box-inner">
           <div class="box-icon"><img src="{{ site.baseurl }}{{ post.thumbnail }}" class="w-100" alt=""></div>
@@ -31,6 +34,7 @@ bodyclass: award
       </div>
       {% endif %}
       {% endif %}
+      {% endif %}
     {% endfor %}
   </div>
   <div class="back-to-top">
@@ -38,6 +42,7 @@ bodyclass: award
   </div>
 </div>
 
+<!--
 <div class="top-section">
   <h2>名誉会員</h2>
   <div class="award-heading">
@@ -67,11 +72,12 @@ bodyclass: award
     <a href="{{'/honorarymemberaward.html' | relative_url}}">VIEW MORE</a>
   </div>
 </div>
+-->
 
 <div class="top-section">
   <h2>地図展優秀地図</h2>
   <div class="award-heading">
-    <h3>第16回（令和4年度）受賞結果</h3>
+    <h3>第11回（平成30年度）優秀賞</h3>
   </div>
   <div class="award-list">
     {% for post in site.posts %}

@@ -3,19 +3,38 @@ permalink: /jcacjaward.html
 layout: under_award
 title: 学会賞
 bodyclass: award
+jcacjaward_list: [
+  ['第16回（令和4年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。　※ 第16回（令和4年度）野村正七地図賞・論文奨励賞は該当なし。', '16th'],
+  ['第15回（令和3年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '15th'],
+  ['第14回（令和2年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。　※ 第14回（令和2年度）野村正七地図賞・論文奨励賞は該当なし。', '14th'],
+  ['第13回（平成31年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。　※ 第13回（平成31年度）野村正七地図賞・論文奨励賞は該当なし。', '13th'],
+  ['第12回（平成30年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。　※ 第12回（平成30年度）野村正七地図賞・論文奨励賞は該当なし。', '12th'],
+  ['第11回（平成29年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '11th'],
+  ['第10回（平成28年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '10th'],
+  ['第9回（平成27年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '9th'],
+  ['第8回（平成26年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '8th'],
+  ['第7回（平成25年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '7th'],
+  ['第6回（平成24年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '6th'],
+  ['第5回（平成23年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '5th'],
+  ['第4回（平成22年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '4th'],
+  ['第3回（平成21年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '3th'],
+  ['第2回（平成20年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '2th'],
+  ['第1回（平成19年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。', '1th'],
+]
 ---
 
 # 学会賞
 学会賞についての詳細を記載。詳細テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
 {:.heading-text}
 
+{% for jcacjaward in page.jcacjaward_list %}
 <div class="top-section">
-  <h2>第16回（令和4年度）受賞結果</h2>
-  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。　※ 第16回（令和4年度）野村正七地図賞・論文奨励賞は該当なし。</p>
+  <h2>{{jcacjaward[0]}}</h2>
+  <p class="heading-text">{{jcacjaward[1]}}</p>
   <div class="award-list">
     {% for post in site.posts %}
       {% if post.categories[0] == 'jcacjaward' %}
-      {% if post.categories[1] == '16th' %}
+      {% if post.categories[1] == jcacjaward[2] %}
       <div class="list-box">
         <a href="{{ post.url | relative_url }}" class="list-box-inner">
           <div class="box-icon"><img src="{{ site.baseurl }}{{ post.thumbnail }}" class="w-100" alt=""></div>
@@ -32,27 +51,4 @@ bodyclass: award
     {% endfor %}
   </div>
 </div>
-
-<div class="top-section">
-  <h2>第15回（令和3年度）受賞結果</h2>
-  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。　※ 第15回（令和3年度）野村正七地図賞・論文奨励賞は該当なし。</p>
-  <div class="award-list">
-    {% for post in site.posts %}
-      {% if post.categories[0] == 'jcacjaward' %}
-      {% if post.categories[1] == '15th' %}
-      <div class="list-box">
-        <a href="{{ post.url | relative_url }}" class="list-box-inner">
-          <div class="box-icon"><img src="{{ site.baseurl }}{{ post.thumbnail }}" class="w-100" alt=""></div>
-          <div class="box-title">{{ post.title }}</div>
-          <div class="box-members">
-            {% for member in post.members %}
-            {{ member }}<br>
-            {% endfor %}
-          </div>
-        </a>
-      </div>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
+{% endfor %}

@@ -142,6 +142,8 @@
           padding:0;
           margin:20px 0 0;
           li{
+            @include fsize(16);
+            color:#891c23;
             a{
               @include fsize(16);
               line-height:1.6;
@@ -249,9 +251,9 @@
   }
 
   .monumento-iframe{
-    margin:20px -20px;
+    margin:0;
     iframe{
-      margin:30px auto;
+      margin:0 auto;
       position:absolute;
       top:0;
       left:0;
@@ -281,6 +283,7 @@
         }
         .menu-links{
           li{
+            @include fsize(14);
             a{
               @include fsize(14);
             }

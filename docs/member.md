@@ -106,8 +106,8 @@ bodyclass: member
           <div class="type-price">8,000円/年</div>
           <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
           <div class="type-button">
-              <div class="d-grid">
-              <a href="" class="btn btn-default">普通会員 入会申込書<span class="icon-pdf"></span></a>
+            <div class="d-grid">
+              <a href="{{'/archive/file/member/nyuukai.pdf' | relative_url}}" class="btn btn-default">普通会員 入会申込書<span class="icon-pdf"></span></a>
             </div>
           </div>
         </div>
@@ -133,7 +133,7 @@ bodyclass: member
           <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
           <div class="type-button">
             <div class="d-grid">
-              <a href="" class="btn btn-default">学生会員 入会申込書<span class="icon-pdf"></span></a>
+              <a href="{{'/archive/file/member/nyuukai.pdf' | relative_url}}" class="btn btn-default">学生会員 入会申込書<span class="icon-pdf"></span></a>
             </div>
           </div>
         </div>
@@ -146,7 +146,7 @@ bodyclass: member
           <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
           <div class="type-button">
             <div class="d-grid">
-              <a href="" class="btn btn-default">購読会員 入会申込書<span class="icon-pdf"></span></a>
+              <a href="{{'/archive/file/member/nyuukai2.pdf' | relative_url}}" class="btn btn-default">購読会員 入会申込書<span class="icon-pdf"></span></a>
             </div>
           </div>
         </div>
@@ -159,7 +159,7 @@ bodyclass: member
           <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
           <div class="type-button">
             <div class="d-grid">
-              <a href="" class="btn btn-default">特別会員 入会申込書<span class="icon-pdf"></span></a>
+              <a href="{{'/archive/file/member/nyuukai2.pdf' | relative_url}}" class="btn btn-default">特別会員 入会申込書<span class="icon-pdf"></span></a>
             </div>
           </div>
         </div>
@@ -240,7 +240,7 @@ bodyclass: member
     <h2 class="member-h2"><span>会員情報の変更</span></h2>
     <p class="member-heading-text">入会の際に届け出た会員情報～氏名・住所（機関誌送付先）・所属などに変更が生じた方は至急事務局へ届け出てください。<br>機関誌の送本や重要な情報の伝達に支障が生じる可能性があります。ご協力の程お願いいたします。</p>
     <div class="d-grid col-md-20 mx-auto mt-5">
-      <a href="" class="btn btn-lg btn-default">変更用紙<span class="icon-pdf"></span></a>
+      <a href="{{'/archive/file/member/henko_todoke.pdf' | relative_url}}" class="btn btn-lg btn-default">変更用紙<span class="icon-pdf"></span></a>
     </div>
   </div>
 </div>

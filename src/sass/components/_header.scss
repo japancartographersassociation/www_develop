@@ -68,9 +68,21 @@
           padding:0 25px;
           a{
             color:inherit;
+            display:block;
+            position:relative;
             &:hover{
               color:#891c23;
               text-decoration:none;
+              &:after{
+                content:"";
+                width:calc(100% + 10px);
+                height:4px;
+                background:#891c23;
+                bottom: -27px;
+                left: -5px;
+                display: block;
+                position: absolute;
+              }
             }
           }
         }
@@ -152,6 +164,13 @@
         li{
           @include fsize(14);
           padding:0 10px;
+          a{
+            &:hover{
+              &:after{
+                bottom: -29px;
+              }
+            }
+          }
         }
       }
       .site-language{
@@ -187,6 +206,13 @@
         li{
           @include fsize(12);
           padding:0 7px;
+          a{
+            &:hover{
+              &:after{
+                bottom: -31px;
+              }
+            }
+          }
         }
       }
       .site-language{

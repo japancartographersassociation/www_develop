@@ -9,6 +9,13 @@
     a{
     }
   }
+  .copy{
+    .ccby4{
+      display:inline-block;
+      width:61px;
+      margin-left:10px;
+    }
+  }
 @include contentSP{
   @include fsize(12);
 }

@@ -50,11 +50,11 @@ bodyclass: service
         <div class="menu-title">投稿規定</div>
         <div class="menu-text">機関誌「地図」に添付された地図の目録を掲載しております。</div>
         <ul class="menu-links">
-          <li><a href="">・投稿規程<span class="icon-pdf"></span></a></li>
-          <li><a href="">・投稿原稿送付状<span class="icon-pdf"></span><span class="icon-doc"></span></a></li>
-          <li><a href="">・投稿原稿執筆の手引き<span class="icon-pdf"></span><span class="icon-doc"></span></a></li>
-          <li><a href="">・投稿のひな型<span class="icon-pdf"></span><span class="icon-doc"></span></a></li>
-          <li><a href="">・編集作業の流れ<span class="icon-pdf"></span></a></li>
+          <li>・投稿規程<a href="{{'/archive/file/journal/toukoukitei.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
+          <li>・投稿原稿送付状<a href="{{'/archive/file/journal/soufuzyou.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/soufuzyou.doc' | relative_url}}"><span class="icon-doc"></span></a></li>
+          <li>・投稿原稿執筆の手引き<a href=""><span class="icon-pdf"></span></a><a href=""><span class="icon-doc"></span></a></li>
+          <li>・投稿のひな型<a href="{{'/archive/file/journal/toukou_hinagata.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/toukou_hinagata.docx' | relative_url}}"><span class="icon-doc"></span></a></li>
+          <li>・編集作業の流れ<a href="{{'/archive/file/journal/flow.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
         </ul>
       </div>
     </div>

@@ -179,11 +179,11 @@ bodyclass: service
 
 <div class="latestjournal-backnumber">
   <p>
-    <a href="">●Vol.59 No.1（通巻233号）</a>
-    <a href="">●Vol.59 No.2（通巻234号）</a>
+    <a href="{{'/archive/file/contents/contents233.pdf' | relative_url}}">●Vol.59 No.1（通巻233号）</a>
+    <a href="{{'/archive/file/contents/contents234.pdf' | relative_url}}">●Vol.59 No.2（通巻234号）</a>
   </p>
   <p>
-    <a href="">●Vol.59 No.3（通巻235号）</a>
-    <a href="">●Vol.59 No.4（通巻236号）</a>
+    <a href="{{'/archive/file/contents/contents235.pdf' | relative_url}}">●Vol.59 No.3（通巻235号）</a>
+    <a href="{{'/archive/file/contents/contents236.pdf' | relative_url}}">●Vol.59 No.4（通巻236号）</a>
   </p>
 </div>
