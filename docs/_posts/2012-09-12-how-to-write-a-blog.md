@@ -1,7 +1,7 @@
 ---
 permalink: /tournament/2
 layout: topics_detail
-title:  【日本地図学会２０２２年度定期大会のお知らせ（第3報）】
+title:  【TOPICS記事詳細サンプル】
 description: 2022年度定期大会を下記の通り開催いたします。
 thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
@@ -11,9 +11,10 @@ tags:
   - 大会
 ---
 
-# 【日本地図学会２０２２年度定期大会のお知らせ（第3報）】
+# 【TOPICS記事詳細サンプル】
 
 ![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}
+{:.main-image}
 
 2022年度定期大会を下記の通り開催いたします。<br>
 会員の皆様には奮ってご参加いただきたく、ご協力をよろしくお願い申し上げます。<br>
@@ -33,15 +34,15 @@ tags:
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.image-table}
+{:.l-image-table}
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.image-table}
+{:.m-image-table}
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |||注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.image-table}
+{:.s-image-table}
 
 <div class="yt-wrap">
   <iframe src="https://www.youtube.com/embed/EHvXosE57P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
