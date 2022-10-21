@@ -25,7 +25,7 @@ bodyclass: activity
         </div>
         <div class="hd-button">
           <div class="d-grid col-md-30">
-            <a href="" class="btn btn-lg btn-default btn-arrow-right">入会案内はこちら</a>
+            <a href="{{'/member.html' | relative_url}}" class="btn btn-lg btn-default btn-arrow-right">入会案内はこちら</a>
           </div>
         </div>
       </div>

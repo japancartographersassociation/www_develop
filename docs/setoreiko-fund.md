@@ -94,13 +94,13 @@ bodyclass: award
     <tr>
       <td>資料</td>
       <td>
-        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業公募要領8月25日改訂版 (1).pdf">・2022年度 募集要領 　※8/25改訂<span class="icon-pdf"></span></a><br>
-        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・ 事業パンフレット<span class="icon-pdf"></span></a><br>
-        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業申請書様式１改訂版.doc">・ 申請書（様式１）※8/25改訂<span class="icon-doc"></span></a><br>
-        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施計画書（様式２）.doc">・ 実施計画書（様式２）<span class="icon-doc"></span></a><br>
-        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施報告書（様式３）.doc">・ 実施報告書（様式３）<span class="icon-doc"></span></a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業公募要領8月25日改訂版 (1).pdf">・2022年度 募集要領 　※8/25改訂<span class="icon-pdf"></span></a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・ 事業パンフレット<span class="icon-pdf"></span></a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業申請書様式１改訂版.doc">・ 申請書（様式１）※8/25改訂<span class="icon-doc"></span></a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施計画書（様式２）.doc">・ 実施計画書（様式２）<span class="icon-doc"></span></a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施報告書（様式３）.doc">・ 実施報告書（様式３）<span class="icon-doc"></span></a><br>
         <br>
-        <a href="/archive/file/setoreiko_fund/ReikoSetoFundSupportGrantProgram2022.zip">* すべてのファイル（ZIPファイル）</a><br>
+        <a href="{{ site.baseurl }}/archive/file/setoreiko_fund/ReikoSetoFundSupportGrantProgram2022.zip">* すべてのファイル（ZIPファイル）</a><br>
       </td>
     </tr>
   </table>
