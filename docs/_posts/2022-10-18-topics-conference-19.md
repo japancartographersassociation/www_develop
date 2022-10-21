@@ -4,7 +4,7 @@ permalink: /topics/conference/19
 layout: topics_detail
 title: 【日本地図学会２０２２年度定期大会のお知らせ（第3報）】
 description: 今年度の定期大会はリモートによる発表と都内で開催する地図・図書展を併用して実施します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

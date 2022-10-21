@@ -4,7 +4,7 @@ permalink: /topics/conference/15
 layout: topics_detail
 title: 【日本地図学会２０２１年度定期大会のお知らせ（第6報）】
 description: 来たる2021年8月20日・21日、2021年度定期大会を茨城大学水戸キャンパスにおいてオンラインにて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

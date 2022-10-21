@@ -3,7 +3,7 @@ permalink: /topics/official/5
 layout: topics_detail
 title: 防災学術連携体シンポジウムのお知らせ
 description: 日本地図学会も参画している防災学術連携体が、2021年1月14日にシンポジウム「東日本大震災からの十年とこれからー５８学会、防災学術連携体の活動ー」を開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - official
@@ -16,7 +16,6 @@ tags:
 日本地図学会も参画している防災学術連携体が、2021年1月14日にシンポジウム「東日本大震災からの十年とこれからー５８学会、防災学術連携体の活動ー」を開催します。<br>
 本学会からは宇根寛会員が「東日本大震災から10年のハザードマップの発展 ～それは「ハザードマップを信じるな」から始まった」の演題で登壇します。<br>
 詳細は以下のとおりです<br>
-{:.text-large}
 
 日本学術会議主催学術フォーラム・第11回防災学術連携シンポジウム「東日本大震災からの十年とこれからー５８学会、防災学術連携体の活動ー」
 
@@ -30,4 +29,3 @@ tags:
 
 <br>
 シンポジウムの詳細やプログラムについては[こちら](https://ws.formzu.net/fgen/S16396674/)をご覧ください。<br>
-{:.text-large}

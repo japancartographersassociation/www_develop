@@ -4,7 +4,7 @@ permalink: /topics/conference/17
 layout: topics_detail
 title: 【日本地図学会２０２２年度定期大会のお知らせ（第1報）】
 description: 来たる2022年8月6日（土）・7日（日）、2022年度定期大会を青山学院大学相模原キャンパスからオンライン形式またはハイブリッド形式にて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

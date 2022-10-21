@@ -4,7 +4,7 @@ permalink: /topics/conference/13
 layout: topics_detail
 title: 【2020年度地方大会（オンラインfrom小倉）「歴史を映し出す地図」】
 description: 日本国際地図学会の2020年度の地方大会は本年春に開館したゼンリンミュージアム（小倉）から発信する形でオンライン開催します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference

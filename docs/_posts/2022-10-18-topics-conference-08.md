@@ -3,7 +3,7 @@ permalink: /topics/conference/8
 layout: topics_detail
 title: 【平成３０年度定期大会開催のお知らせ】
 description: 来たる平成30（2018）年8月26日～29日、平成30年度定期大会を富山大学五福キャンパスにおいて開催致します。
-thumbnail: /assets/img/topics/image01.png
+thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
   - conference
