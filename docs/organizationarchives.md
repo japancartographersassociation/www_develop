@@ -1,5 +1,6 @@
 ---
 permalink: /organizationarchives.html
+layout: under_organization
 title: 組織・体制
 bodyclass: organization
 ---

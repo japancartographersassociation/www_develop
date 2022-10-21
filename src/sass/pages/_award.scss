@@ -3,6 +3,12 @@
     display:flex;
     flex-wrap:wrap;
     margin:30px -40px;
+    &.award-list-mapaward-6,
+    &.award-list-mapaward-6-2{
+      .list-box{
+        width:25%;
+      }
+    }
     .list-box{
       width:33.333333%;
       padding:40px;
@@ -187,7 +193,7 @@
 @media (max-width:map-get($grid-breakpoints, 'xl')){
   .award-list{
     .list-box{
-      width:50%;
+      width:50%!important;
     }
   }
   .setoreiko-awards{
@@ -200,7 +206,7 @@
 @media (max-width:map-get($grid-breakpoints, 'md')){
   .award-list{
     .list-box{
-      width:100%;
+      width:100%!important;
     }
   }
   .setoreiko-awards{

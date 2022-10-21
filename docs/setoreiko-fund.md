@@ -92,15 +92,15 @@ bodyclass: award
       <td>● 地図学研究<br>● 地図を中心とした地理学研究<br>● 地図を活用したビジネス事業化<br>● その他、地図を担う女性の地位向上に資する事業<br>上記分野に関する申請書（様式１）を<br>【2022 年 9 月 30 日（金）17 時必着】で日本地図学会事務局まで<br>メールまたは郵送で提出してください。</td>
     </tr>
     <tr>
-      <td>大会参加費</td>
+      <td>資料</td>
       <td>
-        <a href="">・2022年度 募集要領 　※8/25改訂<span class="icon-pdf"></span></a><br>
-        <a href="">・ 事業パンフレット<span class="icon-pdf"></span></a><br>
-        <a href="">・ 申請書（様式１）※8/25改訂<span class="icon-doc"></span></a><br>
-        <a href="">・ 実施計画書（様式２）<span class="icon-doc"></span></a><br>
-        <a href="">・ 実施報告書（様式３）<span class="icon-doc"></span></a><br>
+        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業公募要領8月25日改訂版 (1).pdf">・2022年度 募集要領 　※8/25改訂<span class="icon-pdf"></span></a><br>
+        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・ 事業パンフレット<span class="icon-pdf"></span></a><br>
+        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業申請書様式１改訂版.doc">・ 申請書（様式１）※8/25改訂<span class="icon-doc"></span></a><br>
+        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施計画書（様式２）.doc">・ 実施計画書（様式２）<span class="icon-doc"></span></a><br>
+        <a href="/archive/file/setoreiko_fund/瀬戸玲子基金支援助成事業実施報告書（様式３）.doc">・ 実施報告書（様式３）<span class="icon-doc"></span></a><br>
         <br>
-        <a href="">* すべてのファイル（ZIPファイル）</a><br>
+        <a href="/archive/file/setoreiko_fund/ReikoSetoFundSupportGrantProgram2022.zip">* すべてのファイル（ZIPファイル）</a><br>
       </td>
     </tr>
   </table>

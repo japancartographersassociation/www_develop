@@ -83,26 +83,28 @@ bodyclass: organization
       <td>(副)荒堀智彦　太田　弘　河合豊明　近藤賀誉　丸山智康　吉田魁人　<br>吉田桃子</td>
     </tr>
     <tr>
-      <td><b>あああ</b></td>
+      <td><b>防災委員会</b></td>
       <td>◯宇根　寛　遠藤宏之　黒木貴一</td>
       <td>小荒井衛　古橋大地</td>
     </tr>
     <tr>
-      <td><b>あああ</b></td>
+      <td><b>連携渉外委員会</b></td>
       <td>◯伊藤香織</td>
       <td>若林芳樹　小荒井衛</td>
     </tr>
     <tr>
-      <td><b>あああ</b></td>
+      <td><b>瀬戸玲子基金委員会</b></td>
       <td>副)三橋浩志　宇根　寛　岡谷隆基</td>
       <td>◯滝沢由美子</td>
     </tr>
   </table>
 </div>
 
+<!--
 <div class="d-grid col-lg-30 col-xl-18 mx-auto my-5">
   <a href="{{'/organizationarchives.html' | relative_url}}" class="btn btn-default btn-lg btn-arrow-right">過去の日本地図学会役員・評議員</a>
 </div>
+-->
 
 ## 第30期（2021～2022年度）　日本地図学会役員・評議員
 

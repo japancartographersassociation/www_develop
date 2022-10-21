@@ -112,6 +112,7 @@ bodyclass: member
           </div>
         </div>
       </div>
+      <!--
       <div class="member-type">
         <div class="type-inner">
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_02.svg" class="w-100" alt=""></div>
@@ -125,6 +126,7 @@ bodyclass: member
           </div>
         </div>
       </div>
+      -->
       <div class="member-type">
         <div class="type-inner">
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_03.svg" class="w-100" alt=""></div>

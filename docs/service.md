@@ -52,7 +52,7 @@ bodyclass: service
         <ul class="menu-links">
           <li>・投稿規程<a href="{{'/archive/file/journal/toukoukitei.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
           <li>・投稿原稿送付状<a href="{{'/archive/file/journal/soufuzyou.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/soufuzyou.doc' | relative_url}}"><span class="icon-doc"></span></a></li>
-          <li>・投稿原稿執筆の手引き<a href=""><span class="icon-pdf"></span></a><a href=""><span class="icon-doc"></span></a></li>
+          <li>・投稿原稿執筆の手引き<a href="{{'/archive/file/journal/genkou_tebiki.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/genkou_tebiki.docx' | relative_url}}"><span class="icon-doc"></span></a></li>
           <li>・投稿のひな型<a href="{{'/archive/file/journal/toukou_hinagata.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/toukou_hinagata.docx' | relative_url}}"><span class="icon-doc"></span></a></li>
           <li>・編集作業の流れ<a href="{{'/archive/file/journal/flow.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
         </ul>
