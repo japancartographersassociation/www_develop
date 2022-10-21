@@ -21,7 +21,7 @@ tags:
 
 <br>
 
-[◎第50回地方大会ポスター（PDF形式）](assets/file/program50th2018.pdf)
+[◎第50回地方大会ポスター（PDF形式）](../../archive/file/program/program50th2018.pdf)
 {:.text-large}
 
 <br>
