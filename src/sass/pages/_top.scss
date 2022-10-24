@@ -246,6 +246,94 @@ body.page--top{
     }
   }
 
+  .top--translation{
+    padding:90px 0 30px;
+    .translation-box{
+      width:75%;
+      margin:0 auto;
+      border:13px solid white;
+      padding:40px 0;
+      text-align:center;
+      p{
+        margin:0;
+        @include fsize(18);
+      }
+    }
+  }
+
+  .activity-section{
+    padding:50px 0;
+    .activity-h2{
+      color:#891c23;
+      text-align:center;
+      @include fsize(42);
+      @include fbold;
+      &:before,
+      &:after{
+        display:none;
+      }
+      span{
+        position:relative;
+        display:inline-block;
+        &:before{
+          display:block;
+          content:"";
+          width:100%;
+          height:4px;
+          background:#891c23;
+          position:absolute;
+          left:0;
+          bottom:-4px;
+        }
+      }
+    }
+    .activity-heading-text{
+      text-align:center;
+      @include fsize(18);
+    }
+  }
+
+  .activity-box{
+    background:white;
+    margin:30px auto;
+    padding:50px;
+    .activity-row{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      .activity-icon{
+        width:230px;
+        .act-icon{
+          width:100px;
+          margin:0 auto;
+        }
+        .act-cap{
+          @include fsize(20);
+          @include fbold;
+          text-align:center;
+          color:#891c23;
+        }
+      }
+      .activity-sp-title{
+        display:none;
+      }
+      .activity-value{
+        width:calc(100% - 250px);
+        .act-text{
+          @include fsize(16);
+          line-height:2;
+          margin-top:20px;
+          > a{
+            display:inline-block;
+            padding:0 15px 0 0;
+            background:url(../img/icon/exlink.svg) no-repeat right center;
+            background-size:13px auto;
+          }
+        }
+      }
+    }
+  }
+
 @media (max-width:map-get($grid-breakpoints, 'lg')){
   .info-scroll{
     width:100%;
@@ -398,6 +486,61 @@ body.page--top{
           &.name{
             @include fsize(16);
           }
+        }
+      }
+    }
+  }
+
+  .top--translation{
+    padding:40px 0 0;
+    .translation-box{
+      width:100%;
+      border:8px solid white;
+      padding:20px;
+      p{
+        @include fsize(13);
+      }
+    }
+  }
+
+  .activity-section{
+    padding:20px 0;
+    .activity-h2{
+      color:#891c23;
+      @include fsize(22);
+      span{
+        &:before{
+          height:2px;
+          bottom:-2px;
+        }
+      }
+    }
+    .activity-heading-text{
+      @include fsize(13);
+    }
+  }
+
+  .activity-box{
+    margin:20px auto;
+    padding:20px;
+    .activity-row{
+      display:block;
+      .activity-icon{
+        width:100%;
+        margin:0 auto;
+        .act-icon{
+          width:60px;
+        }
+        .act-cap{
+          @include fsize(16);
+        }
+      }
+      .activity-value{
+        width:100%;
+        .act-text{
+          @include fsize(13);
+          line-height:1.7;
+          margin-top:10px;
         }
       }
     }

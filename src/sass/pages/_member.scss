@@ -1,4 +1,4 @@
-.page--member{
+//.page--member{
   .member-heading{
     background:url(../img/member/bg_main.jpg) no-repeat center center;
     background-size:cover;
@@ -78,6 +78,10 @@
                 @include fsize(40);
                 @include fbold;
                 color:#891c23;
+                &.lh-1{
+                  line-height:1.2;
+                  margin-top:30px;
+                }
               }
               .cfv-text{
                 @include fsize(16);
@@ -423,6 +427,9 @@
               padding:20px;
               .cfv-title{
                 @include fsize(22);
+                &.lh-1{
+                  margin-top:0;
+                }
               }
               .cfv-text{
                 @include fsize(13);
@@ -540,4 +547,4 @@
     }
   }
 }
-}
+//}

@@ -128,7 +128,7 @@ information: [
       <div class="topics-list">
 {% assign topics_count = 0 %}
 {% for post in site.posts %}
-  {% if post.categories.first == 'tournament' or post.categories.first == 'event' %}
+  {% if post.categories.first == 'tournament' or post.categories.first == 'event' or post.categories.first == 'conference' or post.categories.first == 'official' %}
   {% if topics_count < 3 %}
   {% assign topics_count = topics_count|plus:1 %}
         <a href="{{post.url | relative_url}}" class="topics">
