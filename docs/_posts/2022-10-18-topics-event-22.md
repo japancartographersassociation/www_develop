@@ -14,6 +14,7 @@ tags:
 # 鈴木 厚志（立正大学）
 
 ![サンプルイメージ]({{'/assets/img/topics/event_22.jpg' | relative_url}}){:.w-100}
+{:.main-image}
 
 統計地図のルーツを辿る（第一報）
 
