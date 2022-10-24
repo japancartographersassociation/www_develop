@@ -14,6 +14,7 @@ tags:
 # 川田 未羽(品川女子学院)/河合 豊明 * (品川女子学院)
 
 ![サンプルイメージ]({{'/assets/img/topics/event_24.jpg' | relative_url}}){:.w-100}
+{:.main-image}
 
 個人が探究する地図学習の提案
 

@@ -34,15 +34,15 @@ tags:
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.l-image-table}
+{:.image-table}
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.m-image-table}
+{:.image-table}
 
 |![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|![サンプルイメージ]({{'/assets/img/dummy/image01.png' | relative_url}}){:.w-100}|
 |||注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト注釈テキスト|
-{:.s-image-table}
+{:.image-table}
 
 <div class="yt-wrap">
   <iframe src="https://www.youtube.com/embed/EHvXosE57P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
