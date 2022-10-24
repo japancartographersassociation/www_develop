@@ -32,7 +32,7 @@ bodyclass: top
   <div class="top--translation">
     <div class="container">
       <div class="translation-box">
-        <p>If you would like Japanese translation, please use the "DeepL" Chrome extension.</p>
+        <p>If you would like Japanese translation, please use the "<a href="https://www.deepl.com/ja/translator" target="_blank">DeepL</a>" Chrome extension.</p>
       </div>
     </div>
   </div>
