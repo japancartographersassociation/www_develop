@@ -10,7 +10,7 @@ bodyclass: topics
 
 <div class="topics-list">
 {% for post in site.posts %}
-  {% if post.categories.first == 'tournament' or post.categories.first == 'event' or post.categories.first == 'conference' or post.categories.first == 'official' %}
+  {% if post.categories.first == 'event' or post.categories.first == 'conference' or post.categories.first == 'official' %}
   <a href="{{post.url | relative_url}}" class="topics">
     <div class="t-img"><img src="{{ site.baseurl }}{{post.thumbnail}}" alt="" class="w-100"></div>
     <div class="t-info">
