@@ -23,7 +23,7 @@ bodyclass: award
         <div class="box-sr-text">
           <p><b>代表者テキストテキスト</b></p>
           <p>【概要】テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-          <p class="sr-link"><a href="">・事業提案書<span class="icon-doc"></span></a></p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@ bodyclass: award
         <div class="box-sr-text">
           <p><b>代表者テキストテキスト</b></p>
           <p>【概要】テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-          <p class="sr-link"><a href="">・事業提案書<span class="icon-doc"></span></a></p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
     </div>
@@ -53,7 +53,7 @@ bodyclass: award
         <div class="box-sr-text">
           <p><b>代表者テキストテキスト</b></p>
           <p>【概要】テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-          <p class="sr-link"><a href="">・事業提案書<span class="icon-doc"></span></a></p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
     </div>
@@ -68,7 +68,7 @@ bodyclass: award
         <div class="box-sr-text">
           <p><b>代表者テキストテキスト</b></p>
           <p>【概要】テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</p>
-          <p class="sr-link"><a href="">・事業提案書<span class="icon-doc"></span></a></p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/瀬戸玲子基金パンフ.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
     </div>
