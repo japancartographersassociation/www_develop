@@ -11,8 +11,6 @@ tags:
   - 第0回（令和0年度）
 members:
   - ダミーテキスト
-  - 満下健太 会員（早稲田大学）
-  - 村越　真 会員（静岡大学）
 ---
 
 # ![サンプルイメージ]({{'/assets/img/icon/award_ornament.svg' | relative_url}}){:.award-icon}名誉会員
