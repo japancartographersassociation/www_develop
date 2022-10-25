@@ -11,7 +11,7 @@ bodyclass: award
 
 <div class="top-section">
   <h2>第16回（令和4年度）受賞結果</h2>
-  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。　※ 第16回（令和4年度）野村正七地図賞・論文奨励賞は該当なし。</p>
+  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。</p>
   <div class="award-list">
     {% for post in site.posts %}
       {% if post.categories[0] == 'honorarymembers' %}
@@ -35,7 +35,7 @@ bodyclass: award
 
 <div class="top-section">
   <h2>第15回（令和3年度）受賞結果</h2>
-  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。　※ 第15回（令和3年度）野村正七地図賞・論文奨励賞は該当なし。</p>
+  <p class="heading-text">※受賞者の所属は、受賞当時のものとします。　※ 第15回（令和3年度）該当なし。</p>
   <div class="award-list">
     {% for post in site.posts %}
       {% if post.categories[0] == 'honorarymembers' %}
