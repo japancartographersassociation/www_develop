@@ -104,7 +104,7 @@ bodyclass: member
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_01.svg" class="w-100" alt=""></div>
           <div class="type-name">普通会員</div>
           <div class="type-price">8,000円/年</div>
-          <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
+          <div class="type-text">個人で日本地図学会に入会されたい場合はこちらの会員をお選びください。機関誌「地図」の送付などすべての特典を受けることができます。学生の場合は年会費の安価な「学生会員」をお薦めします。</div>
           <div class="type-button">
             <div class="d-grid">
               <a href="{{'/archive/file/member/nyuukai.pdf' | relative_url}}" class="btn btn-default">普通会員 入会申込書<span class="icon-pdf"></span></a>
@@ -132,7 +132,7 @@ bodyclass: member
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_03.svg" class="w-100" alt=""></div>
           <div class="type-name">学生会員</div>
           <div class="type-price">2,000円/年</div>
-          <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
+          <div class="type-text">普通会員と同等の特典を受けることができる特別な割引会員制度です。卒業後など、学生の身分から変更となった際には自動的に普通会員として切り替わります。卒業されたときには事務局にご報告をお願いいたします。</div>
           <div class="type-button">
             <div class="d-grid">
               <a href="{{'/archive/file/member/nyuukai.pdf' | relative_url}}" class="btn btn-default">学生会員 入会申込書<span class="icon-pdf"></span></a>
@@ -145,7 +145,7 @@ bodyclass: member
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_04.svg" class="w-100" alt=""></div>
           <div class="type-name">購読会員</div>
           <div class="type-price">8,000円/年<small>（機関誌1部につき）</small></div>
-          <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
+          <div class="type-text">機関誌「地図」の送付を希望する際に1部ごとに追加の申込みをすることができます。それ以外の特典はありません。法人会員としての会員申込みは「特別会員」としてお願いしております。</div>
           <div class="type-button">
             <div class="d-grid">
               <a href="{{'/archive/file/member/nyuukai2.pdf' | relative_url}}" class="btn btn-default">購読会員 入会申込書<span class="icon-pdf"></span></a>
@@ -158,7 +158,7 @@ bodyclass: member
           <div class="type-icon"><img src="{{ site.baseurl }}/assets/img/member/icon_member_05.svg" class="w-100" alt=""></div>
           <div class="type-name">特別会員</div>
           <div class="type-price"><small>1口 </small>80,000円/年<small>（1口以上随意）</small></div>
-          <div class="type-text">この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の文章とは異なります。この文字はダミーです。この文字は実際の</div>
+          <div class="type-text">法人として日本地図学会に入会されたい場合はこちらの会員をお選びください。機関誌「地図」の送付などすべての特典を受けることができます。１口につき普通会員１０名分の特典となります。但し、機関誌「地図」は２部のみの送付となります。追加部数をご希望の場合は購読会員との併用をお勧めいたします。</div>
           <div class="type-button">
             <div class="d-grid">
               <a href="{{'/archive/file/member/nyuukai2.pdf' | relative_url}}" class="btn btn-default">特別会員 入会申込書<span class="icon-pdf"></span></a>

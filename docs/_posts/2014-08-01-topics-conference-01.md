@@ -6,7 +6,7 @@ description: 来たる平成26（2014）年８月６日～９日、平成２６�
 thumbnail: /assets/img/topics/noimage.jpg
 bodyclass: topics-detail
 categories:
-  - tournament
+  - conference
 tags:
   - 大会
 ---
