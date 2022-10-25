@@ -28,6 +28,13 @@ body.page--top{
           max-height:100%;
         }
       }
+      .img-obj-en{
+        height:506px;
+        max-height:38%;
+        img{
+          max-height:100%;
+        }
+      }
     }
     .btn-regist{
       position:absolute;
@@ -350,6 +357,9 @@ body.page--top{
     .main-image{
       .img-obj{
         height:334px;
+      }
+      .img-obj-en{
+        height:148px;
       }
     }
     .btn-regist{

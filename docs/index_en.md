@@ -15,8 +15,8 @@ bodyclass: top
       </picture>
     </div>
     <div class="main-image">
-      <div class="img-obj">
-        <img src="{{ site.baseurl }}/assets/img/top/obj_heading.png" alt="">
+      <div class="img-obj-en">
+        <img src="{{ site.baseurl }}/assets/img/top/obj_heading_en.png" alt="">
       </div>
     </div>
     <a href="member.html" class="btn-regist">
