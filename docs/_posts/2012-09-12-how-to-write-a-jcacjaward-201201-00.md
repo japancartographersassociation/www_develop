@@ -1,5 +1,5 @@
 ---
-permalink: /jcacjaward/2022/2
+permalink: /jcacjaward/2012/0
 layout: topics_detail
 title: 作品・出版賞
 thumbnail: /assets/img/icon/award_pin.svg
