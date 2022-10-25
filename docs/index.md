@@ -101,6 +101,18 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
+      <h3 class="top-h3"><span>【開催終了】日本地図学会<br class="d-md-none">２０２２年度定期大会</span></h3>
+      <p class="top-heading-text"><span class="large">本大会は終了しました。</span><br>大会開催時の様子をアーカイブしています。Discordの「発表会場」チャンネルにて閲覧ください。</p>
+      <div class="button-discord">
+        <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="top--section">
+    <div class="container">
       <h2 class="top-h2-en">INFORMATION</h2>
       <div class="info-scroll">
         <div class="info-list">

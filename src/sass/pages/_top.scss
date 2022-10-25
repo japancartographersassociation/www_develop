@@ -116,6 +116,19 @@ body.page--top{
       text-align:center;
       @include fsize(18);
       line-height:2;
+      .large{
+        @include fsize(24);
+        @include fbold;
+      }
+    }
+    .button-discord{
+      width:250px;
+      margin:30px auto;
+      a{
+        &:hover{
+          opacity:.8;
+        }
+      }
     }
   }
 
@@ -405,6 +418,18 @@ body.page--top{
     }
     .top-heading-text{
       @include fsize(13);
+      .large{
+        @include fsize(16);
+      }
+    }
+    .button-discord{
+      width:250px;
+      margin:30px auto;
+      a{
+        &:hover{
+          opacity:.8;
+        }
+      }
     }
   }
 
