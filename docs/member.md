@@ -31,7 +31,7 @@ bodyclass: member
           <div class="col-first-row">
             <div class="col-first-val">
               <div class="cfv-title">機関誌『地図』無償配布</div>
-              <div class="cfv-text">機関誌『地図』および添付地図の無償配布を受け、<br class="d-none d-md-inline-block">またこれに投稿することができます。</div>
+              <div class="cfv-text"><a href="{{'/service.html#Journal-of-the-Japan-Cartographers-Association' | relative_url}}">機関誌『地図』</a>および添付地図の無償配布を受け、<br class="d-none d-md-inline-block">またこれに投稿することができます。</div>
             </div>
             <div class="col-first-img">
               <img src="{{ site.baseurl }}/assets/img/member/img_book.jpg" class="w-100" alt="">

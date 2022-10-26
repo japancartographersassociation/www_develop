@@ -44,10 +44,10 @@ bodyclass: activity
         </div>
         <div class="activity-value">
           <div class="act-text">
-            <b>① 機関誌「地図」：季刊（年４回）</b><br>
+            <b>① <a href="{{'/service.html#Journal-of-the-Japan-Cartographers-Association' | relative_url}}">機関誌「地図」</a>：季刊（年４回）</b><br>
             論文・ニュース・関連学会等の情報等を掲載。これまでに古地図、地図教育、GIS等の特集号を刊行。<br>
             <br>
-            <b>② 機関誌「地図」添付地図</b><br>
+            <b>② <a href="{{'/service.html#Journal-of-the-Japan-Cartographers-Association' | relative_url}}">機関誌「地図」</a>添付地図</b><br>
             市販されていないすぐれた地図等を毎号添付し、本文中にその解説を掲載。<br>
             <br>
             <b>③ 刊 行 物：随　時</b><br>
