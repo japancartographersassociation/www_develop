@@ -144,9 +144,25 @@
           li{
             @include fsize(16);
             color:#891c23;
+            .text{
+              display:inline-block;
+            }
             a{
               @include fsize(16);
               line-height:1.6;
+              &:hover{
+                .icon-pdf{
+                  opacity:.6;
+                }
+                .icon-doc{
+                  opacity:.6;
+                }
+              }
+            }
+            &.active{
+              .text{
+                border-bottom:1px solid #891c23;
+              }
             }
           }
         }

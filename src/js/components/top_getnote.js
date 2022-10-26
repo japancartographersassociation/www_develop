@@ -14,7 +14,7 @@ export default () => {
     }).finally(() => {
       append_html += '<div class="topics-list">'
       note_list.forEach((v,i) => {
-        if(i < 3){
+        if(i < 6){
           //console.log(v)
           append_html += '<a href="https://note.com/jcacj/n/' + v.key + '" class="topics" target="_blank">'
           append_html += '<div class="t-img"><img src="' + v.eyecatch + '" alt="" class="w-100"></div>'
