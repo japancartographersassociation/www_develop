@@ -17,7 +17,7 @@ bodyclass: activity
         <h2 class="hd-title">日本地図学会 | Japan Cartographers Association</h2>
         <div class="hd-text">
           <b>設立</b><br>
-          昭和37(1962）年11月<br>
+          昭和37(1962)年11月<br>
           平成24(2012)年 　創立50周年式典・パーティーを開催<br>
         </div>
         <div class="hd-text">
