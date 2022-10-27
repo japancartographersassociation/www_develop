@@ -142,7 +142,7 @@ bodyclass: top
             <div class="col-first-row">
               <div class="col-first-val">
                 <div class="cfv-title lh-1">Free distribution of<br>"Map" magazine</div>
-                <div class="cfv-text">Members will receive a free copy of the journal "Maps" and accompanying maps for each issue. Members may also submit their own or co-authored articles to the journal.</div>
+                <div class="cfv-text">Members will receive a free copy of the journal "Map" and accompanying maps for each issue. Members may also submit their own or co-authored articles to the journal.</div>
               </div>
               <div class="col-first-img">
                 <img src="{{ site.baseurl }}/assets/img/member/img_book.jpg" class="w-100" alt="">
