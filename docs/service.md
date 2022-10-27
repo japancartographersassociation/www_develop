@@ -10,7 +10,12 @@ bodyclass: service
 
 <div class="top-section" data-hash-target="#Journal-of-the-Japan-Cartographers-Association">
   <h2>機関誌 「地図」 －空間表現の科学－</h2>
-  <p class="heading-text">「地図」(Journal of the Japan Cartographers Association)は日本地図学会の機関誌で、原則として年4回発行する本学会の機関サービスです。この機関誌「地図」は、日本地図学会会則第4条に記されている本学会の目的「地図学に関する研究の連絡、 提携を図ることにより、地図学の理論の構築と普及および地図・空間情報などに関する技術の向上に資するとともに、これらの応用および地図教育などの発展に寄与し、もって地図学の発達、普及を推進すること」にふさわしい論文等のほか、 学会員に対する情報提供のための記事を掲載するもので、 地図学におけるわが国の代表的な学術誌として、1963年の創刊以来継続して刊行しております。</p>
+  <div class="thumb-row">
+    <div class="image-col"><img src="{{ site.baseurl }}/assets/img/service/thumb_book_01.jpeg" class="w-100" alt=""></div>
+    <div class="main-col">
+      <p class="heading-text">「地図」(Journal of the Japan Cartographers Association)は日本地図学会の機関誌で、原則として年4回発行する本学会の機関サービスです。この機関誌「地図」は、日本地図学会会則第4条に記されている本学会の目的「地図学に関する研究の連絡、 提携を図ることにより、地図学の理論の構築と普及および地図・空間情報などに関する技術の向上に資するとともに、これらの応用および地図教育などの発展に寄与し、もって地図学の発達、普及を推進すること」にふさわしい論文等のほか、 学会員に対する情報提供のための記事を掲載するもので、 地図学におけるわが国の代表的な学術誌として、1963年の創刊以来継続して刊行しております。</p>
+    </div>
+  </div>
   <div class="top-menus">
     <div class="menu-box">
       <div class="menu-box-inner">
@@ -89,17 +94,27 @@ bodyclass: service
 
 <div class="top-section">
   <h2>みんなの自然災害伝承</h2>
-  <p class="heading-text">2020年より、日本国土地理院が各市区町村経由で収集し、地理院地図で地図上に公開されている<a href="https://www.gsi.go.jp/bousaichiri/denshouhi.html" target="_blank">自然災害伝承碑</a>の情報収集を市民参加型で行うための、地図情報収集プラットフォームです。このサービスは <a href="https://monumen.to/" target="_blank">Monumen.to</a> をベースに、先人による自然災害の様子や教訓を石碑やモニュメントに刻み、後世の私たちに遺してくれた、その貴重な情報をデジタルアーカイブすることで、まだアーカイブされていない自然災害伝承碑情報を補完していきます。</p>
-  <div class="back-to-top">
-    <a href="{{'/monumento.html' | relative_url}}">VIEW MORE</a>
+  <div class="thumb-row">
+    <div class="image-col"><img src="{{ site.baseurl }}/assets/img/main/noimage03.jpg" class="w-100" alt=""></div>
+    <div class="main-col">
+      <p class="heading-text">2020年より、日本国土地理院が各市区町村経由で収集し、地理院地図で地図上に公開されている<a href="https://www.gsi.go.jp/bousaichiri/denshouhi.html" target="_blank">自然災害伝承碑</a>の情報収集を市民参加型で行うための、地図情報収集プラットフォームです。このサービスは <a href="https://monumen.to/" target="_blank">Monumen.to</a> をベースに、先人による自然災害の様子や教訓を石碑やモニュメントに刻み、後世の私たちに遺してくれた、その貴重な情報をデジタルアーカイブすることで、まだアーカイブされていない自然災害伝承碑情報を補完していきます。</p>
+      <div class="back-to-top">
+        <a href="{{'/monumento.html' | relative_url}}">VIEW MORE</a>
+      </div>
+    </div>
   </div>
 </div>
 
 
 <div class="top-section">
   <h2>日本地図学会 GitHubラボ</h2>
-  <p class="heading-text">広報・IT委員会を中心に、日本地図学会の新サービスや実験的なプロダクトを GitHub 上でテストしています。原則、誰でも参画可能なオープンリポジトリとして公開していますので、興味のある方はぜひ Pull Request や Fork など自由に Contribute いただければ幸いです。</p>
+  <div class="thumb-row">
+    <div class="image-col"><img src="{{ site.baseurl }}/assets/img/main/noimage03.jpg" class="w-100" alt=""></div>
+    <div class="main-col">
+      <p class="heading-text">広報・IT委員会を中心に、日本地図学会の新サービスや実験的なプロダクトを GitHub 上でテストしています。原則、誰でも参画可能なオープンリポジトリとして公開していますので、興味のある方はぜひ Pull Request や Fork など自由に Contribute いただければ幸いです。</p>
+    </div>
+  </div>
   <div class="button-discord">
-    <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
+    <a href="https://github.com/japancartographersassociation" target="_blank"><img src="{{ site.baseurl }}/assets/img/main/btn_github.svg" class="w-100" alt=""></a>
   </div>
 </div>

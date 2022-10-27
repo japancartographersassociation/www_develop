@@ -18,7 +18,7 @@ body{
   -webkit-font-smoothing: antialiased;
   position:relative;
   padding-top:80px;
-  background:url(../img/top//bg_main.png) repeat center center;
+  background:url(../img/top//bg_main.jpg) repeat center center;
 @include contentSP{
   padding-top:54px;
 }
@@ -109,6 +109,18 @@ body{
           margin-right:5px;
           vertical-align: -3px;
         }
+      }
+    }
+    .thumb-row{
+      display:flex;
+      margin:0 -20px;
+      .image-col{
+        width:25%;
+        padding:20px;
+      }
+      .main-col{
+        width:75%;
+        padding:20px;
       }
     }
   }
@@ -211,6 +223,20 @@ body{
         &:before{
           vertical-align: -3px;
         }
+      }
+    }
+    .thumb-row{
+      display:block;
+      margin:0;
+      .image-col{
+        width:50%;
+        padding:0;
+        margin:0 auto;
+      }
+      .main-col{
+        width:100%;
+        padding:0;
+        margin-top:20px;
       }
     }
   }
