@@ -1,6 +1,6 @@
 ---
 permalink: /service.html
-title: サービス
+title: 日本地図学会　サービス
 bodyclass: service
 ---
 
@@ -112,6 +112,9 @@ bodyclass: service
     <div class="image-col"><img src="{{ site.baseurl }}/assets/img/main/noimage03.jpg" class="w-100" alt=""></div>
     <div class="main-col">
       <p class="heading-text">広報・IT委員会を中心に、日本地図学会の新サービスや実験的なプロダクトを GitHub 上でテストしています。原則、誰でも参画可能なオープンリポジトリとして公開していますので、興味のある方はぜひ Pull Request や Fork など自由に Contribute いただければ幸いです。</p>
+      <div class="back-to-top">
+        <a href="https://github.com/japancartographersassociation" target="_blank">GO TO GITHUB</a>
+      </div>
     </div>
   </div>
   <div class="button-discord">

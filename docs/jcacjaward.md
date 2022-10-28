@@ -1,7 +1,7 @@
 ---
 permalink: /jcacjaward.html
 layout: under_award
-title: 学会賞
+title: 日本地図学会　学会賞
 bodyclass: award
 jcacjaward_list: [
   ['第16回（令和4年度）受賞結果', '※受賞者の所属は、受賞当時のものとします。　※ 第16回（令和4年度）野村正七地図賞・論文奨励賞は該当なし。', '16th'],

@@ -1,7 +1,7 @@
 ---
 permalink: /latestjournal.html
 layout: under_service
-title: 機関誌 「地図」 最新号目次
+title: 日本地図学会　機関誌 「地図」 最新号目次
 bodyclass: service
 ---
 

@@ -1,7 +1,7 @@
 ---
 permalink: /mapaward.html
 layout: under_award
-title: 地図展優秀地図選定
+title: 日本地図学会　地図展優秀地図選定
 bodyclass: award
 contests:
   - 第11回（平成30年度）優秀賞 #8

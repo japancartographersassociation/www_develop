@@ -1,6 +1,6 @@
 ---
 permalink: /organization.html
-title: 組織・体制
+title: 日本地図学会　組織・体制
 bodyclass: organization
 ---
 

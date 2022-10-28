@@ -1,12 +1,12 @@
 ---
 permalink: /attachedmaps.html
 layout: under_service
-title: Gallery
+title: 日本地図学会　添付地図目録
 bodyclass: service
 ---
 
 
-## Gallery
+## 添付地図目録
 本図を許可なく複製・利用することを禁止します。
 {:.heading-text}
 

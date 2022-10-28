@@ -1,6 +1,6 @@
 ---
 permalink: /award.html
-title: 表彰実績
+title: 日本地図学会　表彰実績
 bodyclass: award
 ---
 

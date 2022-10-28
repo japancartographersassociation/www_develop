@@ -1,7 +1,7 @@
 ---
 permalink: /activity.html
 layout: nocontainer
-title: 日本地図学会のご案内
+title: 日本地図学会　活動紹介
 bodyclass: activity
 ---
 
