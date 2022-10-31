@@ -1,0 +1,11 @@
+{% if page.lang == 'en' %}
+{% include inc_header_en.html %}
+{% else %}
+{% include inc_header.html %}
+{% endif %}
+
+<main>
+  {{ content }}
+</main>
+
+{% include inc_footer.html %}

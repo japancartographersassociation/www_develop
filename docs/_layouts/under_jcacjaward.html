@@ -1,0 +1,20 @@
+{% include inc_header.html %}
+
+<main>
+  <div class="container">
+    <div class="bg-white">
+      <div class="page-infos">
+        <span class="date">{{ page.date | date: "%Y.%m.%d" }}</span>
+        {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {{ content }}
+    </div>
+    <div class="back-to-top">
+      <a href="{{'/jcacjaward.html' | relative_url}}">学会賞TOPに戻る</a>
+    </div>
+  </div>
+</main>
+
+{% include inc_footer.html %}

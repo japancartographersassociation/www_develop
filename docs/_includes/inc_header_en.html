@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{{ page.title }}</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="keywords" content="">
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="{{ page.title }}"/>
+<meta property="og:description" content=""/>
+<meta property="og:url" content=""/>
+{% if page.noindex == true %}
+<meta name="robots" content="noindex">
+{% endif %}
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
+<link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}">
+</head>
+<body class="page--{{ page.bodyclass }}">
+
+<header>
+  <div id="header">
+    <div class="container">
+      <nav class="hd-nav en">
+        <div class="hd-nav-main">
+          <a class="hd-nav-logo" href="{{'/en' | relative_url}}">
+            <img src="{{ '/assets/img/main/logo_header_en.png' | relative_url }}" class="w-100" alt="Japan Cartographers Association.">
+          </a>
+          <button class="hd-nav-toggle collapsed" type="button" data-bs-toggle="collapse" data-bs-target=".hd-nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="hd-nav-collapse collapse">
+          <div class="hd-nav-inner">
+            <ul class="site-navigation">
+              <li>
+                <a href="{{'member.html' | relative_url}}" class="ltc-2">Membership guide</a>
+              </li>
+              <li>
+                <a href="{{'activity.html' | relative_url}}" class="ltc-2">Activity</a>
+              </li>
+              <li>
+                <a href="{{'service.html' | relative_url}}" class="ltc-2">Service</a>
+              </li>
+              <li>
+                <a href="{{'award.html' | relative_url}}" class="ltc-2">Award</a>
+              </li>
+              <li>
+                <a href="{{'organization.html' | relative_url}}" class="ltc-2">Organization</a>
+              </li>
+            </ul>
+            <ul class="site-language">
+              <li>
+                <a href="{{'/' | relative_url}}" class="lang">JP</a>
+              </li>
+              <li>
+                <a href="{{'/en' | relative_url}}" class="lang active">EN</a>
+              </li>
+            </ul>
+            <ul class="site-sns">
+              <li>
+                <a href="https://twitter.com/jcapr2?ref_src=twsrc%5Etfw" class="sns" target="_blank"><img src="{{ '/assets/img/icon/sns_tw.svg' | relative_url }}" class="w-100" alt=""></a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/japancartographersassociation/" class="sns" target="_blank"><img src="{{ '/assets/img/icon/sns_fb.svg' | relative_url }}" class="w-100" alt=""></a>
+              </li>
+              <li class="separate"></li>
+              <li>
+                <a href="https://note.com/jcacj" class="sns" target="_blank"><img src="{{ '/assets/img/icon/sns_note.svg' | relative_url }}" class="w-100" alt=""></a>
+              </li>
+              <li class="separate"></li>
+              <li>
+                <a href="https://discord.gg/MEVck7H" class="sns" target="_blank"><img src="{{ '/assets/img/icon/sns_discord.svg' | relative_url }}" class="w-100" alt=""></a>
+              </li>
+              <li>
+                <a href="https://github.com/japancartographersassociation/" class="sns" target="_blank"><img src="{{ '/assets/img/icon/sns_github.svg' | relative_url }}" class="w-100" alt=""></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
