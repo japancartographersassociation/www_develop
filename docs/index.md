@@ -8,12 +8,6 @@ information: [
   ['2022.10.18','イベント','若林 芳樹（東京都立大学）','/topics/event/23',false],
   ['2022.09.08','note','【巡検「新旧津和野の階層的景観〜堀田仁助の業績を訪ねて〜」開催(10/1,2)｜日本地図学会公式ブログ 】','https://note.com/jcacj/n/n3d6c7c772a62',true],
   ['2022.09.01','note','【機関誌「地図」－空間表現の科学－Vol.60 No.2（通巻238号）が刊行｜日本地図学会公式ブログ 】','https://note.com/jcacj/n/nd34e0e146e24',true],
-  # ['2022.10.10','トピックス','【川田 未羽(品川女子学院)/河合 豊明 * (品川女子学院) 】','/topics/1',false],
-  # ['2022.10.10','インタビュー','【インタビュー動画タイトル】','/topics/2',false],
-  # ['2022.10.10','note','【日本地図学会 2022年度 第213回例会「世界の地図展」地図に描かれた世界｜日本地図学会公式ブログ 】','https://google.com',true],
-  # ['2022.10.10','トピックス','【川田 未羽(品川女子学院)/河合 豊明 * (品川女子学院) 】','/topics/1',false],
-  # ['2022.10.10','インタビュー','【インタビュー動画タイトル】','/topics/2',false],
-  # ['2022.10.10','note','【日本地図学会 2022年度 第213回例会「世界の地図展」地図に描かれた世界｜日本地図学会公式ブログ 】','https://google.com',true],
 ]
 ---
 
@@ -52,6 +46,7 @@ information: [
   </div>
 </section>
 
+<!--
 <section>
   <div class="top--section">
     <div class="container">
@@ -97,8 +92,8 @@ information: [
     </div>
   </div>
 </section>
+-->
 
-<!--
 <section>
   <div class="top--section">
     <div class="container">
@@ -110,7 +105,7 @@ information: [
     </div>
   </div>
 </section>
--->
+
 
 <section>
   <div class="top--section">
