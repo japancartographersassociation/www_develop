@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2022.10.18','大会','【日本地図学会２０２２年度定期大会のお知らせ（第3報）】','/topics/conference/19',false],
+  ['2023.07.11','大会','【日本地図学会２０２３年度定期大会のお知らせ】','/topics/conference/20',false],
   ['2022.10.18','イベント','鈴木 厚志（立正大学）','/topics/event/22',false],
   ['2022.10.18','イベント','若林 芳樹（東京都立大学）','/topics/event/23',false],
   ['2022.09.08','note','【巡検「新旧津和野の階層的景観〜堀田仁助の業績を訪ねて〜」開催(10/1,2)｜日本地図学会公式ブログ 】','https://note.com/jcacj/n/n3d6c7c772a62',true],
