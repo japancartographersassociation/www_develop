@@ -33,6 +33,7 @@ information: [
   </div>
 </section>
 
+<!--
 <section>
   <div class="top--tw-block">
     <div class="container">
@@ -45,6 +46,7 @@ information: [
     </div>
   </div>
 </section>
+-->
 
 <!--
 <section>
@@ -97,8 +99,8 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-      <h3 class="top-h3"><span>【開催終了】日本地図学会<br class="d-md-none">２０２２年度定期大会</span></h3>
-      <p class="top-heading-text"><span class="large">本大会は終了しました。</span><br>大会開催時の様子をアーカイブしています。Discordの「発表会場」チャンネルにて閲覧ください。</p>
+      <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/20">日本地図学会<br class="d-md-none">２０２3年度定期大会</a></span></h3>
+      <p class="top-heading-text"><span class="large">順次最新情報を更新中。</span><br>大会当日はDiscordの「発表会場」チャンネルにて活発な議論にご参加ください。</p>
       <div class="button-discord">
         <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
       </div>
