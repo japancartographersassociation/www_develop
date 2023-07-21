@@ -4,7 +4,7 @@ permalink: /topics/conference/20
 layout: topics_detail
 title: 【日本地図学会２０２３年度定期大会のお知らせ】
 description: 今年度の定期大会は岐阜県図書館でリアル開催を予定しております。奮ってご参加ください。
-thumbnail: /assets/img/topics/noimage.jpg
+thumbnail: /assets/img/topics/jcacj_annualconference_760x520.jpg
 bodyclass: topics-detail
 categories:
   - conference
