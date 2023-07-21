@@ -71,9 +71,9 @@ tags:
 
 #### ２．発表要旨の提出方法
 「定期大会発表論文・資料集」の原稿は，以下の定期大会案内に記載の執筆要領に従い，指定のフォーマット（事務局より提供）を使用してください。また，原稿のファイル形式はPDFとします。<br>
-**[日本地図学会2023年度定期大会のお知らせ（PDF形式）← クリックしてご確認ください](../../archive/file/program/2023Gifu_entryguide.pdf)**<br>
+**[日本地図学会2023年度定期大会のお知らせ（PDF形式）](../../archive/file/program/2023Gifu_entryguide.pdf)**<br>
 **[「定期大会発表論文・資料集」の原稿フォーマット](../../archive/file/program/Templete2023JCA.docx)**<br>
-**[ポスター形式はこちら（PDF形式）](../../archive/file/program/2023-ICC-Gifu-Poster-03.pdf)**<br>
+**[ポスター形式はこちら（PDF形式）](../../archive/file/program/2023-ICC-Gifu-Poster-04.pdf) <font color="#ff0000"> <<2023/7/21 更新**<br>
 提出期限は7月23日（日）です。提出物が遅れる場合は，事前に事務局までお知らせください。<br>
 原稿は，学会事務局宛に電子メールの添付ファイルで送付してください。<br>
 #### ３．学会へのお問い合わせ
