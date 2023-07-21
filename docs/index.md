@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2023.07.21','大会','【日本地図学会２０２３年度定期大会のお知らせ(第３報)】','/topics/conference/21',false],
   ['2023.07.11','大会','【日本地図学会２０２３年度定期大会のお知らせ】','/topics/conference/20',false],
 ]
 ---
