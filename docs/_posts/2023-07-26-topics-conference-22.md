@@ -75,7 +75,8 @@ tags:
 **[日本地図学会2023年度定期大会のお知らせ（PDF形式）](../../archive/file/program/2023Gifu_entryguide.pdf)**<br>
 **[「定期大会発表論文・資料集」の原稿フォーマット](../../archive/file/program/Templete2023JCA.docx)**<br>
 **[ポスター形式はこちら（PDF形式）](../../archive/file/program/2023-ICC-Gifu-Poster-06.pdf)<span style="color: red; "> << 2023/7/26 更新</span>**<br>
-**[大会スケジュール速報版（PDF形式）](../../archive/file/program/2023-ICC-Gifu-Schedule-06.pdf)<span style="color: red; "> << 2023/7/26 更新</span>**
+**[大会スケジュール速報版（PDF形式）](../../archive/file/program/2023-ICC-Gifu-Schedule-06.pdf)<span style="color: red; "> << 2023/7/26 更新</span>**<br>
+**<span style="color: red; "> ↑↑↑ 最新版は、随時更新しておりますので、SNSなどもご参照ください↑↑↑</span>**<br>
 
 **<u>提出期限は7月23日（日）</u>です。** 
 提出物が遅れる場合は，事前に事務局までお知らせください。<br>
