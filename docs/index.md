@@ -3,8 +3,8 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2023.07.09','大会','【日本地図学会２０２３年度定期大会のお知らせ(第５報) プログラムの変更】','/topics/conference/23',false],
-  ['2023.07.08','研究助成','【2023年度「瀬戸玲子基金・女性のための地図振興支援支援事業」の再募集】','/topics/fund/01',false],
+  ['2023.08.09','大会','【日本地図学会２０２３年度定期大会のお知らせ(第５報) プログラムの変更】','/topics/conference/23',false],
+  ['2023.08.08','研究助成','【2023年度「瀬戸玲子基金・女性のための地図振興支援支援事業」の再募集】','/topics/fund/01',false],
   ['2023.07.21','大会','【日本地図学会２０２３年度定期大会のお知らせ(第４報) スケジュールの公開】','/topics/conference/22',false],
   ['2023.07.21','大会','【日本地図学会２０２３年度定期大会のお知らせ(第３報)】','/topics/conference/21',false],
   ['2023.07.11','大会','【日本地図学会２０２３年度定期大会のお知らせ】','/topics/conference/20',false],
@@ -99,7 +99,7 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-      <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/21">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
+      <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/24">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
       <p class="top-heading-text"><span class="large">順次最新情報を更新中。</span><br>大会当日はDiscordの「発表会場」チャンネルにて活発な議論にご参加ください。</p>
       <div class="button-discord">
         <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
