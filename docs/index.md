@@ -112,7 +112,7 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-	  <iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	  <p class="top-heading-text"><span class="large">2023年度定期大会会場のライブ動画をご参照頂けます</span></p>
 	</div>
   </div>
