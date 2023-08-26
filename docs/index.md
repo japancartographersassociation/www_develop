@@ -101,20 +101,13 @@ information: [
   <div class="top--section">
     <div class="container">
       <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/24">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
-      <p class="top-heading-text"><span class="large">順次最新情報を更新中。</span><br>大会当日はDiscordの「発表会場」チャンネルにて活発な議論にご参加ください。</p>
+      <p class="top-heading-text"><span class="large">順次最新情報を更新中。</span><br>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW?autoplay=1&mute=1" title="2023年度定期大会ライブ動画" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+	  大会当日はDiscordの「発表会場」チャンネルにて活発な議論にご参加ください。</p>
       <div class="button-discord">
         <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
       </div>
     </div>
-  </div>
-</section>
-
-<section>
-  <div class="top--section">
-    <div class="container">
-	  <iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	  <p class="top-heading-text"><span class="large">2023年度定期大会会場のライブ動画をご参照頂けます</span></p>
-	</div>
   </div>
 </section>
 <section>
