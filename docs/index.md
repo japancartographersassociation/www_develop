@@ -109,11 +109,11 @@ information: [
   </div>
 </section>
 
-
 <section>
+  <div class="top--section">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	</iframe>
 	<p class="top-heading-text">会場のライブ動画をご参照頂けます</p>
+  </div>
 </section>
 <section>
   <div class="top--section">
