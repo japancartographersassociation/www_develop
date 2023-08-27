@@ -135,6 +135,18 @@ information: [
 </section>
 
 <section>
+  <div class="top--section note-section">
+    <div class="container">
+      <h2 class="top-h2">日本地図学会公式ブログ（note）</h2>
+      <div id="top-note-list"></div>
+      <div class="back-to-top">
+        <a href="https://note.com/jcacj/" target="_blank">jcacj@note.com</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
   <div class="top--section">
     <div class="container">
       <h2 class="top-h2-en">TOPICS</h2>
@@ -163,18 +175,6 @@ information: [
       </div>
       <div class="back-to-top">
         <a href="{{'/topics.html' | relative_url}}">VIEW MORE</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="top--section note-section">
-    <div class="container">
-      <h2 class="top-h2">日本地図学会公式ブログ（note）</h2>
-      <div id="top-note-list"></div>
-      <div class="back-to-top">
-        <a href="https://note.com/jcacj/" target="_blank">jcacj@note.com</a>
       </div>
     </div>
   </div>
