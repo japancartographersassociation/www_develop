@@ -103,7 +103,7 @@ information: [
       <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/24">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
       <p class="top-heading-text"><span class="large">順次最新情報を更新中。</span><br>
 	  <iframe width="560" height="315" src="https://www.youtube.com/embed/-WDudk5-sb8?si=P9vpPjAYJMrlhVsW" title="2023年度定期大会ライブ動画1日目" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-	  <iframe width="560" height="315" src="https://www.youtube.com/embed/RnCZDmz7INQ?si=BU515vnQXKEqVK_s" title="2023年度定期大会ライブ動画2日目" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/x2TCyGQlGp0?si=8S5b1cikzcXrKsiX" title="2023年度定期大会ライブ動画2日目" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
 	  大会当日はDiscordの「発表会場」チャンネルにて活発な議論にご参加ください。</p>
       <div class="button-discord">
         <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
