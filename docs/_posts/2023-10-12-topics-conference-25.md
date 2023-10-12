@@ -4,7 +4,7 @@ permalink: /topics/conference/25
 layout: topics_detail
 title: 【日本地図学会2023年度地方大会のお知らせ】地図で見る、調べる那覇
 description: 2023年度地方大会のプログラムを掲載しました。
-thumbnail: /assets/img/topics/jcacj_annualconference_760x520.jpg
+thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
 categories:
   - conference
