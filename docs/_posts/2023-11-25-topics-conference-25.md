@@ -20,13 +20,13 @@ tags:
 那覇市歴史博物館
 〒900-8503 沖縄県那覇市久茂地一丁目1-1<br>
 交通アクセス：モノレール「県庁前」下車2分　デパートリンボウ4F<br>
-[ウェブサイト](http://www.rekishi-archive.city.naha.okinawa.jp/visit/accsess)
+[ウェブサイト（交通アクセス）](http://www.rekishi-archive.city.naha.okinawa.jp/visit/accsess)
 
 ### 研究会
 沖縄県立芸術大学 当蔵キャンパス
 〒903-0812 沖縄県那覇市首里当蔵町1-4<br>
 交通アクセス：バス 当蔵（首里公民館向け）下車1分<br>
-[ウェブサイト](https://www.okigei.ac.jp/access/access-index.html)
+[ウェブサイト（交通アクセス）](https://www.okigei.ac.jp/access/access-index.html)
 
 ## スケジュール
 ### 見学会
