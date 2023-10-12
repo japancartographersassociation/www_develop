@@ -20,7 +20,7 @@ tags:
 那覇市歴史博物館
 〒900-8503 沖縄県那覇市久茂地一丁目1-1<br>
 交通アクセス：モノレール「県庁前」下車2分　デパートリンボウ4F<br>
-[ウェブサイト（交通アクセス）](http://www.rekishi-archive.city.naha.okinawa.jp/visit/accsess)
+[ウェブサイト（交通アクセス）](http://www.rekishi-archive.city.naha.okinawa.jp/visit/accsess) 
 
 ### 研究会
 沖縄県立芸術大学 当蔵キャンパス
