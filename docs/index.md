@@ -96,7 +96,7 @@ information: [
   </div>
 </section>
 -->
-
+<!--
 <section>
   <div class="top--section">
     <div class="container">
@@ -108,6 +108,7 @@ information: [
     </div>
   </div>
 </section>
+-->
 <section>
   <div class="top--section">
     <div class="container">
