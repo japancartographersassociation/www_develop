@@ -31,7 +31,7 @@ tags:
 - その他一般：500円（資料代として）
 
 ## 申し込み
- [Google Form](https://forms.gle/SkUrUa1JYtPdmnmH8){:target=”_blank”} からのみの申し込みになります。<br>
+ [Google Form](https://forms.gle/SkUrUa1JYtPdmnmH8){:target=”_blank”} からお申し込みください。<br>
 当日も受付ますが、資料がお渡しできない可能性があります。また参加費（資料代）は当日受付でお支払いください。
 
 ## 趣旨
