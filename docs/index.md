@@ -152,7 +152,7 @@ information: [
 {% assign topics_count = 0 %}
 {% for post in site.posts %}
   {% if post.categories.first == 'event' or post.categories.first == 'conference' or post.categories.first == 'official' %}
-  {% if topics_count < 6 %}
+  {% if topics_count < 3 %}
   {% assign topics_count = topics_count|plus:1 %}
         <a href="{{post.url | relative_url}}" class="topics">
           <div class="t-img"><img src="{{ site.baseurl }}{{post.thumbnail}}" alt="" class="w-100"></div>
