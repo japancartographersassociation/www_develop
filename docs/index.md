@@ -2,14 +2,6 @@
 layout: nocontainer
 title: 日本地図学会
 bodyclass: top
-information: [
-  ['2023.12.02','例会','日本地図学会　第218回例会「ナビゲーションと地図読みの実践知を探る」','/topics/event/25',false],
-  ['2023.10.12','大会','【日本地図学会2023年度地方大会のお知らせ】地図で見る、調べる那覇','/topics/conference/25',false],
-  ['2023.08.16','大会','【日本地図学会２０２３年度定期大会のお知らせ(第６報) 大会特別イベント申込案内の追加】','/topics/conference/24',false],
-  ['2023.08.09','大会','【日本地図学会２０２３年度定期大会のお知らせ(第５報) プログラムの変更】','/topics/conference/23',false],
-  ['2023.08.08','研究助成','【2023年度「瀬戸玲子基金・女性のための地図振興支援支援事業」の再募集】','/topics/fund/01',false],
-  ['2023.07.21','大会','【日本地図学会２０２３年度定期大会のお知らせ(第４報) スケジュールの公開】','/topics/conference/22',false],
-]
 ---
 
 <section>
@@ -131,7 +123,7 @@ information: [
     </div>
   </div>
 </section>
-
+<!--
 <section>
   <div class="top--section note-section">
     <div class="container">
@@ -143,7 +135,7 @@ information: [
     </div>
   </div>
 </section>
-
+-->
 <section>
   <div class="top--section">
     <div class="container">
@@ -152,7 +144,7 @@ information: [
 {% assign topics_count = 0 %}
 {% for post in site.posts %}
   {% if post.categories.first == 'event' or post.categories.first == 'conference' or post.categories.first == 'official' %}
-  {% if topics_count < 3 %}
+  {% if topics_count < 6 %}
   {% assign topics_count = topics_count|plus:1 %}
         <a href="{{post.url | relative_url}}" class="topics">
           <div class="t-img"><img src="{{ site.baseurl }}{{post.thumbnail}}" alt="" class="w-100"></div>
