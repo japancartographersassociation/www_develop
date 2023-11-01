@@ -5,7 +5,7 @@ layout: topics_detail
 title: 日本地図学会 第218回例会「ナビゲーションと地図読みの実践知を探る」
 
 description: 第218回例会の案内を掲載しました。
-thumbnail: /assets/img/main/noimage01.jpg
+thumbnail: /assets/img/top/bannar_event_25.png
 bodyclass: topics-detail
 categories:
   - event
