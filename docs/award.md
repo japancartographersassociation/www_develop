@@ -11,7 +11,7 @@ bodyclass: award
 <div class="top-section">
   <h2>学会賞</h2>
   <div class="award-heading">
-    <h3>第16回（令和4年度）受賞結果</h3>
+    <h3>第17回（令和5年度）受賞結果</h3>
     <p>※受賞者の所属は、受賞当時のものとします。</p>
   </div>
   <div class="award-list">
