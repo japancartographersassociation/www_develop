@@ -49,7 +49,7 @@ bodyclass: organization
   </table>
 </div>
 
-### 各委員会委員：2023.8.5現在（◯：委員長、副：副委員長）
+### 各委員会委員：2023.9.30現在（◯：委員長、副：副委員長）
 
 <div class="table-responsive">
   <table class="table organization-table">
@@ -61,7 +61,7 @@ bodyclass: organization
     <tr>
       <td><b>総務委員会</b></td>
       <td>◯上田秀敏　野尻琢也</td>
-      <td>宇根　寛　烏山芳織</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>会計委員会</b></td>
@@ -70,18 +70,18 @@ bodyclass: organization
     </tr>
     <tr>
       <td><b>編集委員会</b></td>
-      <td>◯若林芳樹　小泉　諒　中埜貴元　菱山剛秀　吉田魁人</td>
-      <td>&nbsp;</td>
+      <td>◯若林芳樹　上田秀敏　小泉　諒　中埜貴元　菱山剛秀　吉田魁人</td>
+      <td>(副)岡谷隆基</td>
     </tr>
     <tr>
       <td><b>集会・企画委員会</b></td>
-      <td>◯大田　弘　浅野晋一　佐藤崇徳</td>
+      <td>◯太田　弘　浅野晋一　佐藤崇徳</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>広報・IT委員会</b></td>
-      <td>◯荒堀智彦　近藤賀誉　羽田康祐　丸山智康</td>
-      <td>(副)古橋大地　太田　弘</td>
+      <td>◯荒堀智彦　太田　弘　近藤賀誉　羽田康祐　丸山智康</td>
+      <td>(副)古橋大地</td>
     </tr>
     <tr>
       <td><b>防災委員会</b></td>
