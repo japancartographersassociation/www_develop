@@ -71,7 +71,7 @@ bodyclass: organization
     <tr>
       <td><b>編集委員会</b></td>
       <td>◯若林芳樹　上田秀敏　小泉　諒　中埜貴元　菱山剛秀　吉田魁人</td>
-      <td>&nbsp;</td>
+      <td>(副)岡谷隆基</td>
     </tr>
     <tr>
       <td><b>集会・企画委員会</b></td>
