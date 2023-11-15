@@ -4,7 +4,7 @@ permalink: /topics/journal/613
 layout: topics_detail
 title: 機関誌『地図』61-3が刊行されました
 
-description: 機関誌『地図』61-3が刊行されました
+description: 機関誌「地図」61-3が刊行されました
 thumbnail: /assets/img/top/bannar_event_25.png
 bodyclass: topics-detail
 categories:
