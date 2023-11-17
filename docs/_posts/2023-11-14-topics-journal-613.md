@@ -1,5 +1,5 @@
 ---
-permalink: /topics/journal/61
+permalink: /topics/journal/613
 
 layout: topics_detail
 title: 機関誌『地図』61-3が刊行されました
