@@ -18,9 +18,9 @@ tags:
 2023年12月2日（土）14:00～17:00（受付開始 13:30）
 
 ## 会場
-立正大学 品川キャンパス 9号館 9B11教室（地下1F）
-[交通アクセス](https://www.ris.ac.jp/access/shinagawa/index.html)
-[キャンパスマップ](https://www.ris.ac.jp/introduction/outline_of_university/introduction/shinagawa_campus.html)
+立正大学 品川キャンパス 9号館 9B11教室（地下1F）<br/>
+[交通アクセス](https://www.ris.ac.jp/access/shinagawa/index.html)<br/>
+[キャンパスマップ](https://www.ris.ac.jp/introduction/outline_of_university/introduction/shinagawa_campus.html)<br/>
 山手通りから峰原坂を上り、キャンパスマップの正門から入り、大階段を上った地下1階エリアから、1号館を回り込んで9号館へお進みください。
 
 ## 主管
