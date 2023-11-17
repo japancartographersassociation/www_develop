@@ -18,9 +18,10 @@ tags:
 2023年12月2日（土）14:00～17:00（受付開始 13:30）
 
 ## 会場
-立正大学 品川キャンパス
+立正大学 品川キャンパス 9号館 9B11教室（地下1F）
 [交通アクセス](https://www.ris.ac.jp/access/shinagawa/index.html)
-（教室については、決まり次第こちらで告知します）
+[キャンパスマップ](https://www.ris.ac.jp/introduction/outline_of_university/introduction/shinagawa_campus.html)
+山手通りから峰原坂を上り、キャンパスマップの正門から入り、大階段を上った地下1階エリアから、1号館を回り込んで9号館へお進みください。
 
 ## 主管
 日本地図学会 ナビゲーション専門部会
