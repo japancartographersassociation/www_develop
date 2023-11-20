@@ -8,9 +8,9 @@ description: 機関誌『地図』61-3が刊行されました
 thumbnail: /assets/img/topics/journal613.jpg
 bodyclass: topics-detail
 categories:
-  - journal
+  - official
 tags:
-  - 機関誌『地図』
+  - 機関誌
 ---
 # 機関誌『地図』61-3が刊行されました
 
