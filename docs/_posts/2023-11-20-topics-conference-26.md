@@ -49,7 +49,7 @@ tags:
 - 17:00頃 那覇空港にて解散、もしくは 17:30頃 ゆいレール旭橋駅にて解散
 
 ### プログラム、大会案内
-**[2023年度 地方大会のお知らせ（第二報）（PDF形式）](../../archive/file/program/programtiho2023.pdf)<span style="color: red; "> << 2023/11/27 更新</span>**<br>
+**[2023年度 地方大会のお知らせ（第二報）（PDF形式）](../../archive/file/program/programtiho2023.pdf)<span style="color: red; "> << 2023/11/20 更新</span>**<br>
 
 ## 参加費用
 - 1,000円（見学会 博物館入館料・資料代）※学生無料
