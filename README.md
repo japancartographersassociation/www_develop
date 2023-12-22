@@ -1,5 +1,7 @@
 # 日本地図学会 公式ウェブサイト管理ルール
 
+<img width="1172" alt="スクリーンショット 2023-12-22 9 13 44" src="https://github.com/japancartographersassociation/README/assets/416977/ef6ce94a-6baa-477f-99b2-bf52a0af51e1">
+
 ## 月別輪番制
 広報・IT委員会メンバーで担当月を決めて、担当月はしっかりコミットする。
 
