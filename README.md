@@ -9,5 +9,6 @@
 
 ## マニュアル等のドキュメント類
  * 可能な限り公開ドキュメントとして **[Publicリポジトリ](https://github.com/japancartographersassociation/README)** に全員で記録・更新。
+ * 特にウェブサイト管理用のマニュアルは **[ここ](https://github.com/japancartographersassociation/README/blob/main/docs/WebsiteAdministrationManual.md)** に細かい手順を整理。
  * 秘匿すべき情報については **[Privateリポジトリ](https://github.com/japancartographersassociation/readme4private)** に全員で記録・更新。
 
