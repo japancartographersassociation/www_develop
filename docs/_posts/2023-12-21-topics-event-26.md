@@ -27,5 +27,5 @@ tags:
 [「切り絵の地図屋」ウェブサイト](https://aikautau.work/)
 [https://aikautau.work/](https://aikautau.work/)
 
-<img src="../../assets/img/topics/2023-12-21-topics-event_26.jpg" width="600">
-<img src="../../assets/img/topics/2023-12-21-topics-event_26.jpg" width="600">
+<img src="../../assets/img/topics/2023-12-21-topics-event_26_a.jpg" width="600">
+<img src="../../assets/img/topics/2023-12-21-topics-event_26_b.jpg" width="600">
