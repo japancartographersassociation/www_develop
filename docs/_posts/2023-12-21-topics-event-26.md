@@ -5,7 +5,7 @@ layout: topics_detail
 title: 日本地図学会「瀬戸玲子基金・女性のための地図振興支援助成事業」「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」
 
 description: 「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」を開催します。
-thumbnail: /assets/img/topics/2023-12-21-topics-fund03_a.jpg
+thumbnail: /assets/img/topics/event_26.jpg
 bodyclass: topics-detail
 categories:
   - event
@@ -27,5 +27,5 @@ tags:
 [「切り絵の地図屋」ウェブサイト](https://aikautau.work/)
 [https://aikautau.work/](https://aikautau.work/)
 
-<img src="../../assets/img/topics/2023-12-21-topics-fund03_a.jpg" width="600">
-<img src="../../assets/img/topics/2023-12-21-topics-fund03_b.jpg" width="600">
+<img src="../../assets/img/topics/2023-12-21-topics-event_26.jpg" width="600">
+<img src="../../assets/img/topics/2023-12-21-topics-event_26.jpg" width="600">
