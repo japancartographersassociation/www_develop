@@ -1,2 +1,3 @@
 node_modules
 svr/*
+.DS_Store
