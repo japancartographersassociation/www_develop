@@ -9,6 +9,9 @@
 ## 月別輪番制
 広報・IT委員会メンバーで担当月を決めて、担当月はしっかりコミットする。
 
+![rinban4jcacj](https://github.com/japancartographersassociation/www_develop/assets/416977/6454e4c7-d106-4de7-86c8-93c381773b03)
+
+
 ## タスク管理
 * すべての作業履歴は **[Issues](https://github.com/japancartographersassociation/www_develop/issues)** で、しっかり管理していきましょう！！
 * 重要なタスクはFacebookの **"日本地図学会「広報・IT委員会」グループチャット"** にPermalinkを共有して関係者で協議。Keep in Touch!!!
