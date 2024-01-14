@@ -26,6 +26,6 @@ tags:
 ※ 1月25日（木）および27日（土）に、当学会主催のギャラリートークを開催します。詳細は、下記PDFのギャラリートークのお知らせをご確認の上、PDF掲載のQRコードから、Peatixサイトへアクセスし、申込ください。
 
 [「切り絵の地図屋」ウェブサイト](https://aikautau.work/)<br>
-[「切り絵の地図展」ギャラリートークのお知らせ](../../archive/file/program/programtiho2023.pdf)<strong><span style="color: red; "> « 2024/1/14 更新</span></strong>
+[「切り絵の地図展」ギャラリートークのお知らせ](../../archive/file/program/kiriemap2024.pdf)<strong><span style="color: red; "> « 2024/1/14 更新</span></strong>
 
 <img src="../../assets/img/topics/2023-12-21-topics-event_26_a.jpg" width="500"> <img src="../../assets/img/topics/2023-12-21-topics-event_26_b.jpg" width="500">
