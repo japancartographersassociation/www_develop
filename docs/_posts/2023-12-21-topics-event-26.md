@@ -2,9 +2,9 @@
 permalink: /topics/event/26
 
 layout: topics_detail
-title: 日本地図学会「瀬戸玲子基金・女性のための地図振興支援助成事業」「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」
+title: 日本地図学会「瀬戸玲子基金・女性のための地図振興支援助成事業」「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」（ギャラリートークの案内を追加しました）
 
-description: 「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」を開催します。
+description: 「切り絵の地図展 －aikautau 個展　繊細・7.5cm の小さな「地図」－」を開催します。1月25日（木）および27日（土）に、当学会主催のギャラリートークを開催します。
 thumbnail: /assets/img/topics/event_26.jpg
 bodyclass: topics-detail
 categories:
