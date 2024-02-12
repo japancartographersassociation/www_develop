@@ -15,7 +15,7 @@ tags:
 
 ## 主管：長久保赤水図専門部会　共催：長久保赤水顕彰会
 
-![機関誌地図61-3]({{'/assets/img/topics/sekisui-reikai.png' | relative_url}}){:.w-100}
+![赤水図スライド]({{'/assets/img/topics/sekisui-presentation.jpg' | relative_url}}){:.w-100}
 {:.main-image}
 
 
@@ -30,3 +30,6 @@ tags:
 ※会場受付で徴収いたします。<br>
 
 - [2月18日例会古地図展示リストへのリンク](../../archive/file/program/20240218_Sekisui-reikai.pdf)
+
+![赤水図]({{'/assets/img/topics/sekisui-reikai.png' | relative_url}}){:.w-100}
+{:.main-image}
