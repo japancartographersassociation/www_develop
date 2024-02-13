@@ -47,7 +47,7 @@ bodyclass: service
   </table>
 </div>
 
-<!--
+
 ### バックナンバー目次（J-STAGE未掲載）
 
 <div class="latestjournal-backnumber">
@@ -62,4 +62,4 @@ bodyclass: service
   <p>
     <a href="{{'/archive/file/contents/contents239.pdf' | relative_url}}">●Vol.60 No.3（通巻239号）</a>
   </p>
-</div>-->
+</div>
