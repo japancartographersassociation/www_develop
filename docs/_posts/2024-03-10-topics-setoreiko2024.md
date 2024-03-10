@@ -21,5 +21,5 @@ tags:
 詳しくは、以下の募集要領などをご覧ください。女性会員の積極的な応募をお待ちしています。<br/>
 
 ## 公募要領・申請書
-**[瀬戸玲子基金支援助成事業公募要領2024年度版(PDF)](../../docs/archive/file/setoreiko_fund/setoreiko-fund-2024additional.pdf)**<br>
-**[瀬戸玲子基金支援助成事業書類様式2024年度版(DOCX)](../../docs/archive/file/setoreiko_fund/setoreiko-fund-applocation-form2024.doc)**<br>
+**[瀬戸玲子基金支援助成事業公募要領2024年度版（PDF）](../../docs/archive/file/setoreiko_fund/setoreiko-fund-2024additional.pdf)**<br>
+**[瀬戸玲子基金支援助成事業書類様式2024年度版（DOCX）](../../docs/archive/file/setoreiko_fund/setoreiko-fund-applocation-form2024.doc)**<br>
