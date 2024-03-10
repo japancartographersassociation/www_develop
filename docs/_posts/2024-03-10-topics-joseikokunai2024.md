@@ -20,5 +20,5 @@ br/>
 詳しくは、以下の募集要項などをご覧のうえ、積極的な応募をお待ちしています。br/>
 
 ## 公募要領・申請書
-**[ICC2019基金支援国内事業公募要領2024年度版(PDF)](../../archive/docs/file/fund/icc_fund-kokunai-additional2024.pdf)**<br>
-**[ICC2019基金支援国内事業申請書2024年度版(DOCX)](../../archive/docs/file/fund/icc_fund-kokunai-form2024.docx)**<br>
+**[ICC2019基金支援国内事業公募要領2024年度版(PDF)](../../docs/archive/file/fund/icc_fund-kokunai-additional2024.pdf)**<br>
+**[ICC2019基金支援国内事業申請書2024年度版(DOCX)](../../docs/archive/file/fund/icc_fund-kokunai-form2024.docx)**<br>
