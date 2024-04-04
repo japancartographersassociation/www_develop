@@ -27,7 +27,7 @@ tags:
 ※定員20名　運営費として1,500円（地図学会会員1,000円）を徴収します。
 
 |申込方法|申込希望者の方は下記GoogleFormsまたはメールアドレスに「地図塾：今和泉隆行氏の会の参加希望」と明記の上、氏名、ご職業、連絡先（携帯電話等）、地図学会会員か非会員の区別を記して、4月7日までにお送りください。|
-|申込先|・[GoogleFormsで申込み](https://docs.google.com/forms/d/e/1FAIpQLSeyfxx1zY6g4bO8mHKoBNAcsOxKjtmMwPP_CBMxj4ucI3JXJg/viewform)<br>・[Eメールで申込み](<mailto:mapota@keio.jp>)|
+|申込先|・[GoogleFormsで申込み](https://docs.google.com/forms/d/e/1FAIpQLSeyfxx1zY6g4bO8mHKoBNAcsOxKjtmMwPP_CBMxj4ucI3JXJg/viewform)<br>・[Eメールで申込み](<mailto:mapotagis@gmail.com>)|
 {:.main-table}
 
 <br>
