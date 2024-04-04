@@ -23,7 +23,8 @@ tags:
 
 |申込方法|申込希望者の方は下記GoogleFormsまたはメールアドレスに「地図塾：今和泉隆行氏の会の参加希望」と明記の上、氏名、ご職業、連絡先（携帯電話等）、地図学会会員か非会員の区別を記して、4月7日までにお送りください。<br>※定員20名　運営費として1,500円（地図学会会員1,000円）を徴収します。|
 |申込先|・[GoogleFormsで申込み](https://docs.google.com/forms/d/e/1FAIpQLSeyfxx1zY6g4bO8mHKoBNAcsOxKjtmMwPP_CBMxj4ucI3JXJg/viewform)<br>・[Eメールで申込み](<mailto:mapota@keio.jp>)|
-|お支払い|上記にてお申し込み後に以下よりお支払いください。<br>[PeatiX](https://peatix.com/event/3907044/view?k=e75b01b45b0a2cf387e8c062dfabdd06d7cb898d&fbclid=IwAR3XN4lwQFMhtWJnxbQUml60p5JyBqtWzjbU4_zznOFX0NFdVQpp1V-K1mY_aem_AUvR2tvEyXb4Ng6f17VqeVLJUVvYGLVye_Qojs65sKlUPVbF2O7jU6Ecfm05fRdfWXJ07SU8NpbBZiWr7Juv24Ay)|{:.main-table}
+|お支払い|上記にてお申し込み後に以下よりお支払いください。<br>[PeatiX](https://peatix.com/event/3907044/view?k=e75b01b45b0a2cf387e8c062dfabdd06d7cb898d&fbclid=IwAR3XN4lwQFMhtWJnxbQUml60p5JyBqtWzjbU4_zznOFX0NFdVQpp1V-K1mY_aem_AUvR2tvEyXb4Ng6f17VqeVLJUVvYGLVye_Qojs65sKlUPVbF2O7jU6Ecfm05fRdfWXJ07SU8NpbBZiWr7Juv24Ay)|
+{:.main-table}
 
 [第15回　日本橋　日曜・週末「地図塾」のお知らせ(PDF)](../../archive/file/program/chizujuku15th1.pdf)
 <br>
