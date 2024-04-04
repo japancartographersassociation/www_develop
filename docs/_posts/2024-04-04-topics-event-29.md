@@ -4,7 +4,7 @@ permalink: /topics/event/29
 layout: topics_detail
 title: 【第15回　日本橋　日曜・週末「地図塾」のお知らせ】
 description: テーマ：「今和泉式『空想都市地図』のひみつ 」
-thumbnail: /assets/img/topics/noimage.jpg
+thumbnail: /assets/img/topics/event_29.jpg
 bodyclass: topics-detail
 categories:
   - event
