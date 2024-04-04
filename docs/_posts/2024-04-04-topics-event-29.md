@@ -25,7 +25,7 @@ tags:
 |申込先|・[GoogleFormsで申込み](https://docs.google.com/forms/d/e/1FAIpQLSeyfxx1zY6g4bO8mHKoBNAcsOxKjtmMwPP_CBMxj4ucI3JXJg/viewform)<br>・[Eメールで申込み](<mailto:mapota@keio.jp>)|
 {:.main-table}
 
-[第15回　日本橋　日曜・週末「地図塾」のお知らせ(PDF)](../archive/file/program/chizujuku15th1.pdf)
+[第15回　日本橋　日曜・週末「地図塾」のお知らせ(PDF)](../../archive/file/program/chizujuku15th1.pdf)
 <br>
 
 **日本橋　日曜・週末「地図塾」とは・・・**
