@@ -23,26 +23,26 @@ bodyclass: service
     </tr>
     <tr>
       <td style="white-space: nowrap;"><b>特集：持続可能な世界のための地図作成<br>　【資料・添付冊子解説】</b></td>
-      <td>『Mapping for a Sustainable Worldー持続可能な世界のための地図作成一』の作成<br><b>キーワード：</b>地図作成、持続可能な開発目標、SDGs、翻訳、主題図、統計地図</td>
+      <td>『Mapping for a Sustainable Worldー持続可能な世界のための地図作成一』の作成経緯とその概要<br><b>キーワード：</b>地図作成、持続可能な開発目標、SDGs、翻訳、主題図、統計地図</td>
       <td>吉田 桃子</td>
     </tr>
     <tr class="bg-grey">
-      <td><b>　【資料】</b></td>
+      <td><b>特集：持続可能な世界のための地図作成<br>　【資料】</b></td>
       <td>"Mapping for a Sustainable World"に掲載された地図用語の対訳を巡って<br><b>キーワード：</b>SDGs、地図用語、主題図の表現、地図の分類</td>
       <td>今井 健三・菱山 剛秀・羽田 康祐</td>
     </tr>
     <tr>
-      <td><b></b></td>
+      <td>　同　上</td>
       <td>第1部「SDGsの地理空間データ」の解説<br><b>キーワード：</b>統計データ、正規化、しきい値、視覚パターン</td>
       <td>石田 恵ー</td>
     </tr>
     <tr class="bg-grey">
-      <td><b></b></td>
+      <td>　同　上</td>
       <td>主題図地図学からみたMSW<br><b>キーワード：</b>MSW、主題図地図学、統計地図、SDGs指標</td>
       <td>鈴木 厚志</td>
     </tr>
     <tr>
-      <td><b></b></td>
+      <td>　同　上</td>
       <td>Mapping for a Sustainable World（MSW）を活用した地図リテラシー向上に向けて<br><b>キーワード：</b>地図リテラシー、主題図、データ可視化、SDGs</td>
       <td>若林 芳樹</td>
     </tr>
