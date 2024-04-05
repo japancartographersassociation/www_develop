@@ -32,17 +32,17 @@ bodyclass: service
       <td>今井 健三・菱山 剛秀・羽田 康祐</td>
     </tr>
     <tr>
-      <td>　同　上</td>
+      <td style="text-align: center;">〃</td>
       <td>第1部「SDGsの地理空間データ」の解説<br><b>キーワード：</b>統計データ、正規化、しきい値、視覚パターン</td>
       <td>石田 恵ー</td>
     </tr>
     <tr class="bg-grey">
-      <td>　同　上</td>
+      <td style="text-align: center;">〃</td>
       <td>主題図地図学からみたMSW<br><b>キーワード：</b>MSW、主題図地図学、統計地図、SDGs指標</td>
       <td>鈴木 厚志</td>
     </tr>
     <tr>
-      <td>　同　上</td>
+      <td style="text-align: center;">〃</td>
       <td>Mapping for a Sustainable World（MSW）を活用した地図リテラシー向上に向けて<br><b>キーワード：</b>地図リテラシー、主題図、データ可視化、SDGs</td>
       <td>若林 芳樹</td>
     </tr>
