@@ -7,7 +7,7 @@ bodyclass: service
 
 
 ## 機関誌 「地図」 最新号目次
-### Vol.61 No.4 （通巻244号）
+### Vol.62 No.1 （通巻245号）
 
 <div class="table-responsive">
   <table class="table latestjournal-table">
@@ -17,20 +17,44 @@ bodyclass: service
       <td class="text-center">著者</td>
     </tr>
     <tr class="bg-grey">
-      <td rowspan="2"><b>【ICC・ICA】</b></td>
-      <td>第31回国際地図学会議・第19回国際地図学協会総会（南アフリカ共和国・ケープタウン市）参加報告<br><b>キーワード：</b>ICA、ICC、国際地図学会議、総会、南アフリカ共和国、ケープタウン</td>
-      <td rowspan="2">伊藤 香織・若林 芳樹・森田 喬<br>矢野 桂司・佐々木 一織・吉田 桃子<br>川井 拓弥・石川 初</td>
+      <td><b>【論説】</b></td>
+      <td>中国漢魏晋代における方位と距離の測量法<br><b>キーワード：</b>幾何学的測量、見通し線、天文測量、淮南子、九章算術、周髀算経</td>
+      <td>野上 道男</td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><b>特集：持続可能な世界のための地図作成<br>　【資料・添付冊子解説】</b></td>
+      <td>『Mapping for a Sustainable Worldー持続可能な世界のための地図作成一』の作成<br><b>キーワード：</b>地図作成、持続可能な開発目標、SDGs、翻訳、主題図、統計地図</td>
+      <td>吉田 桃子</td>
     </tr>
     <tr class="bg-grey">
-      <td colspan="1"><b>キーワード：</b>ICA、ICC、国際地図学会議、総会、南アフリカ共和国、ケープタウン</td>
+      <td><b>　【資料】</b></td>
+      <td>"Mapping for a Sustainable World"に掲載された地図用語の対訳を巡って<br><b>キーワード：</b>SDGs、地図用語、主題図の表現、地図の分類</td>
+      <td>今井 健三・菱山 剛秀・羽田 康祐</td>
     </tr>
     <tr>
-      <td rowspan="2" style="white-space: nowrap;"><b>【随想・意見・添付地図解説】</b></td>
-      <td>2024年カレンダー「The World Map」の歴史 その2</td>
-      <td rowspan="2">近藤 賀誉</td>
+      <td><b></b></td>
+      <td>第1部「SDGsの地理空間データ」の解説<br><b>キーワード：</b>統計データ、正規化、しきい値、視覚パターン</td>
+      <td>石田 恵ー</td>
+    </tr>
+    <tr class="bg-grey">
+      <td><b></b></td>
+      <td>主題図地図学からみたMSW<br><b>キーワード：</b>MSW、主題図地図学、統計地図、SDGs指標</td>
+      <td>鈴木 厚志</td>
     </tr>
     <tr>
-      <td colspan="1"><b>キーワード：</b>世界地図、投影法、SDGs</td>
+      <td><b></b></td>
+      <td>Mapping for a Sustainable World（MSW）を活用した地図リテラシー向上に向けて<br><b>キーワード：</b>地図リテラシー、主題図、データ可視化、SDGs</td>
+      <td>若林 芳樹</td>
+    </tr>
+    <tr class="bg-grey">
+      <td><b>【書評・紹介】</b></td>
+      <td>日本の都市百選　第1集</td>
+      <td>若林 芳樹</td>
+    </tr>
+    <tr>
+      <td><b>【ニュース】</b></td>
+      <td>ナビゲーションの読図の実践知を探って（第218回例会報告）</td>
+      <td>村越 真</td>
     </tr>
     <tr class="bg-grey">
       <td><b>【特別会員名簿】</b></td>
@@ -41,8 +65,8 @@ bodyclass: service
       <td colspan="2"></td>
     </tr>
     <tr class="bg-grey">
-      <td><b>【添付地図】</b></td>
-      <td colspan="2">2024年カレンダー「The World Map」</td>
+      <td><b>【添付冊子】</b></td>
+      <td colspan="2">Mapping for a Sustainable World　持続可能な世界のための地図作成</td>
     </tr>
   </table>
 </div>
