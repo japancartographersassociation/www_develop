@@ -18,14 +18,14 @@ bodyclass: service
     </tr>
     <tr class="bg-grey">
       <td rowspan="2"><b>【ICC・ICA】</b></td>
-      <td>第31回国際地図学会議・第19回国際地図学協会総会（南アフリカ共和国・ケープタウン市）参加報告</td>
+      <td>第31回国際地図学会議・第19回国際地図学協会総会（南アフリカ共和国・ケープタウン市）参加報告<br><b>キーワード：</b>ICA、ICC、国際地図学会議、総会、南アフリカ共和国、ケープタウン</td>
       <td rowspan="2">伊藤 香織・若林 芳樹・森田 喬<br>矢野 桂司・佐々木 一織・吉田 桃子<br>川井 拓弥・石川 初</td>
     </tr>
     <tr class="bg-grey">
       <td colspan="1"><b>キーワード：</b>ICA、ICC、国際地図学会議、総会、南アフリカ共和国、ケープタウン</td>
     </tr>
     <tr>
-      <td rowspan="2"><b>【随想・意見・添付地図解説】</b></td>
+      <td rowspan="2" style="white-space: nowrap;"><b>【随想・意見・添付地図解説】</b></td>
       <td>2024年カレンダー「The World Map」の歴史 その2</td>
       <td rowspan="2">近藤 賀誉</td>
     </tr>
@@ -52,14 +52,9 @@ bodyclass: service
 
 <div class="latestjournal-backnumber">
   <p>
+    <a href="{{'/archive/file/contents/contents244.pdf' | relative_url}}">●Vol.61 No.4（通巻244号）</a>
     <a href="{{'/archive/file/contents/contents243.pdf' | relative_url}}">●Vol.61 No.3（通巻243号）</a>
     <a href="{{'/archive/file/contents/contents242.pdf' | relative_url}}">●Vol.61 No.2（通巻242号）</a>
-  </p>
-  <p>
     <a href="{{'/archive/file/contents/contents241.pdf' | relative_url}}">●Vol.61 No.1（通巻241号）</a>
-    <a href="{{'/archive/file/contents/contents240.pdf' | relative_url}}">●Vol.60 No.4（通巻240号）</a>
-  </p>
-  <p>
-    <a href="{{'/archive/file/contents/contents239.pdf' | relative_url}}">●Vol.60 No.3（通巻239号）</a>
   </p>
 </div>
