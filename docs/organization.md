@@ -5,7 +5,7 @@ bodyclass: organization
 ---
 
 # 組織・体制
-## 第31期（2023～2025年度）　日本地図学会役員・評議員
+## 第31期（2023～2024年度）　日本地図学会役員・評議員
 
 <div class="table-responsive">
   <table class="table organization-table">
