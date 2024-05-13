@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2024.04.08','機関誌','機関誌『地図』62-1が刊行されました','/topics/journal/621',false],
+  ['2024.05.08','機関誌','機関誌『地図』62-1が刊行されました','/topics/journal/621',false],
   ['2024.04.04','イベント','【第15回　日本橋　日曜・週末「地図塾」のお知らせ】','/topics/event/29',false],
   ['2024.03.10','研究助成','「ICC2019基金・ICA関連国際集会派遣事業」募集のお知らせ','/topics/fund/02',false],
   ['2024.03.10','研究助成','「ICC2019基金・ICA関連国内活動助成事業」募集のお知らせ','/topics/fund/03',false],
