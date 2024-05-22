@@ -261,12 +261,6 @@ bodyclass: organization
     <div class="co-text">地図等頒布､地図情報サ－ビス､調査研究､地図成果検定､他</div>
   </div>
   <div class="corporate">
-    <div class="co-thumb"><img src="{{'/assets/img/organization/nihondigitalroad_logo.gif' | relative_url}}"></div>
-    <div class="co-name"><a href="http://www.drm.jp/">(一財)日本ﾃﾞｼﾞﾀﾙ道路地図協会</a></div>
-    <div class="co-en">Japan Digital Road Map Association</div>
-    <div class="co-text">協会､GIS､カ－ナビ､道路地図､数値地図</div>
-  </div>
-  <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/pasco_logo.gif' | relative_url}}"></div>
     <div class="co-name"><a href="http://www.pasco.co.jp/">(株)　パ　ス　コ</a></div>
     <div class="co-en">Pasco Corporation</div>
