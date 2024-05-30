@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2024.05.30','学会公式','令和6年度通常総会開催のお知らせ','/topics/official/30',false],
+  ['2024.05.30','学会公式','令和6年度通常総会開催のお知らせ','/topics/official/31',false],
   ['2024.05.30','イベント','「古地図で読み解く首里と那覇」開催のお知らせ','/topics/event/30',false],
   ['2024.05.08','機関誌','機関誌『地図』62-1が刊行されました','/topics/journal/621',false],
 ]
