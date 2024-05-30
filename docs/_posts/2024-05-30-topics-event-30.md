@@ -4,7 +4,7 @@ permalink: /topics/event/30
 layout: topics_detail
 title: 「古地図で読み解く首里と那覇」開催のお知らせ
 description: 講演会：古地図で読み解く首里と那覇を開催いたします。
-thumbnail: /assets/img/topics/event30.jpg
+thumbnail: /assets/img/topics/event_30.jpg
 bodyclass: topics-detail
 categories:
   - event
