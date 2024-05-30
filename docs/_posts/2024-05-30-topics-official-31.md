@@ -3,7 +3,7 @@ permalink: /topics/official/31
 layout: topics_detail
 title: 令和6年度通常総会のご案内
 description: 会則25条にもとづき、令和6年度通常総会を下記の通り開催いたしますのでご出席ください。
-thumbnail: /assets/img/topics/noimage.jpg
+thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
 categories:
   - official
