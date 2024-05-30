@@ -4,7 +4,7 @@ permalink: /topics/event/30
 layout: topics_detail
 title: 「古地図で読み解く首里と那覇」開催のお知らせ
 description: 講演会：古地図で読み解く首里と那覇を開催いたします。
-thumbnail: /assets/img/topics/event_30.jpg
+thumbnail: /assets/img/topics/event_30.jpeg
 bodyclass: topics-detail
 categories:
   - event
@@ -13,10 +13,9 @@ tags:
 ---
 
 # 「古地図で読み解く首里と那覇」開催のお知らせ
-<br>
-六本木ヒルズライブラリーにて、「古地図で読み解く首里と那覇」を開催いたします。
 
-<br>
+## 六本木ヒルズライブラリーにて、「古地図で読み解く首里と那覇」を開催いたします。
+
 |日　時|2025年6月2日（日）15:00-17:00|
 |場　所|六本木ヒルズライブラリー（森タワー49階）|
 |主　催|六本木ヒルズライブラリー|
