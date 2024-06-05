@@ -3,7 +3,7 @@ permalink: /topics/conference/27
 
 layout: topics_detail
 title: 日本地図学会 2024年度定期大会のお知らせ（第1報）
-description: 2024年度定期大会を開催いたします。奮ってご参加ください。
+description: 2024年度定期大会を開催いたします。日時・会場をお知らせいたします。奮ってご参加ください。
 thumbnail: /assets/img/topics/jcacj_annualconference_760x520.jpg
 bodyclass: topics-detail
 categories:
