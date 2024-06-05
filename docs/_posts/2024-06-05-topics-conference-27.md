@@ -24,4 +24,4 @@ tags:
 JR中央・総武線各駅停車／都営地下鉄三田線　水道橋駅より徒歩3分、
 東京メトロ半蔵門線／都営地下鉄三田線・新宿線　神保町駅より徒歩5分、
 東京メトロ丸の内線・南北線　後楽園駅より徒歩13分
-[https://www.eco.nihon-u.ac.jp/access/](https://www.eco.nihon-u.ac.jp/access/){:.main-table}
+[https://www.eco.nihon-u.ac.jp/access/](https://www.eco.nihon-u.ac.jp/access/)
