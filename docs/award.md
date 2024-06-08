@@ -18,7 +18,7 @@ bodyclass: award
     {% assign jcacjaward_count = 0 %}
     {% for post in site.posts %}
       {% if post.categories[0] == 'jcacjaward' %}
-      {% if post.categories[1] == '17th' %}
+      {% if post.categories[1] == '18th' %}
       {% if jcacjaward_count < 3 %}
       {% assign jcacjaward_count = jcacjaward_count|plus:1 %}
       <div class="list-box">
