@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2024.06.27','大会','日本地図学会 2024年度定期大会開催のお知らせ（第2報）','/topics/conference/27',false],
+  ['2024.06.27','大会','日本地図学会 2024年度定期大会開催のお知らせ（第2報）','/topics/conference/28',false],
   ['2024.06.08','学会公式','第18回 日本地図学会賞 受賞者','/jcacjaward.html',false],
   ['2024.06.05','大会','日本地図学会 2024年度定期大会開催のお知らせ（第1報）','/topics/conference/27',false],
   ['2024.05.30','学会公式','令和6年度通常総会のご案内','/topics/official/07',false],
