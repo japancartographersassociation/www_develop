@@ -1,5 +1,5 @@
 ---
-permalink: /topics/conference/20
+permalink: /topics/conference/28
 
 layout: topics_detail
 title: 日本地図学会 2024年度 定期大会のお知らせ（第2報）
@@ -81,7 +81,7 @@ JR総武・中央線「水道橋」駅より徒歩3分<br>
 **[日本地図学会2024年度定期大会のお知らせ（PDF形式）](../../archive/file/program/2024Tokyo_entryguide.pdf)**<br>
 **[「定期大会発表論文・資料集」の原稿フォーマット（Word形式）](../../archive/file/program/Templete2024JCA.docx)**<br>
 
-**<u>提出期限は7月26日（日）</u>です。** 
+**<u>提出期限は7月26日（金）</u>です。** 
 提出物が遅れる場合は，事前に事務局までお知らせください。<br>
 原稿は，学会事務局宛に電子メールの添付ファイルで送付してください。<br>
 #### ３．学会へのお問い合わせ
