@@ -6,10 +6,10 @@
 * [日本地図学会 広報用原稿投稿フォーム](https://forms.gle/YhaToocBiRh2XTSz5)
    - 投稿後、自動的に[日本地図学会公式ウェブサイト・リポジトリのIssue](https://github.com/japancartographersassociation/www_develop/issues?q=is%3Aissue+is%3Aopen+%E5%BA%83%E5%A0%B1%E6%8A%95%E7%A8%BF%E4%BE%9D%E9%A0%BC)に起票されます。 
 
-## [月別輪番制](https://github.com/japancartographersassociation/www_develop/issues/173)
-広報・IT委員会メンバーで担当月を決めて、担当月はしっかりコミットする。
+## [月別輪番制](https://github.com/japancartographersassociation/www_develop/issues/238)
+広報・IT委員会メンバーで担当月を決めて、担当月はしっかりコミットする。※ウェブサイトの改修作業を進めるため、当面の間、ウェブサイトは荒堀が担当します。
 
-![rinban4jcacj](https://github.com/japancartographersassociation/www_develop/assets/416977/6454e4c7-d106-4de7-86c8-93c381773b03)
+![rinban4jcacj](https://github.com/japancartographersassociation/www_develop/assets/14238184/46fa82fb-752f-4daa-9915-1c1ad9204e3c)
 
 
 ## タスク管理
