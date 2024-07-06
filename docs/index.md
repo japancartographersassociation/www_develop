@@ -116,6 +116,7 @@ information: [
     <div class="container">
       <h3 class="top-h3"><span>日本地図学会監訳<br class="d-md-none">『Mapping for a Sustainable World──持続可能な世界のための地図作成』Web公開</span></h3>
       <p class="top-heading-text"><span class="large">機関誌『地図』62巻1号の添付冊子として刊行されました、</span><br>日本地図学会監訳『Mapping for a Sustainable World──持続可能な世界のための地図作成』がWeb公開されました。<br>幅広くご活用いただくことを願っております。詳細は<a href="https://jcacj.org/topics/official/08">こちらのサイト</a>をご覧ください。<br></p>
+      <img src="/assets/img/topics/MSW（210×298）.jpg" class="w-100" alt="" /><br>
     </div>
   </div>
 </section>
