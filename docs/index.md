@@ -111,15 +111,17 @@ information: [
   </div>
 </section>
 -->
+<!--
 <section>
   <div class="top--section">
     <div class="container">
       <h3 class="top-h3">日本地図学会監訳<br>『Mapping for a Sustainable World - 持続可能な世界のための地図作成』Web公開</h3>
       <p class="top-heading-text">機関誌『地図』62巻1号の添付冊子として刊行されました、<br>日本地図学会監訳『Mapping for a Sustainable World - 持続可能な世界のための地図作成』がWeb公開されました。<br>幅広くご活用いただくことを願っております。<br>詳細は<a href="https://jcacj.org/topics/official/08">こちらのサイト</a>をご覧ください。<br></p>
-      <img src="/assets/img/topics/MSW_small.png" class="w-100" alt="" /><br>
+      <img src="/assets/img/topics/MSW_small02.png" class="w-100" alt="" /><br>
     </div>
   </div>
 </section>
+-->
 <section>
   <div class="top--section">
     <div class="container">
