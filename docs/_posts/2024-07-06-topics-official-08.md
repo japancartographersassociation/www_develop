@@ -16,4 +16,4 @@ tags:
 
 ## 編集委員より
 機関誌『地図』62巻1号の添付冊子として刊行されました、日本地図学会監訳『Mapping for a Sustainable World －持続可能な世界のための地図作成－』が、Web公開されました。<br>
-PDFファイルは、J-STAGEにて公開されております。<a href="https://doi.org/10.11212/jjca.62.1_AP1">こちらのJ-STAGEのリンク先</a>からご覧ください。幅広くご活用いただくことを願っております。
+PDFファイルは、J-STAGEにて公開されております。<a href="https://doi.org/10.11212/jjca.62.1_AP1" target="_blank">こちらのJ-STAGEのリンク先</a>からご覧ください。幅広くご活用いただくことを願っております。
