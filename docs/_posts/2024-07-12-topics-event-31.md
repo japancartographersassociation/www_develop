@@ -4,7 +4,7 @@ permalink: /topics/event/31
 layout: topics_detail
 title: 長久保赤水図専門部会 高萩研究集会開催のお知らせ
 description: 長久保赤水図専門部会高萩研究集会として、赤水図を利用した中学校社会科地理的分野の公開授業見学会を開催します。
-thumbnail: /assets/img/topics/event_31.jpg
+thumbnail: /assets/img/topics/event_31.png
 bodyclass: topics-detail
 categories:
   - event
