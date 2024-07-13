@@ -5,7 +5,7 @@ layout: topics_detail
 title: 機関誌『地図』62-2が刊行されました
 
 description: 機関誌『地図』62-2が刊行されました
-thumbnail: /assets/img/topics/journal622.jpg
+thumbnail: /assets/img/topics/journal622_760×520.jpg
 bodyclass: topics-detail
 categories:
   - official
