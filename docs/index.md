@@ -3,14 +3,12 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2024.07.13','機関誌','機関誌『地図』62-2が刊行されました','/topics/journal/622',false],
   ['2024.07.12','イベント','長久保赤水図専門部会 高萩研究集会開催のお知らせ','/topics/event/31',false],
   ['2024.07.06','学会公式','日本地図学会監訳「Mapping for a Sustainable World －持続可能な世界のための地図作成－」Web公開のお知らせ','/topics/official/08',false],
   ['2024.06.27','大会','日本地図学会 2024年度定期大会開催のお知らせ（第2報）','/topics/conference/28',false],
   ['2024.06.08','学会公式','第18回 日本地図学会賞 受賞者','/jcacjaward.html',false],
   ['2024.06.05','大会','日本地図学会 2024年度定期大会開催のお知らせ（第1報）','/topics/conference/27',false],
-  ['2024.05.30','学会公式','令和6年度通常総会のご案内','/topics/official/07',false],
-  ['2024.05.30','イベント','「古地図で読み解く首里と那覇」開催のお知らせ','/topics/event/30',false],
-  ['2024.05.08','機関誌','機関誌『地図』62-1が刊行されました','/topics/journal/621',false],
 ]
 ---
 
