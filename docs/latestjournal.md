@@ -22,7 +22,7 @@ bodyclass: service
       <td>森田 喬</td>
     </tr>
     <tr class="bg-grey">
-      <td style="text-align: center;"><b>〃</b><br>　【随想・意見】</td>
+      <td><b>〃<br>　【随想・意見】</b></td>
       <td>「SDG17：パートナーシップで目標を達成しよう」と"Mapping for a Sustainable World"刊行の関連性<br><b>キーワード：</b>Mapping for a Sustainable World、ICA、UN、SDGs、SDGs17: Partnership for Goals</td>
       <td>加川 文子</td>
     </tr>
