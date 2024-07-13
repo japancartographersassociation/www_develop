@@ -22,17 +22,17 @@ bodyclass: service
       <td>森田 喬</td>
     </tr>
     <tr class="bg-grey">
-      <td style="text-align: center;"><b>〃<br>　【随想・意見】</b></td>
+      <td style="text-align: center;"><b>〃</b><br>　【随想・意見】</td>
       <td>「SDG17：パートナーシップで目標を達成しよう」と"Mapping for a Sustainable World"刊行の関連性<br><b>キーワード：</b>Mapping for a Sustainable World、ICA、UN、SDGs、SDGs17: Partnership for Goals</td>
       <td>加川 文子</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><b>【資料・添付地図解説】</b></td>
+      <td><b>【資料・添付地図解説】</b></td>
       <td>伊能忠敬記念館所蔵の下図について<br><b>キーワード：</b>広域下図、寄図、小区域下図、測地原圖、伊能忠敬實測原圖</td>
       <td>星埜 由尚・鈴木 純子・玉造 功・菱山 剛秀・前田 幸子</td>
     </tr>
     <tr class="bg-grey">
-      <td style="text-align: center;"><b>【資料】</b></td>
+      <td><b>【資料】</b></td>
       <td>展示会「切り絵の地図展」開催<br><b>キーワード：</b>切り絵、OpenStreetMap、地図デザイン</td>
       <td>秋葉 愛加</td>
     </tr>
