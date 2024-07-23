@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2024.07.23','研究助成','ICC2019基金・国内活動助成事業および国内国際集会派遣事業第2期募集のお知らせ','/topics/fund/03',false],
   ['2024.07.13','機関誌','機関誌『地図』62-2が刊行されました','/topics/journal/622',false],
   ['2024.07.12','イベント','長久保赤水図専門部会 高萩研究集会開催のお知らせ','/topics/event/31',false],
   ['2024.07.06','学会公式','日本地図学会監訳「Mapping for a Sustainable World －持続可能な世界のための地図作成－」Web公開のお知らせ','/topics/official/08',false],
