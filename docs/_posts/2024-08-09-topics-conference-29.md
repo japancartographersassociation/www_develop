@@ -39,7 +39,7 @@ JR総武・中央線「水道橋」駅より徒歩3分<br>
 - 2024年8月26日（月）：巡検/見学 長久保赤水関連史跡・資料館見学（茨城県高萩市）
 
 ### プログラム、定期大会案内
-**[日本地図学会2024年度定期大会のご案内・プログラム（第3報）（PDF形式）](../../archive/file/program/2024Tokyo_program.pdf)<span style="color: red; "></span>**<br>
+**[日本地図学会2024年度定期大会のご案内・プログラム（第3報）（PDF形式）](../../archive/file/program/2024Tokyo_program_3rd.pdf)<span style="color: red; "></span>**<br>
 **[大会スケジュール（PDF形式）](../../archive/file/program/2024Tokyo_Schedule.pdf)<span style="color: red; "></span>**<br>
 
 ## 参加費
