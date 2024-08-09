@@ -1,8 +1,8 @@
 ---
 permalink: /topics/official/09
 layout: topics_detail
-title: 
-description: 南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介
+title: 南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介
+description: 南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供として、国土地理院ハザードマップポータルサイトをご紹介します。地域の防災支援のご活用ください。
 thumbnail: /assets/img/topics/hazardmapportal_small.jpg
 bodyclass: topics-detail
 categories:
