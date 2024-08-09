@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2024.08.09','学会公式','南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介','/topics/official/09',false],
   ['2024.07.23','研究助成','ICC2019基金・国内活動助成事業および国内国際集会派遣事業第2期募集のお知らせ','/topics/fund/03',false],
   ['2024.07.13','機関誌','機関誌『地図』62-2が刊行されました','/topics/journal/622',false],
   ['2024.07.12','イベント','長久保赤水図専門部会 高萩研究集会開催のお知らせ','/topics/event/31',false],
@@ -110,6 +111,14 @@ information: [
   </div>
 </section>
 -->
+<section>
+  <div class="top--section">
+    <div class="container">
+      <h3 class="top-h3">南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供<br>国土地理院 ハザードマップポータルサイトのご紹介</h3>
+      <p class="top-heading-text" align="center">2024年8月8日（木）に気象庁より「南海トラフ臨時情報」が発表されました。<br>日本地図学会では、この度の気象庁からの発表に伴い、地域の防災支援として、国土地理院より提供いただいている「ハザードマップポータルサイト」をご紹介する運びとなりました。<br>詳細は<a href="https://jcacj.org/topics/official/09" target="_blank">こちらのサイト</a>をご覧ください。</p>
+    </div>
+  </div>
+</section>
 
 <section>
   <div class="top--section">
