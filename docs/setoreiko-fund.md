@@ -30,7 +30,7 @@ bodyclass: award
     </div>
     <div class="list-box">
       <div class="list-box-inner">
-        <div class="box-sr-title.award-ornament">
+        <div class="box-sr-title award-a">
           <div>
             <!-- div class="year">2024年</div -->
             市民参加と地図デジタルアーカイブ化の促進と実践
