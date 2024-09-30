@@ -15,7 +15,7 @@ bodyclass: award
   <div class="setoreiko-awards">
     <div class="list-box">
       <div class="list-box-inner">
-        <div class="box-map-title">
+        <div class="box-sr-title award-a">
           <div>
             <!-- div class="year">2024年</div -->
             個展「想像の地図」展
