@@ -15,10 +15,10 @@ bodyclass: award
   <div class="setoreiko-awards">
     <div class="list-box">
       <div class="list-box-inner">
-        <div class="box-sr-title award-a">
+        <div class="box-sr-title.award-ornament">
           <div>
             <!-- div class="year">2024年</div -->
-            申請テーマ：個展「想像の地図」展
+            個展「想像の地図」展
           </div>
         </div>
         <div class="box-sr-text">
@@ -30,10 +30,10 @@ bodyclass: award
     </div>
     <div class="list-box">
       <div class="list-box-inner">
-        <div class="box-sr-title award-b">
+        <div class="box-sr-title.award-ornament">
           <div>
             <!-- div class="year">2024年</div -->
-            申請テーマ：市民参加と地図デジタルアーカイブ化の促進と実践
+            市民参加と地図デジタルアーカイブ化の促進と実践
           </div>
         </div>
         <div class="box-sr-text">
