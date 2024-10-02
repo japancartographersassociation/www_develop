@@ -54,20 +54,21 @@ bodyclass: award
         <div class="box-sr-title award-a">
           <div>
             <!-- div class="year">2023年</div -->
-            申請テーマ：展示会「切り絵の地図展」の実施
+            展示会「切り絵の地図展」の実施
           </div>
         </div>
         <div class="box-sr-text">
           <p><b>代表者：秋葉愛加</b></p>
           <p>【事業概要】地図により親しみを持ち、楽しむきっかけを作るために、幅広い年代へのアプローチとして、松本市美術館での「切り絵の地図」展示会を実施する。「切り絵の地図」を通して、地図を辿る面白さや発見を共感するネットワークの拡充を目指す。</p>
-          <p>【主な事業成果】	展示会「切り絵の地図展」の開催
-	会場：松本市美術館（市民ギャラリーB）
-	実施 日時：2024年1月24日(水)〜28日(日) 5日間 
-	出品点数：額装52点（切り絵作品79点）
-	入場者数：690名(5日間合計)
-	メディア掲載・放送：新聞社4社、テレビ局3社　など、会場では、日本地図医学会役員を交えた「ギャラリートーク」なども開催
-	秋葉愛加（2024年）「展示会「切り絵の地図展」開催」，『地図』Vol.62 No.2 （通巻246号）
-</p>
+          <p>【主な事業成果】</p>
+           <ur>●展示会「切り絵の地図展」の開催
+              <li>会場：松本市美術館（市民ギャラリーB）</li>
+              <li>実施 日時：2024年1月24日(水)〜28日(日) 5日間 </li>
+              <li>出品点数：額装52点（切り絵作品79点）</li>
+              <li>入場者数：690名(5日間合計)</li>
+              <li>メディア掲載・放送：新聞社4社、テレビ局3社　など、会場では、日本地図医学会役員を交えた「ギャラリートーク」なども開催</li>
+           </ur>
+          <ur>●秋葉愛加（2024年）「展示会「切り絵の地図展」開催」，『地図』Vol.62 No.2 （通巻246号）</ur>
           <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/setireiko-fund-pamphlet.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
@@ -77,13 +78,68 @@ bodyclass: award
         <div class="box-sr-title award-b">
           <div>
             <!-- div class="year">2023年</div -->
-            申請テーマ：今昔マップ補完方法の検討と女子大学教育での実践
+            今昔マップ補完方法の検討と女子大学教育での実践
           </div>
         </div>
         <div class="box-sr-text">
           <p><b>代表者：栗山絵理</b></p>
           <p>【事業概要】谷謙二氏の他界によって表示地域の拡張がなされなくなった「今昔マップ」の補完方法をケーススタディとして実施する。そして、今後の補完方法。手法に関する可能性を検証する。また、補完作業の一部は、地図教育に応用する。</p>
-          <p>【主な事業成果】	栗山絵理・山本将大・岡本耕平・小口 高・大西宏治・斎藤 敦・鶴岡謙一・山内啓之・若林芳樹（2024年）「今昔マップの補完方法の検討」日本地図学会2024年度定期大会（2024年8月24日、於：日本大学経済学部）</p>
+          <p>【主な事業成果】</p>
+          <p>栗山絵理・山本将大・岡本耕平・小口 高・大西宏治・斎藤 敦・鶴岡謙一・山内啓之・若林芳樹（2024年）「今昔マップの補完方法の検討」日本地図学会2024年度定期大会（2024年8月24日、於：日本大学経済学部）</p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/setireiko-fund-pamphlet.pdf">・事業提案書<span class="icon-doc"></span></a></p>
+        </div>
+      </div>
+    </div>
+    <div class="list-box">
+      <div class="list-box-inner">
+        <div class="box-sr-title award-b">
+          <div>
+            <!-- div class="year">2023年</div -->
+            日・伊の子供たちによる地図作りワークショップの開催
+          </div>
+        </div>
+        <div class="box-sr-text">
+          <p><b>代表者：両角みのり</b></p>
+          <p>【事業概要】日本（新潟県十日町市）とイタリア（コモ市）の子供たちによる「地図づくりワークショップを開催し、地図を介した文化交流を図る。ワークショップでつくられた作品は2025年開催のICA（国際地図学協会）主催「バーバラ・ペチュニク子供地図展」参加のための世界地図展の作品として提出することを目標とする。</p>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/setireiko-fund-pamphlet.pdf">・事業提案書<span class="icon-doc"></span></a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="top-section">
+  <h2>2022年度採択テーマ</h2>
+  <div class="setoreiko-awards">
+    <div class="list-box">
+      <div class="list-box-inner">
+        <div class="box-sr-title award-a">
+          <div>
+            <!-- div class="year">2024年</div -->
+            明治期の地籍図作成のプロセスと制作技法
+          </div>
+        </div>
+        <div class="box-sr-text">
+          <p><b>代表者：石坂澄子</b></p>
+          <p>【事業概要】明治前半期に作成された地籍図は 全国統一形式での作成が呼びかけられたが、 現存するものを確認すると、 表現形式 に差異 が見られる。 その違いは、作成時期 や 地域 を基 に分類することができる 。しかし、地籍図の先行研究は、地域ごとに特徴をまとめたものが多く、地域間で何が共通していて 何が異なっているのか整理が不十分である。 そこで、複数の地域の制作技法を比較し、明治期の地籍図作成の共通点・相違点を明らかにする。</p>
+          <p>【主な事業成果】</p>
+          <ur>●石坂澄子（2024年）「地籍図作成の過程－摂津国島下郡清水村の事例－」『茨木市立文化財資料館館報第9号』pp.53-57</ur>
+          <ur>●石坂澄子（2024年）「石川県の明治期作成地籍図－税務大学校税務情報センター所蔵地籍図の調査－」石川地理学会第368回例会（2024年5月12日、於：しいのき迎賓館（金沢市））</ur>
+          <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/setireiko-fund-pamphlet.pdf">・事業提案書<span class="icon-doc"></span></a></p>
+        </div>
+      </div>
+    </div>
+    <div class="list-box">
+      <div class="list-box-inner">
+        <div class="box-sr-title award-a">
+          <div>
+            <!-- div class="year">2024年</div -->
+            飛行場関連の旧軍資料に付随する地図資料に関する研究
+          </div>
+        </div>
+        <div class="box-sr-text">
+          <p><b>代表者：松山　薫</b></p>
+          <p>【事業概要】旧軍用飛行場に関する一次資料のうち，地図ないし略図を含む視覚資料で残存しているものは少ない。そのなかで、水路部（旧海軍省）の資料は資料的価値が高いが，成立過程も不明で，利用の際には注意が必要である。そこで、これらの飛行場関連旧軍資料に付随する地図資料に関して，改めて史料批判を行い，今後の研究および一般の関心に供することを目的として，その成立過程を調査し，旧軍航空資料の中での位置づけを明らかにする。</p>
           <p class="sr-link"><a href="{{ site.baseurl }}/archive/file/setoreiko_fund/setireiko-fund-pamphlet.pdf">・事業提案書<span class="icon-doc"></span></a></p>
         </div>
       </div>
