@@ -16,7 +16,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2024年</div -->
             個展「想像の地図」展
           </div>
@@ -31,7 +32,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2024年</div -->
             市民参加と地図デジタルアーカイブ化の促進と実践
           </div>
@@ -52,7 +54,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2023年</div -->
             展示会「切り絵の地図展」の実施
           </div>
@@ -76,7 +79,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2023年</div -->
             今昔マップ補完方法の検討と女子大学教育での実践
           </div>
@@ -93,7 +97,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2023年</div -->
             日・伊の子供たちによる地図作りワークショップの開催
           </div>
@@ -114,7 +119,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2024年</div -->
             明治期の地籍図作成のプロセスと制作技法
           </div>
@@ -132,7 +138,8 @@ bodyclass: award
     <div class="list-box">
       <div class="list-box-inner">
         <div class="box-sr-title award-ornament">
-          <div>
+           <img src="/assets/img/icon/award_ornament.svg" alt="" style="width: 10%;">
+           <div style="padding-left: 20px;">
             <!-- div class="year">2024年</div -->
             飛行場関連の旧軍資料に付随する地図資料に関する研究
           </div>
