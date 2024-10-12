@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2024.10.12','イベント','International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子ども地図展のご案内','/topics/event/33',false],
   ['2024.10.01','イベント','学校GIS教育専門部会主催 『地図のキッチン in 金沢 －「調理実習」で体感する今どきの高校地理－』開催のお知らせ','/topics/event/32',false],
   ['2024.08.09','大会','日本地図学会 2024年度定期大会開催のお知らせ（第3報）','/topics/conference/29',false],
   ['2024.08.09','学会公式','南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介','/topics/official/09',false],
@@ -112,8 +113,8 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-      <h3 class="top-h3">南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供<br>国土地理院 ハザードマップポータルサイトのご紹介</h3>
-      <p class="top-heading-text" align="center">2024年8月8日（木）に気象庁より「南海トラフ臨時情報」が発表されました。<br>日本地図学会では、この度の気象庁からの発表に伴い、地域の防災支援として、国土地理院より提供いただいている「ハザードマップポータルサイト」をご紹介する運びとなりました。<br>詳細は<a href="https://jcacj.org/topics/official/09" target="_blank">こちらのサイト</a>をご覧ください。</p>
+      <h3 class="top-h3">南海トラフ地震対策のための日本地図学会からの情報提供<br>国土地理院 ハザードマップポータルサイトのご紹介</h3>
+      <p class="top-heading-text" align="center">日本地図学会では、地域の防災支援として、国土地理院より提供いただいている「ハザードマップポータルサイト」をご紹介しています。<br>お住いの地域のハザードマップをウェブ上で閲覧することができます。<br>詳細は<a href="https://jcacj.org/topics/official/09" target="_blank">こちらのサイト</a>をご覧ください。</p>
     </div>
   </div>
 </section>
