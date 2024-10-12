@@ -2,7 +2,7 @@
 permalink: /topics/event/33
 
 layout: topics_detail
-title: International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子ども地図展の作品募集
+title: International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子供地図展の作品募集
 description: 2025年8月16日から22日までの間、International Cartographic Conference 2025（ICC2025）が、カナダのバンクーバーにおいて開催されます。ICCにて開催される、バーバラ・ペチュニク子供地図展の作品を募集します。
 thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
@@ -12,7 +12,7 @@ tags:
   - イベント
 ---
 
-# International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子ども地図展の作品募集
+# International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子供地図展の作品募集
 
 2025年8月16日から22日までの間、International Cartographic Conference 2025（ICC2025）が、カナダのバンクーバーにおいて開催されます。ICCにて開催される、バーバラ・ペチュニク子供地図展の出展申し込みのご案内をお知らせいたします。
 
