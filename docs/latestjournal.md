@@ -7,7 +7,7 @@ bodyclass: service
 
 
 ## 機関誌 「地図」 最新号目次
-### Vol.62 No.2 （通巻246号）
+### Vol.62 No.3 （通巻246号）
 
 <div class="table-responsive">
   <table class="table latestjournal-table">
@@ -17,24 +17,39 @@ bodyclass: service
       <td class="text-center">著者</td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;"><b>特集：持続可能な世界のための地図作成 Part2<br>　【資料】</b></td>
-      <td>用語および図表からみるMSW（Mapping for a Sustainable World）翻訳版の特徴<br><b>キーワード：</b>MSW、用語、図表、行列図、特徴</td>
-      <td>森田 喬</td>
+      <td style="white-space: nowrap;"><b>【論説】</b></td>
+      <td>まち歩き向け位置情報サービス改善のためのセンサデータ駆動型ライフサイクルの実証<br><b>キーワード：</b>まち歩き観光、データ駆動型エコシステム、人流ヒートマップ、モバイルセンサ、GPS軌跡文節化</td>
+      <td>佐々木 一織・有川 正俊・Lu Min・内海 富博・佐藤 諒</td>
     </tr>
     <tr class="bg-grey">
-      <td><b>〃<br>　【随想・意見】</b></td>
-      <td>「SDG17：パートナーシップで目標を達成しよう」と"Mapping for a Sustainable World"刊行の関連性<br><b>キーワード：</b>Mapping for a Sustainable World、ICA、UN、SDGs、SDGs17: Partnership for Goals</td>
-      <td>加川 文子</td>
+      <td><b></b></td>
+      <td>『後漢書』群国志の方位と距離記事の考察<br><b>キーワード：</b>後漢書、郡国志、方位、距離、1里の長さ</td>
+      <td>野上 道男</td>
     </tr>
     <tr>
       <td><b>【資料・添付地図解説】</b></td>
-      <td>伊能忠敬記念館所蔵の下図について<br><b>キーワード：</b>広域下図、寄図、小区域下図、測地原圖、伊能忠敬實測原圖</td>
-      <td>星埜 由尚・鈴木 純子・玉造 功・菱山 剛秀・前田 幸子</td>
+      <td>琉球の「真和志間切針図」古写真<br><b>キーワード：</b>琉球王国、乾隆検地、間切島針図、印部石、三角網</td>
+      <td>安里 進</td>
     </tr>
     <tr class="bg-grey">
-      <td><b>【資料】</b></td>
-      <td>展示会「切り絵の地図展」開催<br><b>キーワード：</b>切り絵、OpenStreetMap、地図デザイン</td>
+      <td><b>【ニュース】</b></td>
+      <td>事業報告（展示会「切り絵の地図展」）<br><b>キーワード：</b>切り絵、地図デザイン</td>
       <td>秋葉 愛加</td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><b>【書評・紹介】</b></td>
+      <td>身近な地域の地理学―地誌の見方・考え方―</td>
+      <td>志村 喬</td>
+    </tr>
+    <tr class="bg-grey">
+      <td><b></b></td>
+      <td>地理・地誌・地理学の論理構造</td>
+      <td>佐藤 潤</td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td>歴史を旅する世界地図図鑑：最古の地図から20世紀のプロパガンダ地図まで，地図製作者の仕事と時代の思想を読み解く</td>
+      <td>菱山 剛秀</td>
     </tr>
     <tr class="bg-grey">
       <td><b>【特別会員名簿】</b></td>
@@ -46,7 +61,7 @@ bodyclass: service
     </tr>
     <tr class="bg-grey">
       <td><b>【添付地図】</b></td>
-      <td colspan="2">『測地原圖』（中図下図）[21]「西国街道四 従岡山下町至神辺又八川ニ至ル　六分一里之図」</td>
+      <td colspan="2">真和志間切針図</td>
     </tr>
   </table>
 </div>
@@ -56,8 +71,8 @@ bodyclass: service
 
 <div class="latestjournal-backnumber">
   <p>
+    <a href="{{'/archive/file/contents/contents246.pdf' | relative_url}}">●Vol.62 No.2（通巻246号）</a>
     <a href="{{'/archive/file/contents/contents245.pdf' | relative_url}}">●Vol.62 No.1（通巻245号）</a>
     <a href="{{'/archive/file/contents/contents244.pdf' | relative_url}}">●Vol.61 No.4（通巻244号）</a>
-    <a href="{{'/archive/file/contents/contents243.pdf' | relative_url}}">●Vol.61 No.3（通巻243号）</a>
   </p>
 </div>
