@@ -7,7 +7,7 @@ bodyclass: service
 
 
 ## 機関誌 「地図」 最新号目次
-### Vol.62 No.3 （通巻246号）
+### Vol.62 No.3 （通巻247号）
 
 <div class="table-responsive">
   <table class="table latestjournal-table">
