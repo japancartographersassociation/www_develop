@@ -22,4 +22,4 @@ tags:
 
 出展希望の方は事務局まで作品をお送り下さい。下記リンクの内容をご確認の上、<font color="#ff0000">2025年1月31日（金）までに日本地図学会事務局宛</font>へお送り下さい。
 
-[◎バーバラ・ペチュニク子ども地図展作品募集のお知らせ・応募要項（PDF形式）](../../archive/file/entry/iccBarbaraPetchenik2024.pdf)
+[◎バーバラ・ペチュニク子ども地図展作品募集のお知らせ・応募要項（PDF形式）](../../archive/file/entry/iccBarbaraPetchenik2025.pdf)
