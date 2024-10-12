@@ -4,7 +4,7 @@ permalink: /topics/event/33
 layout: topics_detail
 title: International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子ども地図展のご案内
 description: 2025年8月16日から22日までの間、International Cartographic Conference 2025（ICC2025）が、カナダのバンクーバーにおいて開催されます。
-thumbnail: /assets/img/topics/noimage01.jpg
+thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
 categories:
   - event
