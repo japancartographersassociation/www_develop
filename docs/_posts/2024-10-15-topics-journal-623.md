@@ -5,7 +5,7 @@ layout: topics_detail
 title: 機関誌『地図』62-3が刊行されました
 
 description: 機関誌『地図』62-3が刊行されました
-thumbnail: /assets/img/topics/journal623_760×520.jpg
+thumbnail: /assets/img/topics/journal623_small.jpg
 bodyclass: topics-detail
 categories:
   - official
