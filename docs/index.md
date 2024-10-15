@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2024.10.12','機関誌','機関誌『地図』62-3が刊行されました','https://jcacj.org/latestjournal.html',false],
+  ['2024.10.15','機関誌','機関誌『地図』62-3が刊行されました','/topics/journal/623',false],
   ['2024.10.12','イベント','International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子供地図展の作品募集','/topics/event/33',false],
   ['2024.10.01','イベント','学校GIS教育専門部会主催 『地図のキッチン in 金沢 －「調理実習」で体感する今どきの高校地理－』開催のお知らせ','/topics/event/32',false],
   ['2024.08.09','大会','日本地図学会 2024年度定期大会開催のお知らせ（第3報）','/topics/conference/29',false],
