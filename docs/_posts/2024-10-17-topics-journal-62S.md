@@ -7,7 +7,7 @@ description: 2024年度定期大会で発表された、一般発表18本の予�
 thumbnail: /assets/img/main/Supplement01.jpg
 bodyclass: topics-detail
 categories:
-  - journal
+  - official
 tags:
   - 機関誌
 ---
