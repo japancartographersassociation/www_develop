@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2024.11.13','イベント','International Cartographic Conference 2025（ICC2025）発表投稿募集（論文12/8締切、アブストラクト12/15）','/topics/event/34',false],
   ['2024.10.17','機関誌','2024年度定期大会一般発表予稿がJ-STAGEで公開されました','/topics/journal/62S',false],
   ['2024.10.15','機関誌','機関誌『地図』62-3が刊行されました','/topics/journal/623',false],
   ['2024.10.12','イベント','International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子供地図展の作品募集','/topics/event/33',false],
