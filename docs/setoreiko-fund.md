@@ -6,7 +6,6 @@ bodyclass: award
 ---
 
 # 瀬戸玲子基金
-<!-- {:.heading-text} -->
 
 <div class="top-section">
   <h2>瀬戸玲子基金<small>女性のための地図振興支援助成事業</small></h2>
