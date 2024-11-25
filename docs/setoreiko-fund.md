@@ -194,3 +194,7 @@ bodyclass: award
     </tr>
   </table>
 </div> -->
+
+  <div class="back-to-top">
+    <a href="{{'/setoreiko-fund.html' | relative_url}}">VIEW MORE</a>
+  </div>
