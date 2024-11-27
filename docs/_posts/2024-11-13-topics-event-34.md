@@ -12,7 +12,7 @@ tags:
   - イベント
 ---
 
-# International Cartographic Conference 2025（ICC2025）発表投稿募集（論文1/8締切、アブストラクト1/15締切）
+# International Cartographic Conference 2025（ICC2025）発表投稿募集 締切延長のお知らせ（論文1/8締切、アブストラクト1/15締切）
 
 2025年8月開催の国際地図学会議バンクーバー大会（International Cartographic Conference 2025: ICC2025）の投稿を募集しています（論文1/8締切、アブストラクト1/15締切）。締切が延長されました。奮ってご投稿・ご参加ください。
 
@@ -22,5 +22,5 @@ tags:
 
 ご投稿・ご参加希望の方は下記リンク先の公式ウェブサイトをご確認ください。
 
-[ICC2025 バンクーバー大会 ウェブサイト](https://icc2025.com)
+[ICC2025 バンクーバー大会 ウェブサイト](https://icc2025.com)<br>
 [ICC2025 バンクーバー大会 アブストラクトおよびフルペーパーの募集](https://icc2025.com/abstracts/)
