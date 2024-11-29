@@ -56,7 +56,7 @@ bodyclass: service
         <div class="menu-text">機関誌「地図」に添付された地図の目録を掲載しております。</div>
         <ul class="menu-links">
           <li data-parent-active>・<span class="text">投稿規程</span><a href="{{'/archive/file/journal/toukoukitei.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
-          <li data-parent-active>・<span class="text">投稿原稿送付状</span><a href="{{'/archive/file/journal/soufuzyou.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/soufuzyou.doc' | relative_url}}"><span class="icon-doc"></span></a></li>
+          <li data-parent-active>・<span class="text">投稿原稿送付状</span><a href="{{'/archive/file/journal/soufuzyou.xlsx' | relative_url}}"><!--<span class="icon-pdf"></span>--></a><!--<a href="{{'/archive/file/journal/soufuzyou.doc' | relative_url}}"><span class="icon-doc"></span></a>--></li>
           <li data-parent-active>・<span class="text">投稿原稿執筆の手引き</span><a href="{{'/archive/file/journal/genkou_tebiki.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
           <li data-parent-active>・<span class="text">投稿のひな型</span><a href="{{'/archive/file/journal/toukou_hinagata.pdf' | relative_url}}"><span class="icon-pdf"></span></a><a href="{{'/archive/file/journal/toukou_hinagata.docx' | relative_url}}"><span class="icon-doc"></span></a></li>
           <li data-parent-active>・<span class="text">編集作業の流れ</span><a href="{{'/archive/file/journal/flow.pdf' | relative_url}}"><span class="icon-pdf"></span></a></li>
