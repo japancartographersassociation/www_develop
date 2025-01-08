@@ -3,9 +3,9 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2025.01.08','機関誌','機関誌『地図』62-4が刊行されました','/topics/journal/624',false],
   ['2025.01.04','イベント','International Cartographic Conference 2025（ICC2025）発表投稿募集 締切「再延長」のお知らせ（論文1/20締切、アブストラクト1/27）','/topics/event/35',false],
   ['2024.10.17','機関誌','2024年度定期大会一般発表予稿がJ-STAGEで公開されました','/topics/journal/62S',false],
-  ['2024.10.15','機関誌','機関誌『地図』62-3が刊行されました','/topics/journal/623',false],
   ['2024.10.12','イベント','International Cartographic Conference 2025（ICC2025）バーバラ・ペチュニク子供地図展の作品募集','/topics/event/33',false],
   ['2024.08.09','大会','日本地図学会 2024年度定期大会開催のお知らせ（第3報）','/topics/conference/29',false],
   ['2024.08.09','学会公式','南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介','/topics/official/09',false],
