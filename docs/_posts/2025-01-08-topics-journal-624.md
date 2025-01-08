@@ -5,7 +5,7 @@ layout: topics_detail
 title: 機関誌『地図』62-4が刊行されました
 
 description: 機関誌『地図』62-4が刊行されました
-thumbnail: /assets/img/topics/journal623_small.png
+thumbnail: /assets/img/topics/journal624_small.png
 bodyclass: topics-detail
 categories:
   - official
