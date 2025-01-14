@@ -108,7 +108,6 @@ bodyclass: service
   </table>
 </div>
 
-
 ### バックナンバー目次（J-STAGE未掲載）
 
 <div class="latestjournal-backnumber">
