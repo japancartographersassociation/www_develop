@@ -33,7 +33,7 @@ bodyclass: service
     </tr>
     <tr class="bg-grey">
       <td><b>【定期大会】</b></td>
-      <td>2024年度 定期大会速報<br><b></td>
+      <td>2024年度 定期大会速報</td>
       <td>太田 弘・浅野 晋一</td>
     </tr>
     <tr>
