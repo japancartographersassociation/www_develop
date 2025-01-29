@@ -5,7 +5,7 @@ layout: topics_detail
 title: 瀬戸玲子基金・女性のための地図振興支援助成事業「吉田桃子個展《そうぞうする地図−IMAGE ATLAS》」開催のお知らせ
 
 description: 瀬戸玲子基金・女性のための地図振興支援助成事業「吉田桃子個展《そうぞうする地図−IMAGE ATLAS》」を、3月15日（木）および16日（土）に開催します。
-thumbnail: /assets/img/topics/event_36.jpg
+thumbnail: /assets/img/topics/2025-01-29-topics-event_36_small.png
 bodyclass: topics-detail
 categories:
   - event
