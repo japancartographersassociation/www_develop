@@ -48,4 +48,4 @@ tags:
 
 　案内ポスター：[吉田桃子個展《そうぞうする地図−IMAGE ATLAS》](../../archive/file/setoreiko_fund/imageatlas2025.pdf)<br>
 
-<img src="../../assets/img/topics/2025-01-29-topics-event_36.jpg">
+<img src="../../assets/img/topics/2025-01-29-topics-event_36.png">
