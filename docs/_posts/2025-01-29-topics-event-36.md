@@ -10,7 +10,7 @@ bodyclass: topics-detail
 categories:
   - event
 tags:
-  - 研究助成
+  - イベント
 ---
 
 # 瀬戸玲子基金・女性のための地図振興支援助成事業「吉田桃子個展《そうぞうする地図−IMAGE ATLAS》」開催のお知らせ
