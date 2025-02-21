@@ -3,6 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2025.02.21','イベント','日本地図学会 長久保赤水図例会開催のお知らせ','/topics/event/37',false],
   ['2025.01.29','イベント','瀬戸玲子基金・女性のための地図振興支援助成事業「吉田桃子個展《そうぞうする地図−IMAGE ATLAS》」開催のお知らせ','/topics/event/36',false],
   ['2025.01.08','機関誌','機関誌『地図』62-4が刊行されました','/topics/journal/624',false],
   ['2025.01.04','イベント','International Cartographic Conference 2025（ICC2025）発表投稿募集 締切「再延長」のお知らせ（論文1/20締切、アブストラクト1/27）','/topics/event/35',false],
