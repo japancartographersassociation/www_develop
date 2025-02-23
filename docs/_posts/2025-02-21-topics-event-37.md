@@ -25,5 +25,5 @@ tags:
 |詳細案内|<a href="../../assets/file/event_36.pdf">日本地図学会例会 赤水図の実物（海田コレクション）の展示および赤水図を用いた中学･高校の授業実践紹介（PDF形式）</a>|
 {:.main-table}
 
-|連絡先|卜部勝彦（日本大学経済学部）urabe.katsuhiko＠nihon-u.ac.jp('＠'を'@'に変えて送信してください)|
+|連絡先|卜部勝彦（日本大学経済学部）urabe.katsuhiko＠nihon-u.ac.jp('＠'を半角@に変えて送信してください)|
 {:.main-table}
