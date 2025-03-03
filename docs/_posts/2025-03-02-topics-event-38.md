@@ -10,7 +10,7 @@ bodyclass: topics-detail
 categories:
   - event
 tags:
-  - イベント
+  - 例会
 ---
 
 # 日本地図学会 特別例会 「南波松太郎コレクションの古地図と新しい神戸の鳥観図の世界」開催のお知らせ
@@ -39,6 +39,6 @@ tags:
 ※ 参加ご希望の方は、必ず以下のPeatixサイトでご登録ください。<br>
 　[Peatix 予約サイト](https://jcakobe.peatix.com/view?fbclid=IwY2xjawIyUPFleHRuA2FlbQIxMAABHVHMQh00BXVd_9cFjLUqfUhLyFSQbHcSCv0_GKwiMSVGRuMwx4C5QFnNhg_aem_hY__1whcL2GZLle6Uf7k3g)<br>
 
-　案内PDF：[特別例会 地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/event_38.pdf)<br>
+　案内PDF：[特別例会 地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../assets/file/event_38.pdf)<br>
 <p class="main-image"><img src="../../assets/img/topics/kobekochizu.png" alt="kobekochizu" class="w-100" /></p>
 <p class="main-image"><img src="../../assets/img/topics/hyogochokanzu.png" alt="hyogochokanzu" class="w-100" /></p>
