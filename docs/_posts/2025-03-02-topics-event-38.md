@@ -25,7 +25,7 @@ tags:
 * 参加費：地図学会会員　無料　非会員1,000 円 ※入場券は別途ご購入ください。<br>
 
 ※ 参加ご希望の方は、必ず以下のPeatixサイトでご登録ください。<br>
-　[Peatix 予約サイト](https://kobejca.peatix.com/view?fbclid=IwY2xjawIxWHJleHRuA2FlbQIxMAABHRYi7kcHuuaHC5ek5_oCT8NUd6rq-vcvWYOnOGCHULWxMFwejtHvz1ZA_g_aem_amvD1T24SkWadz73gd2cNw)<br><br>
+　[Peatix 予約サイト](https://peatix.com/event/4329894/view?fbclid=IwY2xjawIyUONleHRuA2FlbQIxMAABHa16yWaWvT58cFGwmt2-7cPuxWgaliFi30xIiZ6_cfEaZrlIsbG5JdrNsA_aem_ptOL19V0gvShwoqcxvgFRg)<br>
 
 ## 兵庫県立兵庫津ミュージアム 鳥瞰図展：新しい神戸の鳥瞰図の世界
 * 会場：兵庫県立兵庫津ミュージアム ３階　研修室 (〒652-0844 神戸市兵庫区中之島2丁目2-1) [https://hyogo-no-tsu.jp/access/](https://hyogo-no-tsu.jp/access/)
@@ -37,8 +37,8 @@ tags:
 * 参加費：日本地図学会会員・神戸地図研究会 500円（入場券込み）、非会員・一般　1,000円（入場券込み）※参加費にはミュージアム入館料・図録・解説を含みます。<br>
 
 ※ 参加ご希望の方は、必ず以下のPeatixサイトでご登録ください。<br>
-　[Peatix 予約サイト](https://jcakobe.peatix.com/view?fbclid=IwY2xjawIxXCJleHRuA2FlbQIxMAABHSk3quyckq_psLlN_Qb2WYpSJuWlkVqpXTAoVHCtgqKEYBp6Ce5DADF_BA_aem_2AV_rdcie6OMspQP2lB6TA)<br><br>
+　[Peatix 予約サイト](https://jcakobe.peatix.com/view?fbclid=IwY2xjawIyUPFleHRuA2FlbQIxMAABHVHMQh00BXVd_9cFjLUqfUhLyFSQbHcSCv0_GKwiMSVGRuMwx4C5QFnNhg_aem_hY__1whcL2GZLle6Uf7k3g)<br>
 
 　案内PDF：[特別例会 地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/event_38.pdf)<br>
-
-<img src="../../assets/img/topics/kobekochizu.png"><img src="../../assets/img/topics/hyogochokanzu.png">
+<p class="main-image"><img src="../../assets/img/topics/kobekochizu.png" alt="kobekochizu" class="w-100" /></p>
+<p class="main-image"><img src="../../assets/img/topics/hyogochokanzu.png" alt="hyogochokanzu" class="w-100" /></p>
