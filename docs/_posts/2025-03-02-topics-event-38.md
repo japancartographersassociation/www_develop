@@ -39,6 +39,6 @@ tags:
 ※ 参加ご希望の方は、必ず以下のPeatixサイトでご登録ください。<br>
 　[Peatix 予約サイト](https://jcakobe.peatix.com/view?fbclid=IwY2xjawIxXCJleHRuA2FlbQIxMAABHSk3quyckq_psLlN_Qb2WYpSJuWlkVqpXTAoVHCtgqKEYBp6Ce5DADF_BA_aem_2AV_rdcie6OMspQP2lB6TA)<br><br>
 
-　案内PDF：[特別例会：地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/kobeevent2025.pdf)<br>
+　案内PDF：[特別例会 地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/kobeevent2025.pdf)<br>
 
 <img src="../../assets/img/topics/kobekochizu.png"><img src="../../assets/img/topics/hyogochokanzu.png">
