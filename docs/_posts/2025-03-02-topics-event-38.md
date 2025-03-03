@@ -41,4 +41,4 @@ tags:
 
 　案内PDF：[特別例会：地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/kobeevent2025.pdf)<br>
 
-<img src="../../assets/img/topics/kobekochizu.png"><img src="../../assets/img/topics/hyogokochizu.png">
+<img src="../../assets/img/topics/kobekochizu.png"><img src="../../assets/img/topics/hyogochokanzu.png">
