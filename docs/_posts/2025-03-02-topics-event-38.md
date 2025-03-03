@@ -5,7 +5,7 @@ layout: topics_detail
 title: 日本地図学会 特別例会 「南波松太郎コレクションの古地図と新しい神戸の鳥観図の世界」
 
 description: 日本地図学会 特別例会として「南波松太郎コレクションの古地図と新しい神戸の鳥観図の世界」を、3月19日（水）および20日（木）に開催します。
-thumbnail: /assets/img/topics/2025-01-29-topics-event_36_small.png
+thumbnail: /assets/img/topics/2025-03-02-topics-event_38_small.png
 bodyclass: topics-detail
 categories:
   - event
@@ -41,4 +41,4 @@ tags:
 
 　案内PDF：[特別例会：地図都「神戸」で開催する南波松太郎コレクションの古地図と新しい神戸の鳥瞰図の世界](../../archive/file/event/kobeevent2025.pdf)<br>
 
-<img src="../../assets/img/topics/2025-03-02-topics-event_38.png"><img src="../../assets/img/topics/2025-03-02-topics-event_38.png">
+<img src="../../assets/img/topics/kobekochizu.png"><img src="../../assets/img/topics/hyogokochizu.png">
