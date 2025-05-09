@@ -4,12 +4,12 @@ permalink: /topics/event/39
 layout: topics_detail
 title: ナビゲーション専門部会・防災と地図専門部会共催「防災ロゲイニングによる防災教育」開催のお知らせ
 description: 日本地図学会2025年度例会として、防災ロゲイニングによる防災教育を開催します。
-thumbnail: /assets/img/topics/event_39.png
+thumbnail: /assets/img/topics/event_39.jpg
 bodyclass: topics-detail
 categories:
   - event
 tags:
-  - イベント
+  - 例会
 ---
 
 # ナビゲーション専門部会・防災と地図専門部会共催「防災ロゲイニングによる防災教育」開催のお知らせ
