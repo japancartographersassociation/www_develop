@@ -18,12 +18,12 @@ tags:
 　日本地図学会では、「ナビゲーション専門部会」と「防災と地図専門部会」による合同例会「防災ロゲイニングによる防災教育」を【2025年6月8日（日）】に下記のとおり開催します。会場の東京学芸大学附属高等学校周辺で、ハザードマップを用いた「防災ロゲイニング」を実体験し、ナビゲーションの重要性や地域のリスク情報の取得など、防災教育について考えます。防災と地図専門部会の宇根寛主査（元・国土地理院）、ナビゲーション専門部会の村越真主査（静岡大学）による解説を交えながらの例会です。参加をお待ちしています。
 
 |日　時|2025年6月8日（日）12:30～17:30|
-|会　場|東京学芸大学附属高等学校（詳細教室は申込者にメール連絡）<br>東急東横線「学芸大学」駅より徒歩15分、東急田園都市線「三軒茶屋」駅より徒歩20分<br> <a href="https://www.gakugei-hs.setagaya.tokyo.jp/access/">https://www.gakugei-hs.setagaya.tokyo.jp/access/</a>|
+|会　場|東京学芸大学附属高等学校（詳細教室は申込者にメール連絡）<br>東急東横線「学芸大学」駅より徒歩15分、東急田園都市線「三軒茶屋」駅より徒歩20分<br> <a href="https://www.gakugei-hs.setagaya.tokyo.jp/access/" target="_blank" rel="noopener noreferrer">https://www.gakugei-hs.setagaya.tokyo.jp/access/</a>|
 |スケジュール|12時30分 開会（受付は12時15分より）<br>12時40分 ロゲイニングとは、ハザードマップとは（各専門部会主査など）<br>14時  　 フィールドワーク（実際に「防災ロゲイニング」のポイント設定を体験）<br>16時  　 防災ロゲイニングによる防災教育の可能性（意見交換会）<br>17時30分 閉会|
 |主　管|日本地図学会　ナビゲーション専門部会 ＆ 防災と地図専門部会|
 |参加費|日本地図学会会員、学生は無料、日本地図学会の非会員は500円を会場でお支払いください。|
-|詳細案内|<a href="../../assets/file/event_39.pdf">日本地図学会2025年度例会「防災ロゲイニングによる防災教育」（PDF形式）</a>|
+|詳細案内|<a href="../../assets/file/event_39.pdf" target="_blank" rel="noopener noreferrer">日本地図学会2025年度例会「防災ロゲイニングによる防災教育」（PDF形式）</a>|
 {:.main-table}
 
-|参加申し込み|下記サイトより申し込みをお願いします。<br><a href="https://forms.gle/28KtRhz8Yjgfk9e9A">https://forms.gle/28KtRhz8Yjgfk9e9A</a>|
+|参加申し込み|下記サイトより申し込みをお願いします。<br><a href="https://forms.gle/28KtRhz8Yjgfk9e9A" target="_blank" rel="noopener noreferrer">https://forms.gle/28KtRhz8Yjgfk9e9A</a>|
 {:.main-table}
