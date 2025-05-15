@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2025.05.15','機関誌','機関誌『地図』63-1が刊行されました','/docs/assets/latestjouranal',false],
+  ['2025.05.15','機関誌','機関誌『地図』63-1が刊行されました','https://jcacj.org/latestjournal.html',false],
   ['2025.05.09','例会','ナビゲーション専門部会・防災と地図専門部会合同例会 「防災ロゲイニングによる防災教育」開催のお知らせ','/topics/event/39',false],
   ['2025.01.04','イベント','International Cartographic Conference 2025（ICC2025）発表投稿募集 締切「再延長」のお知らせ（論文1/20締切、アブストラクト1/27）','/topics/event/35',false],
   ['2024.10.17','機関誌','2024年度定期大会一般発表予稿がJ-STAGEで公開されました','/topics/journal/62S',false],
