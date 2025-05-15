@@ -46,27 +46,27 @@ bodyclass: service
       <td>長久保赤水図専門部会の紹介</td>
       <td>卜部 勝彦</td>
     </tr>
-    <tr class="bg-grey">
+    <tr>
       <td style="white-space: nowrap;"><b>【書評・紹介】</b></td>
       <td>地図で見る最新世界情勢</td>
       <td>佐藤 潤</td>
     </tr>
-    <tr>
+    <tr class="bg-grey">
       <td><b></b></td>
       <td>基礎から学ぶGIS・地理空間情報</td>
       <td>若林 芳樹</td>
     </tr>
-    <tr class="bg-grey">
+    <tr>
       <td><b></b></td>
       <td>大人のための離島再訪</td>
       <td>佐藤 潤</td>
     </tr>
-    <tr>
+    <tr class="bg-grey">
       <td><b>【随想・意見】</b></td>
       <td>佐藤崇徳先生を偲ぶ</td>
       <td>伊藤 智章</td>
     </tr>
-    <tr class="bg-grey">
+    <tr>
       <td><b>【特別会員名簿】</b></td>
       <td colspan="2"></td>
     </tr>
