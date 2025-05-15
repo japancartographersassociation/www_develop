@@ -7,7 +7,7 @@ bodyclass: service
 
 
 ## 機関誌 「地図」 最新号目次
-### Vol.62 No.4 （通巻248号）
+### Vol.63 No.1 （通巻249号）
 
 <div class="table-responsive">
   <table class="table latestjournal-table">
@@ -17,104 +17,91 @@ bodyclass: service
       <td class="text-center">著者</td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;"><b>【資料】</b></td>
-      <td>明治期における日本刊行の水路図誌目録について<br><b>キーワード：</b>明治、日本、水路図誌目録、海図、水路誌</td>
-      <td>河村 克典</td>
+      <td style="white-space: nowrap;"><b>【短報】</b></td>
+      <td>沖縄港周辺における15～20世紀の地形と景観の変遷<br><b>キーワード：</b>琉球王国、那覇港、通堂崎、迎恩亭</td>
+      <td>安里 進</td>
     </tr>
     <tr class="bg-grey">
       <td><b>【資料・添付地図解説】</b></td>
-      <td>「凹凸地図と気象過去データ」で見る関東地方の春夏秋冬<br><b>キーワード：</b>地図表現、主題図、気象データ、多重光源陰影起伏図、カレンダー</td>
-      <td>佐藤 慧・田村 いずみ・熊谷 新・有賀 夏希</td>
+      <td>尚家旧蔵「琉球国之図」<br><b>キーワード：</b>高原景宅、量地法式集、間切図、赤水図</td>
+      <td>安里 進</td>
     </tr>
     <tr>
-      <td><b>【添付地図解説】</b></td>
-      <td>2025年カレンダー「切り絵の地図」<br><b>キーワード：</b>切り絵、地図デザイン、カレンダー</td>
-      <td>秋葉 愛加</td>
+      <td><b>【沖縄地方大会　巡検報告】</b></td>
+      <td>地図で見る、調べる那覇（巡検に参加して）</td>
+      <td>新垣 愛子・平安山亜紀</td>
     </tr>
     <tr class="bg-grey">
-      <td><b>【定期大会】</b></td>
-      <td>2024年度 定期大会速報</td>
-      <td>太田 弘・浅野 晋一</td>
-    </tr>
-    <tr>
       <td style="white-space: nowrap;"><b>【専門部会】</b></td>
-      <td>日本地図学会専門部会の紹介（Part 1）</td>
+      <td>地図と防災専門部会の紹介</td>
+      <td>宇根 寛</td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td>学校GIS教育専門部会の紹介</td>
+      <td>伊藤 智章</td>
+    </tr>
+    <tr class="bg-grey">
+      <td><b></b></td>
+      <td>長久保赤水図専門部会の紹介</td>
+      <td>卜部 勝彦</td>
+    </tr>
+    <tr class="bg-grey">
+      <td style="white-space: nowrap;"><b>【書評・紹介】</b></td>
+      <td>地図で見る最新世界情勢</td>
+      <td>佐藤 潤</td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td>基礎から学ぶGIS・地理空間情報</td>
       <td>若林 芳樹</td>
     </tr>
     <tr class="bg-grey">
       <td><b></b></td>
-      <td>地図用語専門部会の活動について</td>
-      <td>今井 健三・菱山 剛秀</td>
+      <td>大人のための離島再訪</td>
+      <td>佐藤 潤</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td>地図学のアウトリーチ専門部会の紹介</td>
-      <td>太田 弘</td>
-    </tr>
-    <tr class="bg-grey">
-      <td><b></b></td>
-      <td>海洋図専門部会の紹介</td>
-      <td>上田 秀敏</td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td>ナビゲーション専門部会の紹介</td>
-      <td>村越 真</td>
-    </tr>
-    <tr class="bg-grey">
-      <td><b></b></td>
-      <td>地図史・地図アーカイブ専門部会の紹介</td>
-      <td>鈴木 純子</td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td>地名と地図専門部会</td>
-      <td>今尾 恵介</td>
-    </tr>
-    <tr class="bg-grey">
-      <td><b></b></td>
-      <td>子供と地図専門部会の紹介</td>
-      <td>両角 みのり</td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td>地図リテラシー専門部会の紹介</td>
-      <td>若林 芳樹</td>
+      <td><b>【随想・意見】</b></td>
+      <td>佐藤崇徳先生を偲ぶ</td>
+      <td>伊藤 智章</td>
     </tr>
     <tr class="bg-grey">
       <td><b>【特別会員名簿】</b></td>
       <td colspan="2"></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td><b>【総目次】</b></td>
       <td colspan="2"></td>
-    </tr>
+    </tr>-->
     <tr class="bg-grey">
       <td><b>【学会記事】</b></td>
       <td colspan="2"></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td><b>【投稿規定】</b></td>
       <td colspan="2"></td>
     </tr>
     <tr class="bg-grey">
       <td><b>【会則】</b></td>
       <td colspan="2"></td>
-    </tr>
+    </tr>-->
     <tr>
       <td><b>【添付地図】</b></td>
-      <td colspan="2">2025年カレンダー「凹凸地図と気象過去データ」で見る関東地方の春夏秋冬<br>2025年カレンダー「切り絵の地図」</td>
+      <td colspan="2">尚家旧蔵「琉球国之図」</td>
     </tr>
   </table>
 </div>
 
 
-### バックナンバー目次（J-STAGE未掲載）
+### バックナンバー目次
 
 <div class="latestjournal-backnumber">
   <p>
+    <a href="https://www.jstage.jst.go.jp/browse/jjca/-char/ja" target="_blank" rel="noopener noreferrer">●バックナンバー目次は、J-STAGEをご確認ください。</a>
+    <!--<a href="{{'/archive/file/contents/contents247.pdf' | relative_url}}">●Vol.62 No.4（通巻248号）</a>
     <a href="{{'/archive/file/contents/contents247.pdf' | relative_url}}">●Vol.62 No.3（通巻247号）</a>
     <a href="{{'/archive/file/contents/contents246.pdf' | relative_url}}">●Vol.62 No.2（通巻246号）</a>
-    <a href="{{'/archive/file/contents/contents245.pdf' | relative_url}}">●Vol.62 No.1（通巻245号）</a>
+    <a href="{{'/archive/file/contents/contents245.pdf' | relative_url}}">●Vol.62 No.1（通巻245号）</a>-->
   </p>
 </div>
