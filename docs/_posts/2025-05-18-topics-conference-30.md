@@ -23,7 +23,7 @@ tags:
 
 ## 会場
 神奈川県立生命の星・地球博物館（〒250-0031　神奈川県小田原市入生田499）<br>
-<a href="https://nh.kanagawa-museum.jp" class="main-table">https://nh.kanagawa-museum.jp</a></p>
+<a href="https://nh.kanagawa-museum.jp" class="main-table">https://nh.kanagawa-museum.jp</a>
 
 一般発表・シンポジウム・地図展出展等の詳細は６月初旬にHP申し込み概要を発表します。<br>
 展示・詳細については学会事務局（集会担当）にメールにてお問い合わせください。<br>
