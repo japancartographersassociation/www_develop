@@ -76,8 +76,8 @@ tags:
 #### ２．発表要旨の提出方法
 「定期大会発表論文・資料集」の原稿は，以下の定期大会案内に記載の執筆要領に従い，下記の原稿フォーマット（Word形式）を使用してください。また，提出時の原稿のファイル形式はPDFとします。
 
-**[日本地図学会2025年度定期大会ポスター（PDF形式）](../../archive/file/program/2025Tokyo_poster.pdf)**<br>
-**[日本地図学会2025年度定期大会のお知らせ（PDF形式）](../../archive/file/program/2025Tokyo_entryguide.pdf)**<br>
+**[日本地図学会2025年度定期大会ポスター（PDF形式）](../../archive/file/program/2025Odawara_poster.pdf)**<br>
+**[日本地図学会2025年度定期大会のお知らせ（PDF形式）](../../archive/file/program/2025Odawara_entryguide.pdf)**<br>
 **[「定期大会発表論文・資料集」の原稿フォーマット（Word形式）](../../archive/file/program/Templete2025JCA.docx)**<br>
 
 **<u>提出期限は7月18日（金）</u>です。** 
