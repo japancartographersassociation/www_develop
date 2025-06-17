@@ -5,51 +5,51 @@ bodyclass: organization
 ---
 
 # 組織・体制
-## 第31期（2023～2024年度）　日本地図学会役員・評議員
+## 第32期（2025～2026年度）　日本地図学会役員・評議員
 
 <div class="table-responsive">
   <table class="table organization-table">
     <tr>
       <td><b>会長</b></td>
-      <td>熊木洋太</td>
+      <td>若林　芳樹</td>
     </tr>
     <tr>
       <td><b>会計監査</b></td>
-      <td>鈴木厚志　滝沢由美子</td>
+      <td>鈴木　厚志　滝沢由美子</td>
     </tr>
     <tr>
       <td><b>常任委員長</b></td>
-      <td>卜部勝彦</td>
+      <td>岡谷　隆基</td>
     </tr>
     <!--<tr>
       <td><b>副常任委員長</b></td>
-      <td>宇根　寛</td>
+      <td></td>
     </tr>-->
     <tr>
       <td><b>常任委員（<strong>太字は委員長</strong>）</b></td>
       <td>
-        浅野晋一（集会）　<strong>荒堀智彦（広報）</strong>　<strong>伊藤香織（連携渉外）</strong>　<strong>上田秀敏（総務）</strong>　<strong>太田　弘（集会）</strong><br>
+        （掲載準備中）<!--浅野晋一（集会）　<strong>荒堀智彦（広報）</strong>　<strong>伊藤香織（連携渉外）</strong>　<strong>上田秀敏（総務）</strong>　<strong>太田　弘（集会）</strong><br>
         <strong>落合康浩（会計）</strong>　<strong>黒木貴一（防災）</strong>　小泉　諒（編集）　　　近藤賀誉（広報）　佐藤崇徳（集会）<br>
         新垣紀子（研究助成）　田中　圭（会計）　中埜貴元（編集）　野尻琢也（総務）　羽田康祐（広報）<br>
-        菱山剛秀（編集）　丸山智康（広報）　三橋浩志（研究助成）　吉田魁人（編集）　<strong>若林芳樹（編集）</strong>
+        菱山剛秀（編集）　丸山智康（広報）　三橋浩志（研究助成）　吉田魁人（編集）　<strong>若林芳樹（編集）</strong>-->
       </td>
     </tr>
     <tr>
       <td><b>評議員</b></td>
       <td>
-        安里　進　浅野晋一　畔田豊年　荒堀智彦　有川正俊　石川　初　伊藤香織　今尾恵介　上田秀敏<br>
-        牛垣雄矢　碓井照子　宇根　寛　烏山芳織　卜部勝彦　遠藤宏之　太田　弘　大西宏治　岡谷隆基<br>
-        岡本耕平　小口　高　落合康浩　梶村　徹　春日　茂　亀井啓一郎　河合豊明　河村克典　黒木貴一<br>
-        小荒井衛　小泉　諒　小林　茂　小林政能　近藤賀誉　酒井拓也　佐藤　潤　佐藤崇徳　佐藤俊明<br>
-        志村　喬　新垣紀子　高橋成雄　高橋美江　田賀　傑　立岡裕士　田中　圭　田中宏明　千葉達朗<br>
-        中島　円　中埜貴元　中村　剛　野尻琢也　長谷川均　羽田康祐　菱山剛秀　藤田秀之　古橋大地　<br>
-        政春尋志　丸山智康　三橋浩志　村越　真　目代邦康　八島邦夫　矢野桂司　吉田魁人　若林芳樹<br>
+        秋葉　愛加　安里　　進　浅野　晋一　畔田　豊年　荒堀　智彦　有川　正俊　新井　雅史　石川　　剛　伊藤　香織　伊藤　智章<br>
+        井田　仁康　今尾　恵介　上田　秀敏　宇根　　寛　烏山　芳織　卜部　勝彦　遠藤　宏之　大木　章一　大田　曉雄　太田　　弘<br>
+        大西　宏治　岡谷　隆基　岡本　耕平　小口　　高　落合　康浩　海田　俊一　春日　　茂　亀井啓一郎　河合　豊明　川名　　禎<br>
+        河村　克典　栗山　絵里　黒木　貴一　小荒井　衛　小泉　　諒　河本　大地　小林　岳人　小林　政能　近藤　賀誉　酒井　拓也<br>
+        佐藤　　潤　佐藤　俊明　志村　　喬　新垣　紀子　関根　智子　高橋　美江　高橋　美江　田中　　圭　田中　宏明　千葉　達朗<br>
+        長岡　正利　中島　　円　中野　一也　中村　　剛　中村　泰子　新井田秀一　野尻　琢也　芳賀　　啓　羽田　康祐　福岡　心平<br>
+        藤田　秀之　古橋　大地　政春　尋志　丸山　智康　三橋　浩志　村越　　真　両角みのり　八島　邦夫　矢野　桂司　吉田　魁人<br>
       </td>
     </tr>
   </table>
 </div>
 
-### 各委員会委員：2023.9.30現在（◯：委員長、副：副委員長）
+### 各委員会委員：掲載準備中（◯：委員長、副：副委員長）
 
 <div class="table-responsive">
   <table class="table organization-table">
@@ -60,42 +60,42 @@ bodyclass: organization
     </tr>
     <tr>
       <td><b>総務委員会</b></td>
-      <td>◯上田秀敏　野尻琢也</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>会計委員会</b></td>
-      <td>◯落合康浩　田中　圭</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>編集委員会</b></td>
-      <td>◯若林芳樹　上田秀敏　小泉　諒　中埜貴元　菱山剛秀　吉田魁人</td>
-      <td>(副)岡谷隆基</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><b>集会・企画委員会</b></td>
-      <td>◯太田　弘　浅野晋一　佐藤崇徳</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>広報・IT委員会</b></td>
-      <td>◯荒堀智彦　太田　弘　近藤賀誉　羽田康祐　丸山智康</td>
-      <td>(副)古橋大地</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><b>防災委員会</b></td>
-      <td>◯黒木貴一</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>連携渉外委員会</b></td>
-      <td>◯伊藤香織</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td><b>研究等助成委員会</b></td>
-      <td>◯三橋浩志　新垣紀子</td>
+      <td></td>
       <td>&nbsp;</td>
     </tr>
   </table>
@@ -107,7 +107,7 @@ bodyclass: organization
 </div>
 -->
 
-## 第31期（2023～2024年度）　日本地図学会特別会員：2023.8.5現在
+## 第32期（2025～2026年度）　日本地図学会特別会員：2025.6.14現在
 
 <div class="organization-co-list">
   <div class="corporate">
@@ -159,12 +159,6 @@ bodyclass: organization
     <div class="co-text">出版</div>
   </div>
   <div class="corporate">
-    <div class="co-thumb"><img src="{{'/assets/img/organization/geocatalog_logo.gif' | relative_url}}"></div>
-    <div class="co-name"><a href="http://www.geocatalog.co.jp/index.php">ジオカタログ(株)　</a></div>
-    <div class="co-en">GeoCatalog Inc.</div>
-    <div class="co-text">世界地図データ整備､書籍出版､編集､企画提案､GISデータ処理､地図調製､地図コンテンツ</div>
-  </div>
-  <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/shojuchart_logo.gif' | relative_url}}"></div>
     <div class="co-name"><a href="http://www.sjcmap.co.jp/">昇寿チャート(株)</a></div>
     <div class="co-en">Shoju-chart Co., Ltd.</div>
@@ -175,12 +169,6 @@ bodyclass: organization
     <div class="co-name"><a href="http://www.zenrin.co.jp/">(株) ゼ ン リ ン</a></div>
     <div class="co-en">Zenrin Co., Ltd.</div>
     <div class="co-text">地図出版､地図調製､GIS､システム開発､電子地図制作</div>
-  </div>
-  <div class="corporate">
-    <div class="co-thumb"><img src="{{'/assets/img/organization/zenrin_datacom_logo.png' | relative_url}}"></div>
-    <div class="co-name"><a href="http://www.zenrin-datacom.net/index.html">(株) ゼンリンデータコム</a></div>
-    <div class="co-en">ZENRIN DataCom CO.,LTD.</div>
-    <div class="co-text">PC、携帯向け地図・ナビゲーション、地図情報ASP、ソリューション提供</div>
   </div>
   <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/nkoei_urban_logo.png' | relative_url}}"></div>
