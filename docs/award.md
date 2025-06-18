@@ -11,14 +11,14 @@ bodyclass: award
 <div class="top-section">
   <h2>学会賞</h2>
   <div class="award-heading">
-    <h3>第18回（令和6年度）受賞結果</h3>
+    <h3>第19回（令和7年度）受賞結果</h3>
     <p>※受賞者の所属は、受賞当時のものとします。</p>
   </div>
   <div class="award-list">
     {% assign jcacjaward_count = 0 %}
     {% for post in site.posts %}
       {% if post.categories[0] == 'jcacjaward' %}
-      {% if post.categories[1] == '18th' %}
+      {% if post.categories[1] == '19th' %}
       {% if jcacjaward_count < 3 %}
       {% assign jcacjaward_count = jcacjaward_count|plus:1 %}
       <div class="list-box">
