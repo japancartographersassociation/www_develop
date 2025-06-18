@@ -5,7 +5,7 @@ layout: topics_detail
 title: 日本地図学会 第19回 学会賞受賞者
 
 description: 令和7年6月14日（土）開催の日本地図学会総会において， 第19回学会賞を授与しました。受賞された皆様、おめでとうございます。受賞者を掲載しました。
-thumbnail: /assets/img/topics/journal624_small.png
+thumbnail: /assets/img/topics/noimage01.png
 bodyclass: topics-detail
 categories:
   - official
