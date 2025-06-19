@@ -1,10 +1,10 @@
 ---
 permalink: /organization.html
-title: 日本地図学会　組織・体制
+title: 日本地図学会　組織
 bodyclass: organization
 ---
 
-# 組織・体制
+# 組織
 ## 第32期（2025～2026年度）　日本地図学会役員・評議員
 
 <div class="table-responsive">
