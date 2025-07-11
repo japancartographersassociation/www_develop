@@ -3,7 +3,7 @@ permalink: /topics/conference/31
 
 layout: topics_detail
 title: 日本地図学会 2025年度 定期大会のお知らせ（第2報）※シンポジウム，特別セッションの企画募集延長
-description: 今年度の定期大会は神奈川県立生命の星地球博物館にて開催いたします。奮ってご参加ください。
+description: 今年度の定期大会は神奈川県立生命の星地球博物館にて開催いたします。奮ってご参加ください。シンポジウム，特別セッションの企画募集の締め切りを延長しました。
 thumbnail: /assets/img/topics/jcacj_annualconference_760x520.jpg
 bodyclass: topics-detail
 categories:
