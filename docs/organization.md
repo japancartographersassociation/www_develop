@@ -213,10 +213,10 @@ bodyclass: organization
     <div class="co-text">地図調製､地図印刷､地図卸売､GIS､システム開発</div>
   </div>
   <div class="corporate">
-    <div class="co-thumb"><img src="{{'/assets/img/organization/ninomiyasyoten_logo.png' | relative_url}}"></div>
-    <div class="co-name"><a href="http://www.ninomiyashoten.co.jp/">(株) 二 宮 書 店</a></div>
-    <div class="co-en">Ninomiya Shoten Co., Ltd.</div>
-    <div class="co-text">地図出版､出版､地図教材</div>
+    <div class="co-thumb"><img src="{{'/assets/img/organization/yamakawa_logo.jpg' | relative_url}}"></div>
+    <div class="co-name"><a href="http://www.ninomiyashoten.co.jp/">(株) 山川出版社</a></div>
+    <div class="co-en">Yamakawa Shuppansha Ltd.</div>
+    <div class="co-text">出版､地図出版､地図教材</div>
   </div>
   <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/nihonsuiro_logo.gif' | relative_url}}"></div>
