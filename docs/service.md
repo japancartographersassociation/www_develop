@@ -11,7 +11,7 @@ bodyclass: service
 <div class="top-section" data-hash-target="#Journal-of-the-Japan-Cartographers-Association">
   <h2>機関誌 「地図」 －空間表現の科学－</h2>
   <div class="thumb-row">
-    <div class="image-col"><img src="{{ site.baseurl }}/assets/img/service/thumb_book_01.jpeg" class="w-100" alt=""></div>
+    <div class="image-col"><img src="{{ site.baseurl }}/assets/img/service/thumb_book_02.png" class="w-100" alt=""></div>
     <div class="main-col">
       <p class="heading-text">「地図」(Journal of the Japan Cartographers Association)は日本地図学会の機関誌で、原則として年4回発行する本学会の機関サービスです。この機関誌「地図」は、日本地図学会会則第4条に記されている本学会の目的「地図学に関する研究の連絡、 提携を図ることにより、地図学の理論の構築と普及および地図・空間情報などに関する技術の向上に資するとともに、これらの応用および地図教育などの発展に寄与し、もって地図学の発達、普及を推進すること」にふさわしい論文等のほか、 学会員に対する情報提供のための記事を掲載するもので、 地図学におけるわが国の代表的な学術誌として、1963年の創刊以来継続して刊行しております。</p>
     </div>
