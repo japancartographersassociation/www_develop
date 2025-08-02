@@ -61,16 +61,16 @@ bodyclass: service
       <td>GIS入門 この一冊で「統計マップ」が自在に作れる</td>
       <td>吉田 魁人</td>
     </tr>
-    <!--<tr class="bg-grey">
-      <td><b></b></td>
-      <td></td>
-      <td></td>
-    </tr>-->
-    <tr>
+    <tr class="bg-grey">
       <td><b>【随想・意見】</b></td>
       <td>齊藤忠光さんのご逝去を悼んで</td>
       <td>森田 喬</td>
     </tr>
+    <!--<tr>
+      <td><b></b></td>
+      <td></td>
+      <td></td>
+    </tr>-->
     <tr>
       <td><b>【特別会員名簿】</b></td>
       <td colspan="2"></td>
