@@ -7,7 +7,7 @@ bodyclass: service
 
 
 ## 機関誌 「地図」 最新号目次
-### Vol.63 No.1 （通巻249号）
+### Vol.63 No.2 （通巻250号）
 
 <div class="table-responsive">
   <table class="table latestjournal-table">
@@ -17,54 +17,59 @@ bodyclass: service
       <td class="text-center">著者</td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;"><b>【短報】</b></td>
-      <td>沖縄港周辺における15～20世紀の地形と景観の変遷<br><b>キーワード：</b>琉球王国、那覇港、通堂崎、迎恩亭</td>
-      <td>安里 進</td>
+      <td style="white-space: nowrap;"><b>特集：デジタル時代の地図リテラシー<br>【総説・展望】</b></td>
+      <td>デジタル時代の地図リテラシーの再構築<br><b>キーワード：</b>地図リテラシー、地理空間情報、視覚化、デジタル化</td>
+      <td>若林 芳樹</td>
     </tr>
     <tr class="bg-grey">
-      <td><b>【資料・添付地図解説】</b></td>
-      <td>尚家旧蔵「琉球国之図」<br><b>キーワード：</b>高原景宅、量地法式集、間切図、赤水図</td>
-      <td>安里 進</td>
+      <td><b>【総説・展望】</b></td>
+      <td>ハザードマップの地図リテラシー：認知心理学的検討<br><b>キーワード：</b>認知地図学、理解、GIS、スキーマ、メタ認知</td>
+      <td>村越 真</td>
     </tr>
     <tr>
-      <td><b>【沖縄地方大会　巡検報告】</b></td>
-      <td>地図で見る、調べる那覇（巡検に参加して）</td>
-      <td>新垣 愛子・平安山亜紀</td>
+      <td><b>【論説】</b></td>
+      <td>地図リテラシーにおけるJ.ベルタンの図の体系の発見的仮説推論方法の位置づけ<br><b>キーワード：</b>地図リテラシー、J.ベルタン、図の体系、発見的仮説推論、アブダクション</td>
+      <td>森田 喬</td>
     </tr>
     <tr class="bg-grey">
-      <td style="white-space: nowrap;"><b>【専門部会】</b></td>
-      <td>地図と防災専門部会の紹介</td>
-      <td>宇根 寛</td>
+      <td style="white-space: nowrap;"><b>【論説】</b></td>
+      <td>歴史的地図リテラシー促進のための動的局所ジオリファレンシングWebプラットフォームの開発と応用<br><b>キーワード：</b>歴史的地図、動的局所ジオリファレンシング（DLGR）、静的全域ジオリファレンシング（SGGR）、コントロールポイント（CP）、歴史的地図リテラシー、地図変形、Webマッピング</td>
+      <td>Lu Min・Tran Quang Sang・佐々木一織・田村　公季・有川　正俊</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td>学校GIS教育専門部会の紹介</td>
-      <td>伊藤 智章</td>
+      <td><b>【短報】</b></td>
+      <td>「地理情報科学と技術の知識体系」改訂版の内容分析から探る現代の地図・GIS教育ニーズ<br><b>キーワード：</b>GIS&T BoK、内容分析、プログラミング、市民参加、倫理的側面</td>
+      <td>瀬戸 寿一</td>
     </tr>
     <tr class="bg-grey">
-      <td><b></b></td>
-      <td>長久保赤水図専門部会の紹介</td>
-      <td>卜部 勝彦</td>
+      <td><b>【添付地図解説】</b></td>
+      <td>都市景観図『無数の意思 ー Myriads of wills』は地図か<br><b>キーワード：</b>アート、デザイン、空間表現、都市景観、地図学</td>
+      <td>太田 守重</td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><b>【書評・紹介】</b></td>
-      <td>地図で見る最新世界情勢</td>
-      <td>佐藤 潤</td>
+      <td>武蔵野地図学序説</td>
+      <td>菱山 剛秀</td>
     </tr>
     <tr class="bg-grey">
       <td><b></b></td>
-      <td>基礎から学ぶGIS・地理空間情報</td>
-      <td>若林 芳樹</td>
+      <td>地図でみる廃藩置県－幕末の国郡から府県へ－</td>
+      <td>今尾 恵介</td>
     </tr>
     <tr>
       <td><b></b></td>
-      <td>大人のための離島再訪</td>
-      <td>佐藤 潤</td>
+      <td>GIS入門 この一冊で「統計マップ」が自在に作れる</td>
+      <td>吉田 魁人</td>
     </tr>
-    <tr class="bg-grey">
+    <!--<tr class="bg-grey">
+      <td><b></b></td>
+      <td></td>
+      <td></td>
+    </tr>-->
+    <tr>
       <td><b>【随想・意見】</b></td>
-      <td>佐藤崇徳先生を偲ぶ</td>
-      <td>伊藤 智章</td>
+      <td>齊藤忠光さんのご逝去を悼んで</td>
+      <td>森田 喬</td>
     </tr>
     <tr>
       <td><b>【特別会員名簿】</b></td>
@@ -88,7 +93,7 @@ bodyclass: service
     </tr>-->
     <tr>
       <td><b>【添付地図】</b></td>
-      <td colspan="2">尚家旧蔵「琉球国之図」</td>
+      <td colspan="2">都市景観図『無数の意思 ー Myriads of wills』</td>
     </tr>
   </table>
 </div>

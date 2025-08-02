@@ -3,10 +3,10 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
+  ['2025.07.31','機関誌','機関誌『地図』63-2が刊行されました','/topics/journal/632',false],
   ['2025.06.18','学会公式','日本地図学会 第19回学会賞 受賞者','/topics/official/10',false],
   ['2025.06.11','大会','日本地図学会 2025年度定期大会開催のお知らせ（第2報）※シンポジウム，特別セッションの締め切りを延長しました','/topics/conference/31',false],
   ['2025.05.18','大会','日本地図学会 2025年度定期大会開催のお知らせ（第1報）','/topics/conference/30',false],
-  ['2025.05.15','機関誌','機関誌『地図』63-1が刊行されました','https://jcacj.org/latestjournal.html',false],
   ['2024.08.09','学会公式','南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介','/topics/official/09',false],
   ['2024.07.06','学会公式','日本地図学会監訳「Mapping for a Sustainable World －持続可能な世界のための地図作成－」Web公開のお知らせ','/topics/official/08',false],
 ]
