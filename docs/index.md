@@ -3,7 +3,7 @@ layout: nocontainer
 title: 日本地図学会
 bodyclass: top
 information: [
-  ['2025.07.31','機関誌','機関誌『地図』63-2が刊行されました','/topics/journal/632',false],
+  ['2025.08.02','機関誌','機関誌『地図』63-2が刊行されました','/topics/journal/632',false],
   ['2025.06.18','学会公式','日本地図学会 第19回学会賞 受賞者','/topics/official/10',false],
   ['2025.06.11','大会','日本地図学会 2025年度定期大会開催のお知らせ（第2報）※シンポジウム，特別セッションの締め切りを延長しました','/topics/conference/31',false],
   ['2025.05.18','大会','日本地図学会 2025年度定期大会開催のお知らせ（第1報）','/topics/conference/30',false],
