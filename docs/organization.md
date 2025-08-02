@@ -111,16 +111,16 @@ bodyclass: organization
 
 <div class="organization-co-list">
   <div class="corporate">
-    <div class="co-thumb"><img src="{{'/assets/img/organization/asahikoyo_logo.png' | relative_url}}"></div>
-    <div class="co-name"><a href="https://www.aeroasahi.co.jp/">朝 日 航 洋 (株)</a></div>
-    <div class="co-en">Aero Asahi Corporation</div>
-    <div class="co-text">測量､GIS､空中写真､システム開発、建設コンサルタント､リモートセンシング</div>
-  </div>
-  <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/asiakosoku_logo.png' | relative_url}}"></div>
     <div class="co-name"><a href="http://www.ajiko.co.jp/">アジア航測(株)</a></div>
     <div class="co-en">Asia Air Survey Co., Ltd.</div>
     <div class="co-text">測量､GIS､環境調査､防災調査・計画、道路橋梁設計､空中写真</div>
+  </div>
+  <div class="corporate">
+    <div class="co-thumb"><img src="{{'/assets/img/organization/asahikoyo_logo.png' | relative_url}}"></div>
+    <div class="co-name"><a href="https://www.aerotoyota.co.jp/">エアロトヨタ (株)</a></div>
+    <div class="co-en">Aero Toyota Corporation</div>
+    <div class="co-text">測量､GIS､空中写真､システム開発、建設コンサルタント､リモートセンシング</div>
   </div>
   <div class="corporate">
     <div class="co-thumb"><img src="{{'/assets/img/organization/esri_logo.jpg' | relative_url}}"></div>
