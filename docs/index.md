@@ -131,7 +131,7 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-      <h2 class="top-h2-en">INFORMATION</h2>
+      <h2 class="top-h2-en">INFORMATION　最新情報</h2>
       <div class="info-scroll">
         <div class="info-list">
 {% for info_row in page.information %}
