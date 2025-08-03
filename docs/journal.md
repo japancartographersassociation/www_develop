@@ -9,11 +9,6 @@ bodyclass: service
 ## 機関誌 お知らせ・告知
 
 <div class="journal-block">
-  <h3>【機関誌「地図」最新号目次掲載のお知らせ】</h3>
-  <p>機関誌「地図」60巻1号（通巻237号）の目次を掲載しました。</p>
-</div>
-
-<div class="journal-block">
   <h3>【『地図』掲載論文のデータベース（EBSCO社）への転載に関する告知】</h3>
   <p class="text-end">2020年8月26日<br>日本地図学会　常任委員会</p>
   <p>
