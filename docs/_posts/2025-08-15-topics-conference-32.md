@@ -3,7 +3,7 @@ permalink: /topics/conference/32
 
 layout: topics_detail
 title: 日本地図学会 2025年度 定期大会のお知らせ（第3報）
-description: 2025年度定期大会のスケジュールおよびプログラムを掲載しました。
+description: 2025年度定期大会のスケジュールおよびプログラムを掲載しました。プログラムを一部修正しました。
 thumbnail: /assets/img/topics/jcacj_annualconference_760x520.jpg
 bodyclass: topics-detail
 categories:
@@ -38,6 +38,8 @@ tags:
 ### プログラム、定期大会案内
 **[日本地図学会2025年度定期大会のご案内・プログラム（第3報）（PDF形式）](../../archive/file/program/2025Hakone_program_3rd.pdf)**<br>
 <!--**[大会スケジュール（PDF形式）](../../archive/file/program/2024Tokyo_Schedule.pdf)<span style="color: red; ">※2024/8/14 スケジュールを変更しました</span>**<br>-->
+**<span style="color: red; ">※2025/8/19 プログラムを一部修正しました。</span>**<br>
+**<span style="color: red; ">※2025年定期大会のオンライン配信はありません。</span>**<br>
 
 ### 懇親会
 懇親会は小田原駅付近：サカナキュイジーヌRYOにて開催
