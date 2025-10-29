@@ -22,4 +22,4 @@ tags:
 
 ※ 詳細および参加申込は、準備が出来次第掲載します。
 
-[滋賀県立琵琶湖博物館 第33回 企画展示「川を描く　川をつくる」]([https://www.biwahaku.jp/event/2025/07/33.html](https://www.biwahaku.jp/event/2025/07/33.html))
+[滋賀県立琵琶湖博物館 第33回 企画展示「川を描く　川をつくる」](https://www.biwahaku.jp/event/2025/07/33.html)
