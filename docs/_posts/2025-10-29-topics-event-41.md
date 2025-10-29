@@ -4,7 +4,7 @@ permalink: /topics/event/41
 layout: topics_detail
 title: 学校GIS教育専門部会 例会 「地図とGISの練成会 Vol.2」のお知らせ
 description: 日本地図学会 学校GIS教育専門部会 例会として、「地図とGISの練成会 Vol.2 "MANDARA JS" 特練」を開催します。
-thumbnail: /assets/img/topics/noimage01.jpg
+thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
 categories:
   - event
