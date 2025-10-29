@@ -5,7 +5,7 @@ layout: topics_detail
 title: 2025年度例会「古地図による企画展　滋賀県立琵琶湖博物館　川を描く　川をつくる」開催のお知らせ
 
 description: 2025年度例会「古地図による企画展　滋賀県立琵琶湖博物館　川を描く　川をつくる」を開催いたします。
-thumbnail: /assets/img/topics/noimage01.jpg
+thumbnail: /assets/img/main/noimage01.jpg
 bodyclass: topics-detail
 categories:
   - event
