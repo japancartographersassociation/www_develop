@@ -112,7 +112,7 @@ information: [
   <div class="top--section">
     <div class="container">
       <h3 class="top-h3">メンテナンス情報</h3>
-      <p class="top-heading-text" align="center">日本地図学会ホームページリニューアルたの、2025年12月27日から31日まで断続的にサイトがダウンする場合がございます。あらかじめご了承ください。</p>
+      <p class="top-heading-text" align="center">日本地図学会ホームページは、サーバー メンテナンスのため2025年12月27日から31日の期間、断続的にサイトがダウンする場合がございます。あらかじめご了承ください。</p>
     </div>
   </div>
 </section>
