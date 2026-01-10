@@ -1,5 +1,5 @@
 # 日本地図学会 公式ウェブサイト管理ルール
-
+2025年12月末までの運用。2026年以降はWordPress管理に変更した。運用マニュアルはウェブサイト内に記載。
 <img width="1172" alt="スクリーンショット 2023-12-22 9 13 44" src="https://github.com/japancartographersassociation/README/assets/416977/ef6ce94a-6baa-477f-99b2-bf52a0af51e1">
 
 ## 広報用原稿投稿フォーム
