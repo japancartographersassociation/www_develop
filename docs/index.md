@@ -99,7 +99,7 @@ information: [
 <section>
   <div class="top--section">
     <div class="container">
-      <h3 class="top-h3"><span><a href="https://jcacj.org/topics/conference/24">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
+      <h3 class="top-h3"><span><a href="/www_develop/topics/conference/24">日本地図学会<br class="d-md-none">2023年度定期大会</a></span></h3>
       <p class="top-heading-text"><span class="large">2023年度定期大会は終了いたしました。</span><br>Discordの「発表会場」チャンネルにて活発な議論にご参加頂いた皆様、ありがとうございました<br></p>
       <div class="button-discord">
         <a href="https://discord.gg/MEVck7H"><img src="{{ site.baseurl }}/assets/img/main/btn_discord.svg" class="w-100" alt=""></a>
@@ -129,7 +129,7 @@ information: [
   <div class="top--section">
     <div class="container">
       <h3 class="top-h3">日本地図学会監訳<br>『Mapping for a Sustainable World - 持続可能な世界のための地図作成』<br>Web公開</h3>
-      <p class="top-heading-text" align="center">機関誌『地図』62巻1号の添付冊子として刊行されました、<br>日本地図学会監訳『Mapping for a Sustainable World - 持続可能な世界のための地図作成』がWeb公開されました。<br>詳細は<a href="https://jcacj.org/topics/official/08" target="_blank">こちらのサイト</a>をご覧ください。</p>
+      <p class="top-heading-text" align="center">機関誌『地図』62巻1号の添付冊子として刊行されました、<br>日本地図学会監訳『Mapping for a Sustainable World - 持続可能な世界のための地図作成』がWeb公開されました。<br>詳細は<a href="/www_develop/topics/official/08" target="_blank">こちらのサイト</a>をご覧ください。</p>
       <p class="top-heading-text" align="center"><img src="/assets/img/topics/MSW_small02.png" alt="" /></p>
     </div>
   </div>
