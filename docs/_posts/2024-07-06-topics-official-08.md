@@ -11,7 +11,7 @@ tags:
   - 学会公式
 ---
 # 日本地図学会監訳<br>『Mapping for a Sustainable World －持続可能な世界のための地図作成－』Web公開のお知らせ
-![MSW](https://jcacj.org/assets/img/topics/MSW.png){:.w-100}
+![MSW](/www_develop//assets/img/topics/MSW.png){:.w-100}
 {:.main-image}
 
 ## 編集委員より

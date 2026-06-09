@@ -11,7 +11,7 @@ tags:
   - 学会公式
 ---
 # 南海トラフ地震臨時情報発表に伴う日本地図学会からの情報提供：国土地理院 ハザードマップポータルサイトのご紹介
-![hazardmapportal](/assets/img/topics/hazardmapportal.jpg){:.w-100}
+![hazardmapportal](/www_develop/assets/img/topics/hazardmapportal.jpg){:.w-100}
 {:.main-image}
 
 ## 国土地理院 ハザードマップポータルサイトのご紹介

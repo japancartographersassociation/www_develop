@@ -32,4 +32,4 @@ tags:
 　野上道男 会員
 <br>
 <br>
-受賞理由、過去の学会賞受賞者は，[学会賞](https://jcacj.org/jcacjaward.html) のページをご覧ください。
+受賞理由、過去の学会賞受賞者は，[学会賞](/www_develop/jcacjaward.html) のページをご覧ください。
